@@ -1,5 +1,5 @@
 # -*- mode: org; fill-column: 78; -*-
-# Time-stamp: <2024-08-09 18:35:29 krylon>
+# Time-stamp: <2024-08-09 18:45:14 krylon>
 #
 #+TAGS: internals(i) ui(u) bug(b) feature(f)
 #+TAGS: database(d) design(e), meditation(m)
@@ -28,6 +28,28 @@
    :COOKIE_DATA: todo recursive
    :VISIBILITY: children
    :END:
+*** Extractor [0/0]
+    :PROPERTIES:
+    :COOKIE_DATA: todo recursive
+    :VISIBILITY: children
+    :END:
+    I need to get data out of the system log(s). On BSD systems, this should
+    be easy, on Linux systems using journald, it should be possible at the
+    very least.
+    ... Oh, I see there are Python bindings to talk to systemd. Okay, that
+    shouldn't be too hard.
+*** Database [0/0]
+    :PROPERTIES:
+    :COOKIE_DATA: todo recursive
+    :VISIBILITY: children
+    :END:
+*** Network [0/0]
+    :PROPERTIES:
+    :COOKIE_DATA: todo recursive
+    :VISIBILITY: children
+    :END:
+**** Server [0/0]
+**** Agent [0/0]
 ** Bugs [0/0]
    :PROPERTIES:
    :COOKIE_DATA: todo recursive
