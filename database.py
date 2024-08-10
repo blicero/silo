@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-10 23:36:05 krylon>
+# Time-stamp: <2024-08-11 00:14:08 krylon>
 #
 # /data/code/python/silo/database.py
 # created on 10. 08. 2024
@@ -33,7 +33,7 @@ InitQueries: Final[list[str]] = [
     CREATE TABLE host (
         id              INTEGER PRIMARY KEY,
         name            TEXT UNIQUE NOT NULL,
-        last_contact    INTEGER NOT NULL DEFAULT 0,
+        last_contact    INTEGER NOT NULL DEFAULT 0
     ) STRICT
     """,
     "CREATE UNIQUE INDEX host_name_idx ON host (name)",
@@ -127,8 +127,14 @@ class Database:
         """Initialize a newly created database."""
         with self.db:
             for query in InitQueries:
-                cur: sqlite3.Cursor = self.db.cursor()
-                cur.execute(query)
+                try:
+                    cur: sqlite3.Cursor = self.db.cursor()
+                    cur.execute(query)
+                except sqlite3.OperationalError as err:
+                    self.log.error("Error executing init query: %s\n%s\n",
+                                   err,
+                                   query)
+                    raise
 
     def __enter__(self) -> None:
         """Begin a transaction."""
