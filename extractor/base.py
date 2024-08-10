@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-09 21:41:15 krylon>
+# Time-stamp: <2024-08-10 19:54:49 krylon>
 #
 # /data/code/python/silo/extractor/base.py
 # created on 09. 08. 2024
@@ -18,7 +18,7 @@ silo.base
 
 from abc import ABC, abstractmethod
 
-from silo import data
+from silo.data import Record
 
 
 class BaseExtractor(ABC):
@@ -27,17 +27,18 @@ class BaseExtractor(ABC):
     @abstractmethod
     def init(self) -> None:
         """Open the log."""
-        ...
 
     @abstractmethod
-    def read(self) -> list[data.Record]:
+    def read_next(self) -> Record:
+        """Read one Record from the log."""
+
+    @abstractmethod
+    def read(self) -> list[Record]:
         """Read the log."""
-        ...
 
     @abstractmethod
     def close(self) -> None:
         """Close the log."""
-        ...
 
 # Local Variables: #
 # python-indent: 4 #

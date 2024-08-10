@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-09 18:56:05 krylon>
+# Time-stamp: <2024-08-10 21:22:35 krylon>
 #
 # /data/code/python/silo/data.py
 # created on 09. 08. 2024
@@ -21,11 +21,19 @@ from datetime import datetime
 
 
 @dataclass(slots=True, kw_only=True)
+class Host:
+    """Host represents a Host on the network."""
+
+    host_id: int = 0
+    name: str
+
+
+@dataclass(slots=True, kw_only=True)
 class Record:
     """Record represents a single log record."""
 
-    record_id: int
-    host_id: int
+    record_id: int = 0
+    host_id: int = 0
     timestamp: datetime
     source: str
     message: str

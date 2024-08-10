@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-09 21:40:46 krylon>
+# Time-stamp: <2024-08-10 20:37:39 krylon>
 #
 # /data/code/python/silo/extractor/journald.py
 # created on 09. 08. 2024
@@ -35,9 +35,10 @@ class JournaldExtractor(BaseExtractor):
         self.rdr = Reader()
 
     def init(self) -> None:
-        pass
+        """Prepare the Extractor for reading."""
 
     def read_next(self) -> Record:
+        """Read one record from the log."""
         raw = self.rdr.get_next()
         rec = Record(
             timestamp=raw["__REALTIME_TIMESTAMP"],
@@ -46,6 +47,18 @@ class JournaldExtractor(BaseExtractor):
         )
 
         return rec
+
+    def read(self) -> list[Record]:
+        """Read the log."""
+        l: list[Record] = []
+        for raw in self.rdr:
+            rec = Record(
+                timestamp=raw["__REALTIME_TIMESTAMP"],
+                message=raw["MESSAGE"],
+                source=raw["_COMM"],
+            )
+            l.append(rec)
+        return l
 
 # Local Variables: #
 # python-indent: 4 #
