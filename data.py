@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-10 21:22:35 krylon>
+# Time-stamp: <2024-08-10 22:42:37 krylon>
 #
 # /data/code/python/silo/data.py
 # created on 09. 08. 2024
@@ -26,6 +26,7 @@ class Host:
 
     host_id: int = 0
     name: str
+    last_contact: datetime = datetime.fromtimestamp(0)
 
 
 @dataclass(slots=True, kw_only=True)
