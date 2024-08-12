@@ -1,6 +1,7 @@
-# Time-stamp: <2024-08-06 17:34:34 krylon>
+# Time-stamp: <2024-08-12 20:13:55 krylon>
 [flake8]
 extend-ignore = D400,D107,D205
 max-line-length = 99
 per-file-ignores =
                  test_database.py: E501
+                 extractor/test_syslog.py: E501
