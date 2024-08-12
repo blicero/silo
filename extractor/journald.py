@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-12 18:18:32 krylon>
+# Time-stamp: <2024-08-12 18:48:51 krylon>
 #
 # /data/code/python/silo/extractor/journald.py
 # created on 09. 08. 2024
@@ -18,9 +18,10 @@ silo.extractor.journald
 
 from datetime import datetime
 
+from systemd.journal import Reader
+
 from silo.data import Record
 from silo.extractor.base import BaseExtractor
-from systemd.journal import Reader
 
 
 class JournaldExtractor(BaseExtractor):
