@@ -1,0 +1,1287 @@
+Aug  9 07:00:00 wintermute newsyslog[17602]: logfile turned over due to size>1000K
+Aug  9 07:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 07:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:00:38 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 07:01:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 07:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 07:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:04:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 07:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:06:26 wintermute dhcpd[1289]: uid lease 10.10.42.3 for client 10:0b:a9:75:46:40 is duplicate on 10.10.0.0/16
+Aug  9 07:06:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:06:39 wintermute dhcpd[1289]: uid lease 10.10.42.34 for client 80:3f:5d:17:4c:f3 is duplicate on 10.10.0.0/16
+Aug  9 07:06:47 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 07:06:49 wintermute dhcpd[1289]: uid lease 10.10.42.15 for client 00:19:db:01:7b:4d is duplicate on 10.10.0.0/16
+Aug  9 07:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 07:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 07:08:26 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 07:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:09:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:11:37 wintermute syslogd: last message repeated 2 times
+Aug  9 07:13:37 wintermute syslogd: last message repeated 2 times
+Aug  9 07:14:00 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 07:14:37 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 07:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 07:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:15:48 wintermute named[951]: clients-per-query decreased to 13
+Aug  9 07:16:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 07:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 07:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:19:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 07:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:20:53 wintermute syslogd: last message repeated 1 times
+Aug  9 07:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:21:47 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 07:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 07:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 07:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:24:31 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 07:24:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:25:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:27:37 wintermute syslogd: last message repeated 2 times
+Aug  9 07:27:50 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 07:28:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:29:00 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 07:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 07:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 07:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 07:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:34:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 07:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:35:48 wintermute named[951]: clients-per-query decreased to 12
+Aug  9 07:36:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:36:47 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 07:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 07:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 07:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:39:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:40:16 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 07:40:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:41:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:41:53 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 07:42:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:43:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:44:00 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 07:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 07:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 07:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 07:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:49:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 07:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:51:47 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 07:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 07:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 07:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:54:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:55:22 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 07:55:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:55:42 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 07:55:48 wintermute named[951]: clients-per-query decreased to 11
+Aug  9 07:56:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 07:57:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:58:37 wintermute syslogd: last message repeated 1 times
+Aug  9 07:59:00 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 07:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 08:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 08:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 08:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:04:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 08:04:49 wintermute named[951]: clients-per-query increased to 16
+Aug  9 08:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:06:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:06:42 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 08:06:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 08:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 08:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 08:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:09:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:11:37 wintermute syslogd: last message repeated 2 times
+Aug  9 08:11:51 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 08:12:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:13:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:14:00 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 08:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 08:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 08:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 08:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:19:31 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 08:19:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 08:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:21:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 08:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 08:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 08:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:24:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:24:49 wintermute named[951]: clients-per-query decreased to 15
+Aug  9 08:25:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:26:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:27:09 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 08:27:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:28:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:29:00 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 08:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 08:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 08:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 08:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:33:40 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 08:34:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:34:39 wintermute named[951]: clients-per-query increased to 20
+Aug  9 08:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 08:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:36:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:36:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 08:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 08:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 08:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:39:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:41:37 wintermute syslogd: last message repeated 2 times
+Aug  9 08:43:37 wintermute syslogd: last message repeated 2 times
+Aug  9 08:44:00 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 08:44:05 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 08:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 08:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 08:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 08:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 08:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:49:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 08:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:51:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 08:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 08:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 08:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:54:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:54:39 wintermute named[951]: clients-per-query decreased to 19
+Aug  9 08:55:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 08:56:37 wintermute syslogd: last message repeated 1 times
+Aug  9 08:58:37 wintermute syslogd: last message repeated 2 times
+Aug  9 08:59:01 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 08:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:00:13 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 09:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 09:00:28 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 09:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 09:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 09:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:04:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 09:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:06:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:06:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 09:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 09:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 09:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:09:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:11:37 wintermute syslogd: last message repeated 2 times
+Aug  9 09:12:20 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 09:12:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:13:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:14:01 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 09:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:14:39 wintermute named[951]: clients-per-query decreased to 18
+Aug  9 09:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 09:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:17:24 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 09:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 09:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 09:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:19:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 09:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:21:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 09:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 09:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 09:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:24:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:25:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:26:23 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 09:26:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:27:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:28:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:29:01 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 09:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 09:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 09:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 09:33:11 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 09:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:34:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:34:39 wintermute named[951]: clients-per-query decreased to 17
+Aug  9 09:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 09:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:36:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:36:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 09:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 09:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 09:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:39:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:39:41 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 09:40:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:41:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:43:37 wintermute syslogd: last message repeated 2 times
+Aug  9 09:44:01 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 09:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 09:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 09:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 09:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:48:51 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 09:49:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 09:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:51:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 09:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 09:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 09:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:53:54 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 09:54:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:54:39 wintermute named[951]: clients-per-query decreased to 16
+Aug  9 09:54:49 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 09:54:49 wintermute syslogd: last message repeated 1 times
+Aug  9 09:55:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 09:56:37 wintermute syslogd: last message repeated 1 times
+Aug  9 09:58:37 wintermute syslogd: last message repeated 2 times
+Aug  9 09:59:01 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 09:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 10:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 10:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 10:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:04:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 10:05:02 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 10:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:06:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:06:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 10:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 10:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 10:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 10:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:09:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:10:06 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 10:10:06 wintermute syslogd: last message repeated 1 times
+Aug  9 10:10:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:11:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:13:37 wintermute syslogd: last message repeated 2 times
+Aug  9 10:14:01 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 10:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:14:39 wintermute named[951]: clients-per-query decreased to 15
+Aug  9 10:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 10:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 10:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 10:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:19:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 10:20:05 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 10:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:21:38 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 10:21:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 10:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 10:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 10:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:24:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:26:37 wintermute syslogd: last message repeated 2 times
+Aug  9 10:28:37 wintermute syslogd: last message repeated 2 times
+Aug  9 10:29:01 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 10:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 10:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 10:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 10:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:34:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:34:39 wintermute named[951]: clients-per-query decreased to 14
+Aug  9 10:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 10:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:35:42 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 10:36:02 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 10:36:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:36:48 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 10:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 10:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 10:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:39:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:39:47 wintermute named[951]: clients-per-query increased to 19
+Aug  9 10:40:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:41:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:43:37 wintermute syslogd: last message repeated 2 times
+Aug  9 10:44:01 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 10:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 10:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 10:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 10:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:49:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 10:49:53 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 10:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:51:22 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 10:51:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:51:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 10:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 10:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 10:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:54:37 wintermute syslogd: last message repeated 1 times
+Aug  9 10:56:37 wintermute syslogd: last message repeated 2 times
+Aug  9 10:58:37 wintermute syslogd: last message repeated 2 times
+Aug  9 10:59:02 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 10:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 10:59:47 wintermute named[951]: clients-per-query decreased to 18
+Aug  9 11:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 11:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 11:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:02:39 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 11:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 11:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:04:27 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 11:04:27 wintermute syslogd: last message repeated 1 times
+Aug  9 11:04:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 11:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:06:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:06:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 11:07:10 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 11:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 11:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 11:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:09:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:11:37 wintermute syslogd: last message repeated 2 times
+Aug  9 11:13:37 wintermute syslogd: last message repeated 2 times
+Aug  9 11:14:02 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 11:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 11:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 11:17:32 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 11:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 11:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:19:27 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 11:19:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 11:19:47 wintermute named[951]: clients-per-query decreased to 17
+Aug  9 11:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:21:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 11:22:16 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 11:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 11:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 11:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:24:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:26:37 wintermute syslogd: last message repeated 2 times
+Aug  9 11:28:37 wintermute syslogd: last message repeated 2 times
+Aug  9 11:29:02 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 11:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 11:30:28 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 11:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 11:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 11:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:34:28 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 11:34:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 11:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:36:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:36:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 11:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 11:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 11:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:39:23 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 11:39:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:39:47 wintermute named[951]: clients-per-query decreased to 16
+Aug  9 11:40:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:41:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:42:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:43:09 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 11:43:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:44:02 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 11:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 11:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 11:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 11:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:49:28 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 11:49:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 11:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:51:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 11:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 11:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 11:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:54:32 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 11:54:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:55:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:56:37 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 11:56:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:57:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:58:37 wintermute syslogd: last message repeated 1 times
+Aug  9 11:59:02 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 11:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 11:59:47 wintermute named[951]: clients-per-query decreased to 15
+Aug  9 12:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 12:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 12:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 12:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:04:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 12:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:06:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:06:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 12:07:06 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 12:07:06 wintermute syslogd: last message repeated 1 times
+Aug  9 12:07:28 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 12:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 12:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 12:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:09:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:11:37 wintermute syslogd: last message repeated 2 times
+Aug  9 12:12:18 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 12:12:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:13:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:14:02 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 12:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 12:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 12:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 12:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:19:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 12:19:47 wintermute named[951]: clients-per-query decreased to 14
+Aug  9 12:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:21:39 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 12:21:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 12:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 12:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 12:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:24:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:26:37 wintermute syslogd: last message repeated 2 times
+Aug  9 12:28:37 wintermute syslogd: last message repeated 2 times
+Aug  9 12:29:02 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 12:29:03 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 12:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 12:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 12:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 12:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:34:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:34:39 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 12:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 12:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:36:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:36:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 12:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 12:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 12:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:39:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:39:47 wintermute named[951]: clients-per-query decreased to 13
+Aug  9 12:40:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:41:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:43:37 wintermute syslogd: last message repeated 2 times
+Aug  9 12:44:02 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 12:44:36 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 12:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 12:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 12:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 12:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:48:39 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 12:49:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 12:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:51:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 12:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 12:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 12:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:54:37 wintermute syslogd: last message repeated 1 times
+Aug  9 12:56:37 wintermute syslogd: last message repeated 2 times
+Aug  9 12:58:37 wintermute syslogd: last message repeated 2 times
+Aug  9 12:59:03 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 12:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 12:59:47 wintermute named[951]: clients-per-query decreased to 12
+Aug  9 13:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 13:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:01:33 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 13:01:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:02:20 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 13:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 13:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 13:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:04:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 13:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:06:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:06:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 13:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 13:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 13:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:09:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:10:33 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 13:10:33 wintermute syslogd: last message repeated 1 times
+Aug  9 13:10:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:11:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:12:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:12:51 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 13:13:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:14:03 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 13:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 13:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 13:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 13:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:19:02 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 13:19:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 13:19:47 wintermute named[951]: clients-per-query decreased to 11
+Aug  9 13:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:21:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 13:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 13:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 13:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:24:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:25:33 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 13:25:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:26:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:27:06 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 13:27:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:28:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:29:03 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 13:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 13:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 13:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 13:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:34:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 13:34:59 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 13:35:00 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 13:35:00 wintermute syslogd: last message repeated 1 times
+Aug  9 13:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:36:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:36:49 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 13:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 13:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 13:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:39:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:39:47 wintermute named[951]: clients-per-query decreased to 10
+Aug  9 13:40:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:40:55 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 13:41:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:42:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:43:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:44:03 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 13:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 13:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 13:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 13:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:49:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 13:50:00 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 13:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:50:43 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 13:51:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:51:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 13:52:35 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 13:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 13:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 13:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 13:54:37 wintermute syslogd: last message repeated 1 times
+Aug  9 13:56:37 wintermute syslogd: last message repeated 2 times
+Aug  9 13:58:37 wintermute syslogd: last message repeated 2 times
+Aug  9 13:59:03 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 13:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 14:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 14:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 14:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:04:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 14:05:30 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 14:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:05:46 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 14:06:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:06:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 14:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 14:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 14:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:09:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:11:37 wintermute syslogd: last message repeated 2 times
+Aug  9 14:13:37 wintermute syslogd: last message repeated 2 times
+Aug  9 14:14:03 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 14:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 14:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 14:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 14:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:19:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 14:19:55 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 14:19:55 wintermute syslogd: last message repeated 1 times
+Aug  9 14:20:09 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 14:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:21:08 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 14:21:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:21:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 14:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 14:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 14:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:24:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:26:37 wintermute syslogd: last message repeated 2 times
+Aug  9 14:28:37 wintermute syslogd: last message repeated 2 times
+Aug  9 14:29:03 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 14:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 14:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 14:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 14:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:34:37 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 14:34:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 14:34:56 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 14:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:36:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:36:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 14:37:23 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 14:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 14:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 14:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:39:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:41:37 wintermute syslogd: last message repeated 2 times
+Aug  9 14:43:37 wintermute syslogd: last message repeated 2 times
+Aug  9 14:44:03 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 14:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 14:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:46:35 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 14:46:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 14:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 14:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:48:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 14:49:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 14:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:51:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 14:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 14:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 14:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:53:49 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 14:54:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:55:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:56:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:57:06 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 14:57:06 wintermute syslogd: last message repeated 1 times
+Aug  9 14:57:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 14:58:37 wintermute syslogd: last message repeated 1 times
+Aug  9 14:59:03 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 14:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 15:00:33 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 15:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 15:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 15:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:03:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 15:04:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 15:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:06:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:06:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 15:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 15:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 15:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:09:06 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 15:09:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:10:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:11:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:12:06 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 15:12:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:13:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:14:04 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 15:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 15:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 15:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 15:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:18:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 15:19:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 15:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:21:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 15:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 15:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 15:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:24:05 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 15:24:24 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 15:24:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:25:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:27:37 wintermute syslogd: last message repeated 2 times
+Aug  9 15:28:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:29:04 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 15:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 15:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 15:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 15:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:33:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 15:34:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 15:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:36:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:36:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 15:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 15:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 15:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:38:48 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 15:39:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:40:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:41:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:41:50 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 15:42:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:43:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:44:04 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 15:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 15:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:46:40 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 15:46:40 wintermute syslogd: last message repeated 1 times
+Aug  9 15:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 15:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 15:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:48:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 15:49:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 15:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:51:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 15:51:54 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 15:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 15:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 15:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:54:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:56:37 wintermute syslogd: last message repeated 2 times
+Aug  9 15:57:10 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 15:57:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 15:58:37 wintermute syslogd: last message repeated 1 times
+Aug  9 15:59:04 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 15:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 16:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:01:41 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 16:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 16:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 16:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:03:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 16:04:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 16:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:06:15 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 16:06:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:06:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 16:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 16:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 16:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:09:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:11:37 wintermute syslogd: last message repeated 2 times
+Aug  9 16:12:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:12:59 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 16:13:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:14:04 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 16:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 16:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:16:41 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 16:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 16:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 16:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:18:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 16:18:57 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 16:19:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 16:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:21:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 16:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 16:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 16:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:24:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:26:37 wintermute syslogd: last message repeated 2 times
+Aug  9 16:28:37 wintermute syslogd: last message repeated 2 times
+Aug  9 16:28:42 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 16:29:04 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 16:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 16:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:30:39 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 16:31:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:31:41 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 16:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 16:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 16:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:33:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 16:34:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:34:42 wintermute named[951]: clients-per-query increased to 15
+Aug  9 16:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 16:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:36:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:36:50 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 16:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 16:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 16:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:39:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:41:37 wintermute syslogd: last message repeated 2 times
+Aug  9 16:42:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:43:11 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 16:43:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:44:04 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 16:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 16:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:46:03 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 16:46:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:46:41 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 16:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 16:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 16:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:48:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 16:49:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 16:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:51:51 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 16:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 16:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 16:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:54:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:54:42 wintermute named[951]: clients-per-query decreased to 14
+Aug  9 16:55:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:55:54 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 16:56:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 16:57:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:58:37 wintermute syslogd: last message repeated 1 times
+Aug  9 16:59:04 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 16:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 17:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:01:42 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 17:02:12 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 17:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 17:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 17:03:32 wintermute named[951]: clients-per-query increased to 19
+Aug  9 17:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:03:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 17:04:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 17:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:06:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:06:51 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 17:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 17:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 17:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:09:16 wintermute dhcpd[1289]: uid lease 10.10.42.3 for client 10:0b:a9:75:46:40 is duplicate on 10.10.0.0/16
+Aug  9 17:09:18 wintermute dhcpd[1289]: uid lease 10.10.42.15 for client 00:19:db:01:7b:4d is duplicate on 10.10.0.0/16
+Aug  9 17:09:32 wintermute dhcpd[1289]: uid lease 10.10.42.2 for client b0:c0:90:59:8b:e2 is duplicate on 10.10.0.0/16
+Aug  9 17:09:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:09:56 wintermute dhcpd[1289]: uid lease 10.10.42.2 for client b0:c0:90:59:8b:e2 is duplicate on 10.10.0.0/16
+Aug  9 17:10:09 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 17:10:23 wintermute dhcpd[1289]: uid lease 10.10.42.34 for client 80:3f:5d:17:4c:f3 is duplicate on 10.10.0.0/16
+Aug  9 17:10:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:10:57 wintermute dhcpd[1289]: uid lease 10.10.42.81 for client d0:e1:40:9c:83:0a is duplicate on 10.10.0.0/16
+Aug  9 17:11:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:12:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:13:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:14:05 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 17:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 17:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:16:42 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 17:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 17:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:17:47 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 17:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 17:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:18:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 17:19:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 17:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:21:51 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 17:22:02 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 17:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 17:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 17:23:32 wintermute named[951]: clients-per-query decreased to 18
+Aug  9 17:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:24:16 wintermute dhcpd[1289]: uid lease 10.10.42.3 for client 10:0b:a9:75:46:40 is duplicate on 10.10.0.0/16
+Aug  9 17:24:18 wintermute dhcpd[1289]: uid lease 10.10.42.15 for client 00:19:db:01:7b:4d is duplicate on 10.10.0.0/16
+Aug  9 17:24:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:24:55 wintermute dhcpd[1289]: uid lease 10.10.42.2 for client b0:c0:90:59:8b:e2 is duplicate on 10.10.0.0/16
+Aug  9 17:25:23 wintermute dhcpd[1289]: uid lease 10.10.42.34 for client 80:3f:5d:17:4c:f3 is duplicate on 10.10.0.0/16
+Aug  9 17:25:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:25:57 wintermute dhcpd[1289]: uid lease 10.10.42.81 for client d0:e1:40:9c:83:0a is duplicate on 10.10.0.0/16
+Aug  9 17:26:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:27:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:28:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:29:05 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 17:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 17:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:31:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:31:41 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 17:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 17:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 17:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:33:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 17:34:28 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 17:34:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 17:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:35:39 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 17:36:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:36:51 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 17:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 17:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 17:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:39:16 wintermute dhcpd[1289]: uid lease 10.10.42.3 for client 10:0b:a9:75:46:40 is duplicate on 10.10.0.0/16
+Aug  9 17:39:19 wintermute dhcpd[1289]: uid lease 10.10.42.15 for client 00:19:db:01:7b:4d is duplicate on 10.10.0.0/16
+Aug  9 17:39:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:39:55 wintermute dhcpd[1289]: uid lease 10.10.42.2 for client b0:c0:90:59:8b:e2 is duplicate on 10.10.0.0/16
+Aug  9 17:40:23 wintermute dhcpd[1289]: uid lease 10.10.42.34 for client 80:3f:5d:17:4c:f3 is duplicate on 10.10.0.0/16
+Aug  9 17:40:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:40:57 wintermute dhcpd[1289]: uid lease 10.10.42.81 for client d0:e1:40:9c:83:0a is duplicate on 10.10.0.0/16
+Aug  9 17:41:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:42:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:43:32 wintermute named[951]: clients-per-query decreased to 17
+Aug  9 17:43:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:44:05 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 17:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 17:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:46:42 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 17:46:51 wintermute named[951]: DNS format error from 31.24.24.8#53 resolving mirror.tspu.edu.ru/AAAA for 10.10.4.1#60898: empty question section
+Aug  9 17:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 17:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 17:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:48:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 17:49:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 17:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 17:50:26 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 17:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:51:51 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 17:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 17:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 17:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:54:16 wintermute dhcpd[1289]: uid lease 10.10.42.3 for client 10:0b:a9:75:46:40 is duplicate on 10.10.0.0/16
+Aug  9 17:54:20 wintermute dhcpd[1289]: uid lease 10.10.42.15 for client 00:19:db:01:7b:4d is duplicate on 10.10.0.0/16
+Aug  9 17:54:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:55:00 wintermute dhcpd[1289]: uid lease 10.10.42.2 for client b0:c0:90:59:8b:e2 is duplicate on 10.10.0.0/16
+Aug  9 17:55:01 wintermute syslogd: last message repeated 1 times
+Aug  9 17:55:23 wintermute dhcpd[1289]: uid lease 10.10.42.34 for client 80:3f:5d:17:4c:f3 is duplicate on 10.10.0.0/16
+Aug  9 17:55:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:55:57 wintermute dhcpd[1289]: uid lease 10.10.42.81 for client d0:e1:40:9c:83:0a is duplicate on 10.10.0.0/16
+Aug  9 17:56:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:56:43 wintermute dhcpd[1289]: uid lease 10.10.42.2 for client b0:c0:90:59:8b:e2 is duplicate on 10.10.0.0/16
+Aug  9 17:57:02 wintermute syslogd: last message repeated 1 times
+Aug  9 17:57:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 17:58:37 wintermute syslogd: last message repeated 1 times
+Aug  9 17:59:05 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 17:59:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:00:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 18:00:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:01:37 wintermute syslogd: last message repeated 1 times
+Aug  9 18:01:42 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 18:02:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 18:02:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:03:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 18:03:32 wintermute named[951]: clients-per-query decreased to 16
+Aug  9 18:03:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:03:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 18:04:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:04:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 18:05:27 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 18:05:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:06:37 wintermute syslogd: last message repeated 1 times
+Aug  9 18:06:52 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 18:06:59 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 18:07:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:07:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 18:08:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 18:08:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:09:16 wintermute dhcpd[1289]: uid lease 10.10.42.3 for client 10:0b:a9:75:46:40 is duplicate on 10.10.0.0/16
+Aug  9 18:09:21 wintermute dhcpd[1289]: uid lease 10.10.42.15 for client 00:19:db:01:7b:4d is duplicate on 10.10.0.0/16
+Aug  9 18:09:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:10:23 wintermute dhcpd[1289]: uid lease 10.10.42.34 for client 80:3f:5d:17:4c:f3 is duplicate on 10.10.0.0/16
+Aug  9 18:10:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:10:57 wintermute dhcpd[1289]: uid lease 10.10.42.81 for client d0:e1:40:9c:83:0a is duplicate on 10.10.0.0/16
+Aug  9 18:11:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:12:02 wintermute dhcpd[1289]: uid lease 10.10.42.2 for client b0:c0:90:59:8b:e2 is duplicate on 10.10.0.0/16
+Aug  9 18:12:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:13:37 wintermute syslogd: last message repeated 1 times
+Aug  9 18:14:05 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 18:14:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:15:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 18:15:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:16:37 wintermute syslogd: last message repeated 1 times
+Aug  9 18:17:07 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 18:17:07 wintermute syslogd: last message repeated 1 times
+Aug  9 18:17:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 18:17:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:18:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 18:18:32 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 18:18:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:18:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 18:19:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:19:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 18:20:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:21:37 wintermute syslogd: last message repeated 1 times
+Aug  9 18:21:52 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 18:22:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:22:52 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 18:22:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 18:23:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 18:23:32 wintermute named[951]: clients-per-query decreased to 15
+Aug  9 18:23:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:24:16 wintermute dhcpd[1289]: uid lease 10.10.42.3 for client 10:0b:a9:75:46:40 is duplicate on 10.10.0.0/16
+Aug  9 18:24:22 wintermute dhcpd[1289]: uid lease 10.10.42.15 for client 00:19:db:01:7b:4d is duplicate on 10.10.0.0/16
+Aug  9 18:24:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:25:23 wintermute dhcpd[1289]: uid lease 10.10.42.34 for client 80:3f:5d:17:4c:f3 is duplicate on 10.10.0.0/16
+Aug  9 18:25:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:25:57 wintermute dhcpd[1289]: uid lease 10.10.42.81 for client d0:e1:40:9c:83:0a is duplicate on 10.10.0.0/16
+Aug  9 18:26:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:27:02 wintermute dhcpd[1289]: uid lease 10.10.42.2 for client b0:c0:90:59:8b:e2 is duplicate on 10.10.0.0/16
+Aug  9 18:27:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:28:37 wintermute syslogd: last message repeated 1 times
+Aug  9 18:29:05 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 18:29:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:30:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 18:30:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:30:51 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 18:31:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:32:07 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 18:32:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 18:32:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:33:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 18:33:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:33:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 18:34:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:34:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 18:35:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:36:37 wintermute syslogd: last message repeated 1 times
+Aug  9 18:36:52 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 18:37:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:37:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 18:38:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 18:38:25 wintermute dhcpd[1289]: uid lease 10.10.42.84 for client 52:54:00:ab:9e:33 is duplicate on 10.10.0.0/16
+Aug  9 18:38:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:39:08 wintermute dhcpd[1289]: uid lease 10.10.42.95 for client 2c:fe:e2:0b:33:47 is duplicate on 10.10.0.0/16
+Aug  9 18:39:08 wintermute syslogd: last message repeated 1 times
+Aug  9 18:39:16 wintermute dhcpd[1289]: uid lease 10.10.42.3 for client 10:0b:a9:75:46:40 is duplicate on 10.10.0.0/16
+Aug  9 18:39:23 wintermute dhcpd[1289]: uid lease 10.10.42.15 for client 00:19:db:01:7b:4d is duplicate on 10.10.0.0/16
+Aug  9 18:39:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:40:23 wintermute dhcpd[1289]: uid lease 10.10.42.34 for client 80:3f:5d:17:4c:f3 is duplicate on 10.10.0.0/16
+Aug  9 18:40:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:40:57 wintermute dhcpd[1289]: uid lease 10.10.42.81 for client d0:e1:40:9c:83:0a is duplicate on 10.10.0.0/16
+Aug  9 18:41:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:42:02 wintermute dhcpd[1289]: uid lease 10.10.42.2 for client b0:c0:90:59:8b:e2 is duplicate on 10.10.0.0/16
+Aug  9 18:42:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:43:04 wintermute dhcpd[1289]: uid lease 10.10.42.50 for client 58:9c:fc:0b:56:fd is duplicate on 10.10.0.0/16
+Aug  9 18:43:32 wintermute named[951]: clients-per-query decreased to 14
+Aug  9 18:43:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:44:05 wintermute dhcpd[1289]: uid lease 10.10.42.85 for client 52:54:00:d8:0c:dc is duplicate on 10.10.0.0/16
+Aug  9 18:44:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:45:24 wintermute dhcpd[1289]: uid lease 10.10.42.98 for client 58:9c:fc:01:14:e1 is duplicate on 10.10.0.0/16
+Aug  9 18:45:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:46:37 wintermute syslogd: last message repeated 1 times
+Aug  9 18:47:27 wintermute dhcpd[1289]: uid lease 10.10.42.17 for client b8:27:eb:91:2e:b1 is duplicate on 10.10.0.0/16
+Aug  9 18:47:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:48:08 wintermute dhcpd[1289]: uid lease 10.10.42.59 for client b8:27:eb:17:3e:52 is duplicate on 10.10.0.0/16
+Aug  9 18:48:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:48:45 wintermute dhcpd[1289]: uid lease 10.10.42.20 for client 00:22:43:56:a1:01 is duplicate on 10.10.0.0/16
+Aug  9 18:49:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:49:45 wintermute dhcpd[1289]: uid lease 10.10.42.83 for client a6:62:be:70:84:59 is duplicate on 10.10.0.0/16
+Aug  9 18:50:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:51:37 wintermute syslogd: last message repeated 1 times
+Aug  9 18:51:52 wintermute dhcpd[1289]: uid lease 10.10.42.86 for client 52:54:00:f6:1c:20 is duplicate on 10.10.0.0/16
+Aug  9 18:52:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:52:59 wintermute dhcpd[1289]: uid lease 10.10.42.94 for client 52:54:00:84:95:eb is duplicate on 10.10.0.0/16
+Aug  9 18:53:13 wintermute dhcpd[1289]: uid lease 10.10.42.93 for client 52:54:00:80:99:c0 is duplicate on 10.10.0.0/16
+Aug  9 18:53:37 wintermute named[951]: creating IPv6 interface bge0 failed; interface ignored
+Aug  9 18:54:16 wintermute dhcpd[1289]: uid lease 10.10.42.3 for client 10:0b:a9:75:46:40 is duplicate on 10.10.0.0/16
+Aug  9 18:54:24 wintermute dhcpd[1289]: uid lease 10.10.42.15 for client 00:19:db:01:7b:4d is duplicate on 10.10.0.0/16

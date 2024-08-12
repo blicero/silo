@@ -1,0 +1,1273 @@
+2024-07-26T15:00:01.477Z lucas newsyslog[30542]: logfile turned over
+Jul 26 17:00:01 lucas syslogd[8442]: restart
+Jul 26 17:03:37 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 26 17:25:25 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 26 18:18:10 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 19:00:11 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 19:44:56 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 26 19:52:35 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 26 19:56:06 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 20:00:01 lucas syslogd[8442]: restart
+Jul 26 20:24:35 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 20:27:28 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 20:31:32 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 20:32:40 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 20:50:58 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 21:00:02 lucas syslogd[8442]: restart
+Jul 26 21:24:03 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 21:29:05 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 26 22:04:08 lucas /bsd: nfs server 10.10.0.1:/data/Files: not responding
+Jul 26 22:07:04 lucas /bsd: nfs server 10.10.0.1:/data/Files: is alive again
+Jul 26 22:20:10 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 26 22:31:32 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 22:52:00 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 23:00:01 lucas syslogd[8442]: restart
+Jul 26 23:21:07 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 26 23:21:51 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 26 23:22:48 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 26 23:27:12 lucas apmd: system suspending
+Jul 26 23:27:12 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Jul 26 23:27:15 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Jul 26 23:27:15 lucas /bsd: uhub0 detached
+Jul 26 23:27:15 lucas /bsd: uhub1 detached
+Jul 26 23:27:15 lucas /bsd: uhub2 detached
+Jul 26 23:27:15 lucas /bsd: uhub3 detached
+Jul 26 23:27:15 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Jul 27 11:20:42 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Jul 27 11:20:42 lucas /bsd: rum0 detached
+Jul 27 11:20:42 lucas /bsd: uhub4 detached
+Jul 27 11:20:42 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 27 11:20:42 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 27 11:20:42 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 27 11:20:42 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 27 11:20:42 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Jul 27 11:20:42 lucas /bsd: inteldrm0: no ifp
+Jul 27 11:20:42 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Jul 27 11:20:42 lucas slaacd[30139]: delete_address: cannot find interface 40
+Jul 27 11:20:42 lucas last message repeated 3 times
+Jul 27 11:20:42 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 40
+Jul 27 11:20:42 lucas slaacd[30139]: failed to send route message: No such process
+Jul 27 11:20:42 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 27 11:20:42 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Jul 27 11:20:43 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Jul 27 11:20:43 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:45 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:45 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 27 11:20:46 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:46 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 27 11:20:48 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:48 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 27 11:20:49 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:49 lucas apmd: system resumed from sleep
+Jul 27 11:20:49 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Jul 27 11:20:50 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:50 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 27 11:20:51 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:52 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:52 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 27 11:20:53 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:54 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:54 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 27 11:20:55 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:56 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:56 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 27 11:20:57 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:58 lucas /bsd: pckbc: command timeout
+Jul 27 11:20:58 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 27 11:20:59 lucas /bsd: pckbc: command timeout
+Jul 27 11:21:00 lucas /bsd: pckbc: command timeout
+Jul 27 11:21:00 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 27 11:21:01 lucas /bsd: pckbc: command timeout
+Jul 27 11:21:02 lucas /bsd: pckbc: command timeout
+Jul 27 11:21:02 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 27 11:21:03 lucas /bsd: pckbc: command timeout
+Jul 27 11:25:42 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 27 11:45:26 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 27 11:49:48 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 11:57:30 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 11:58:44 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 12:04:57 lucas last message repeated 2 times
+Jul 27 12:15:52 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 12:42:53 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 12:54:47 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 27 15:11:18 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 27 15:27:25 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 16:49:22 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 27 17:46:23 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 27 17:58:42 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 18:41:53 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 19:03:09 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 20:00:01 lucas syslogd[8442]: restart
+Jul 27 20:19:47 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 20:37:40 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 20:54:48 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 20:56:43 lucas last message repeated 2 times
+Jul 27 21:00:01 lucas syslogd[8442]: restart
+Jul 27 21:02:09 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 21:02:25 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 21:13:13 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 21:13:57 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 21:27:42 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 21:41:43 lucas last message repeated 2 times
+Jul 27 21:47:23 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 22:01:28 lucas last message repeated 2 times
+Jul 27 22:15:02 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 22:20:17 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 22:33:37 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 23:06:32 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 23:17:13 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 27 23:20:22 lucas last message repeated 2 times
+Jul 27 23:47:59 lucas apmd: system suspending
+Jul 27 23:47:59 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Jul 27 23:48:02 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Jul 27 23:48:02 lucas /bsd: uhub0 detached
+Jul 27 23:48:02 lucas /bsd: uhub1 detached
+Jul 27 23:48:02 lucas /bsd: uhub2 detached
+Jul 27 23:48:02 lucas /bsd: uhub3 detached
+Jul 27 23:48:02 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Jul 29 16:26:30 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Jul 29 16:26:30 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Jul 29 16:26:30 lucas slaacd[30139]: delete_address: cannot find interface 41
+Jul 29 16:26:30 lucas slaacd[30139]: delete_address: cannot find interface 41
+Jul 29 16:26:30 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 41
+Jul 29 16:26:30 lucas slaacd[30139]: delete_address: cannot find interface 41
+Jul 29 16:26:30 lucas slaacd[30139]: delete_address: cannot find interface 41
+Jul 29 16:26:30 lucas slaacd[30139]: failed to send route message: No such process
+Jul 29 16:26:30 lucas /bsd: rum0 detached
+Jul 29 16:26:30 lucas /bsd: uhub4 detached
+Jul 29 16:26:30 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 29 16:26:30 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 29 16:26:30 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 29 16:26:30 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 29 16:26:30 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Jul 29 16:26:30 lucas /bsd: inteldrm0: no ifp
+Jul 29 16:26:30 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 29 16:26:31 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:31 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Jul 29 16:26:31 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Jul 29 16:26:32 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:32 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 29 16:26:33 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 29 16:26:34 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:35 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:35 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 29 16:26:36 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:37 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:37 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 29 16:26:37 lucas apmd: system resumed from sleep
+Jul 29 16:26:37 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Jul 29 16:26:38 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:39 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:39 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 29 16:26:40 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:41 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:41 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 29 16:26:42 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:43 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:43 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 29 16:26:44 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:45 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:45 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 29 16:26:46 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:47 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:47 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 29 16:26:48 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:49 lucas /bsd: pckbc: command timeout
+Jul 29 16:26:49 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 29 16:26:50 lucas /bsd: pckbc: command timeout
+Jul 29 16:50:29 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 16:57:45 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 29 17:31:09 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 29 17:36:02 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 17:40:10 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 17:47:34 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 17:53:20 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 18:01:32 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 18:58:08 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 19:09:46 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 19:18:41 lucas last message repeated 2 times
+Jul 29 20:00:01 lucas syslogd[8442]: restart
+Jul 29 20:27:32 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 20:31:02 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 20:48:34 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 20:59:15 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 21:13:00 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 21:34:22 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 21:47:19 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 29 22:22:43 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 29 22:50:04 lucas apmd: system suspending
+Jul 29 22:50:04 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Jul 29 22:50:06 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Jul 29 22:50:06 lucas /bsd: uhub0 detached
+Jul 29 22:50:06 lucas /bsd: uhub1 detached
+Jul 29 22:50:06 lucas /bsd: uhub2 detached
+Jul 29 22:50:06 lucas /bsd: uhub3 detached
+Jul 29 22:50:06 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Jul 30 20:39:13 lucas /bsd: rum0 detached
+Jul 30 20:39:13 lucas /bsd: uhub4 detached
+Jul 30 20:39:13 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 30 20:39:13 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 30 20:39:13 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 30 20:39:13 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 30 20:39:13 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Jul 30 20:39:13 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Jul 30 20:39:13 lucas /bsd: inteldrm0: no ifp
+Jul 30 20:39:13 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Jul 30 20:39:13 lucas slaacd[30139]: delete_address: cannot find interface 42
+Jul 30 20:39:13 lucas last message repeated 3 times
+Jul 30 20:39:13 lucas slaacd[30139]: failed to send route message: No such process
+Jul 30 20:39:13 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 42
+Jul 30 20:39:13 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:14 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Jul 30 20:39:14 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Jul 30 20:39:15 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:15 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 30 20:39:16 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:16 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 30 20:39:18 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:18 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 30 20:39:19 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:20 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:20 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 30 20:39:20 lucas apmd: system resumed from sleep
+Jul 30 20:39:20 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Jul 30 20:39:21 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:22 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:22 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 30 20:39:23 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:24 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:24 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 30 20:39:25 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:26 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:26 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 30 20:39:27 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:28 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:28 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 30 20:39:29 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:30 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:30 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 30 20:39:31 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:32 lucas /bsd: pckbc: command timeout
+Jul 30 20:39:32 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 30 20:39:33 lucas /bsd: pckbc: command timeout
+Jul 30 21:08:09 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 30 21:35:17 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 30 22:00:01 lucas syslogd[8442]: restart
+Jul 30 22:07:26 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 30 22:35:02 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 30 22:37:07 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 30 23:17:20 lucas apmd: system suspending
+Jul 30 23:17:20 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Jul 30 23:17:22 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Jul 30 23:17:22 lucas /bsd: uhub0 detached
+Jul 30 23:17:22 lucas /bsd: uhub1 detached
+Jul 30 23:17:22 lucas /bsd: uhub2 detached
+Jul 30 23:17:22 lucas /bsd: uhub3 detached
+Jul 30 23:17:22 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Jul 31 16:30:48 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Jul 31 16:30:48 lucas /bsd: rum0 detached
+Jul 31 16:30:48 lucas /bsd: uhub4 detached
+Jul 31 16:30:48 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 31 16:30:48 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 31 16:30:48 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 31 16:30:48 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Jul 31 16:30:48 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Jul 31 16:30:48 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Jul 31 16:30:48 lucas slaacd[30139]: delete_address: cannot find interface 43
+Jul 31 16:30:48 lucas last message repeated 3 times
+Jul 31 16:30:48 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 43
+Jul 31 16:30:48 lucas slaacd[30139]: failed to send route message: No such process
+Jul 31 16:30:48 lucas /bsd: inteldrm0: no ifp
+Jul 31 16:30:48 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:48 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 31 16:30:49 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Jul 31 16:30:49 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Jul 31 16:30:50 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:50 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 31 16:30:50 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 31 16:30:50 lucas avahi-daemon[3658]: IP_MULTICAST_IF failed: Can't assign requested address
+Jul 31 16:30:51 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:52 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:52 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 31 16:30:53 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:55 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:55 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 31 16:30:55 lucas apmd: system resumed from sleep
+Jul 31 16:30:55 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Jul 31 16:30:56 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:57 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:57 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 31 16:30:58 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:59 lucas /bsd: pckbc: command timeout
+Jul 31 16:30:59 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 31 16:31:00 lucas /bsd: pckbc: command timeout
+Jul 31 16:31:01 lucas /bsd: pckbc: command timeout
+Jul 31 16:31:01 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 31 16:31:02 lucas /bsd: pckbc: command timeout
+Jul 31 16:31:03 lucas /bsd: pckbc: command timeout
+Jul 31 16:31:03 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 31 16:31:04 lucas /bsd: pckbc: command timeout
+Jul 31 16:31:05 lucas /bsd: pckbc: command timeout
+Jul 31 16:31:05 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 31 16:31:06 lucas /bsd: pckbc: command timeout
+Jul 31 16:31:07 lucas /bsd: pckbc: command timeout
+Jul 31 16:31:07 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Jul 31 16:31:08 lucas /bsd: pckbc: command timeout
+Jul 31 16:35:48 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 31 17:13:47 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 31 17:28:28 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 17:35:15 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 18:04:08 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 18:31:10 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 18:32:30 lucas last message repeated 2 times
+Jul 31 18:50:43 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 18:59:38 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 19:01:58 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 19:52:25 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 19:56:41 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 20:00:01 lucas syslogd[8442]: restart
+Jul 31 20:00:33 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 20:07:27 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 31 20:08:03 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 31 20:13:26 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 21:02:26 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 21:04:22 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 21:22:34 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 21:35:13 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 21:42:07 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 21:52:28 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Jul 31 22:05:38 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Jul 31 22:23:58 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 00:02:27 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 01:24:18 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 01:47:59 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 01:51:53 lucas last message repeated 2 times
+Aug  1 02:00:01 lucas syslogd[8442]: restart
+Aug  1 02:34:13 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 02:52:45 lucas apmd: system suspending
+Aug  1 02:52:45 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  1 02:52:48 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  1 02:52:48 lucas /bsd: uhub0 detached
+Aug  1 02:52:48 lucas /bsd: uhub1 detached
+Aug  1 02:52:48 lucas /bsd: uhub2 detached
+Aug  1 02:52:48 lucas /bsd: uhub3 detached
+Aug  1 02:52:48 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug  1 16:56:01 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug  1 16:56:01 lucas /bsd: rum0 detached
+Aug  1 16:56:01 lucas /bsd: uhub4 detached
+Aug  1 16:56:01 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  1 16:56:01 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  1 16:56:01 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  1 16:56:01 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  1 16:56:01 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug  1 16:56:01 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug  1 16:56:01 lucas slaacd[30139]: delete_address: cannot find interface 44
+Aug  1 16:56:01 lucas last message repeated 3 times
+Aug  1 16:56:01 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 44
+Aug  1 16:56:01 lucas slaacd[30139]: failed to send route message: No such process
+Aug  1 16:56:01 lucas /bsd: inteldrm0: no ifp
+Aug  1 16:56:01 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:02 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug  1 16:56:02 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug  1 16:56:03 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:03 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  1 16:56:04 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:05 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 16:56:06 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:06 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  1 16:56:07 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:07 lucas avahi-daemon[3658]: Host name conflict, retrying with lucas-7
+Aug  1 16:56:08 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:08 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  1 16:56:08 lucas apmd: system resumed from sleep
+Aug  1 16:56:08 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  1 16:56:09 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:10 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:10 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  1 16:56:11 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:12 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:12 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  1 16:56:13 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:14 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:14 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  1 16:56:15 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:16 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:16 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  1 16:56:18 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:19 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:19 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  1 16:56:20 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:21 lucas /bsd: pckbc: command timeout
+Aug  1 16:56:21 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  1 16:56:22 lucas /bsd: pckbc: command timeout
+Aug  1 17:01:01 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 17:01:27 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 17:45:58 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 17:49:48 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 18:30:19 lucas pulseaudio[68659]: [sndio] module-sndio.c: mio POLLHUP!
+Aug  1 18:31:41 lucas pkg_add: Added quirks-7.14->7.14
+Aug  1 19:49:09 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 19:56:30 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 20:00:02 lucas syslogd[8442]: restart
+Aug  1 20:02:51 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 20:29:28 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 20:36:36 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 21:01:14 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 21:05:40 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 21:25:06 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 22:08:21 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 22:10:04 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  1 22:37:03 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 22:55:25 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 23:12:09 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 23:39:23 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  1 23:52:01 lucas apmd: system suspending
+Aug  1 23:52:01 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  1 23:52:03 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  1 23:52:03 lucas /bsd: uhub0 detached
+Aug  1 23:52:03 lucas /bsd: uhub1 detached
+Aug  1 23:52:03 lucas /bsd: uhub2 detached
+Aug  1 23:52:03 lucas /bsd: uhub3 detached
+Aug  1 23:52:04 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug  2 17:14:13 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug  2 17:14:13 lucas /bsd: rum0 detached
+Aug  2 17:14:13 lucas /bsd: uhub4 detached
+Aug  2 17:14:13 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  2 17:14:13 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  2 17:14:13 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  2 17:14:13 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  2 17:14:13 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug  2 17:14:13 lucas /bsd: inteldrm0: no ifp
+Aug  2 17:14:13 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug  2 17:14:13 lucas slaacd[30139]: delete_address: cannot find interface 45
+Aug  2 17:14:13 lucas last message repeated 3 times
+Aug  2 17:14:13 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 45
+Aug  2 17:14:13 lucas slaacd[30139]: failed to send route message: No such process
+Aug  2 17:14:13 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  2 17:14:14 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug  2 17:14:14 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug  2 17:14:14 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:16 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:16 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  2 17:14:17 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:17 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  2 17:14:19 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:19 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  2 17:14:20 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:20 lucas apmd: system resumed from sleep
+Aug  2 17:14:20 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  2 17:14:21 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:21 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  2 17:14:22 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:23 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:23 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  2 17:14:24 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:25 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:25 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  2 17:14:26 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:27 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:27 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  2 17:14:28 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:29 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:29 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  2 17:14:30 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:31 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:31 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  2 17:14:32 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:33 lucas /bsd: pckbc: command timeout
+Aug  2 17:14:33 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  2 17:14:34 lucas /bsd: pckbc: command timeout
+Aug  2 17:31:06 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 17:31:16 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 17:52:35 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 17:58:40 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  2 17:59:17 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  2 18:10:47 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 18:26:40 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 18:39:26 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 18:48:02 lucas last message repeated 3 times
+Aug  2 18:53:47 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 19:10:42 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 19:16:27 lucas last message repeated 2 times
+Aug  2 19:49:17 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 20:00:01 lucas syslogd[8442]: restart
+Aug  2 20:44:07 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 21:00:01 lucas syslogd[8442]: restart
+Aug  2 21:38:46 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  2 21:41:15 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  3 00:02:24 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  3 00:04:29 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  3 00:42:07 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  3 00:43:45 lucas apmd: system suspending
+Aug  3 00:43:45 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  3 00:43:48 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  3 00:43:48 lucas /bsd: uhub0 detached
+Aug  3 00:43:48 lucas /bsd: uhub1 detached
+Aug  3 00:43:48 lucas /bsd: uhub2 detached
+Aug  3 00:43:48 lucas /bsd: uhub3 detached
+Aug  3 00:43:48 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug  3 15:35:56 lucas /bsd: rum0 detached
+Aug  3 15:35:56 lucas /bsd: uhub4 detached
+Aug  3 15:35:56 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  3 15:35:56 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  3 15:35:56 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  3 15:35:56 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  3 15:35:56 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug  3 15:35:56 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug  3 15:35:56 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug  3 15:35:56 lucas slaacd[30139]: delete_address: cannot find interface 46
+Aug  3 15:35:56 lucas last message repeated 3 times
+Aug  3 15:35:56 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 46
+Aug  3 15:35:56 lucas slaacd[30139]: failed to send route message: No such process
+Aug  3 15:35:56 lucas /bsd: inteldrm0: no ifp
+Aug  3 15:35:56 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  3 15:35:57 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug  3 15:35:57 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug  3 15:35:57 lucas /bsd: pckbc: command timeout
+Aug  3 15:35:59 lucas /bsd: pckbc: command timeout
+Aug  3 15:35:59 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  3 15:36:00 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:00 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  3 15:36:01 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:01 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  3 15:36:02 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:03 lucas apmd: system resumed from sleep
+Aug  3 15:36:03 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  3 15:36:04 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:04 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  3 15:36:05 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:06 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:06 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  3 15:36:07 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:08 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:08 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  3 15:36:09 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:10 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:10 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  3 15:36:11 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:12 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:12 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  3 15:36:13 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:14 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:14 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  3 15:36:15 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:16 lucas /bsd: pckbc: command timeout
+Aug  3 15:36:16 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  3 15:36:17 lucas /bsd: pckbc: command timeout
+Aug  3 15:40:56 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  3 16:00:34 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  3 16:06:49 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  3 17:31:55 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  3 17:40:23 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  3 19:23:21 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  3 20:00:01 lucas syslogd[8442]: restart
+Aug  3 20:32:59 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  3 21:00:01 lucas syslogd[8442]: restart
+Aug  3 22:36:16 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  3 22:52:10 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  3 23:03:44 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  3 23:14:30 lucas apmd: system suspending
+Aug  3 23:14:30 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  3 23:14:32 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  3 23:14:32 lucas /bsd: uhub0 detached
+Aug  3 23:14:32 lucas /bsd: uhub1 detached
+Aug  3 23:14:32 lucas /bsd: uhub2 detached
+Aug  3 23:14:32 lucas /bsd: uhub3 detached
+Aug  3 23:14:33 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug  5 16:47:02 lucas /bsd: rum0 detached
+Aug  5 16:47:02 lucas /bsd: uhub4 detached
+Aug  5 16:47:02 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  5 16:47:02 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  5 16:47:02 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  5 16:47:02 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  5 16:47:02 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug  5 16:47:02 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug  5 16:47:02 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug  5 16:47:02 lucas slaacd[30139]: delete_address: cannot find interface 47
+Aug  5 16:47:02 lucas last message repeated 3 times
+Aug  5 16:47:02 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 47
+Aug  5 16:47:02 lucas slaacd[30139]: failed to send route message: No such process
+Aug  5 16:47:02 lucas /bsd: inteldrm0: no ifp
+Aug  5 16:47:02 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 16:47:03 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:03 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug  5 16:47:03 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug  5 16:47:04 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:04 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  5 16:47:05 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:05 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 16:47:07 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:07 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  5 16:47:08 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:08 lucas apmd: system resumed from sleep
+Aug  5 16:47:08 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  5 16:47:09 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:09 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  5 16:47:10 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:11 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:11 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  5 16:47:12 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:13 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:13 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  5 16:47:14 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:15 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:15 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  5 16:47:16 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:17 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:17 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  5 16:47:18 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:20 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:20 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  5 16:47:21 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:22 lucas /bsd: pckbc: command timeout
+Aug  5 16:47:22 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  5 16:47:23 lucas /bsd: pckbc: command timeout
+Aug  5 16:52:03 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 16:53:47 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 17:02:23 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 17:15:14 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 17:16:13 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 17:28:03 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 17:54:40 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 18:02:07 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 18:18:28 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 18:19:25 lucas pkg_add: Added quirks-7.14->7.14
+Aug  5 19:06:33 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 19:32:27 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 19:33:08 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 20:00:01 lucas syslogd[8442]: restart
+Aug  5 20:57:29 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 21:09:55 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 21:17:43 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 21:18:09 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 21:20:53 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 21:22:49 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 21:44:23 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 21:55:03 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 22:03:18 lucas last message repeated 2 times
+Aug  5 22:10:01 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 22:22:16 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  5 23:07:02 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  5 23:44:50 lucas apmd: system suspending
+Aug  5 23:44:50 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  5 23:44:52 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  5 23:44:52 lucas /bsd: uhub0 detached
+Aug  5 23:44:52 lucas /bsd: uhub1 detached
+Aug  5 23:44:52 lucas /bsd: uhub2 detached
+Aug  5 23:44:52 lucas /bsd: uhub3 detached
+Aug  5 23:44:52 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug  6 16:27:54 lucas /bsd: rum0 detached
+Aug  6 16:27:54 lucas /bsd: uhub4 detached
+Aug  6 16:27:54 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  6 16:27:54 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  6 16:27:54 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  6 16:27:54 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  6 16:27:54 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug  6 16:27:54 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug  6 16:27:54 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug  6 16:27:54 lucas slaacd[30139]: delete_address: cannot find interface 48
+Aug  6 16:27:54 lucas last message repeated 3 times
+Aug  6 16:27:54 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 48
+Aug  6 16:27:54 lucas slaacd[30139]: failed to send route message: No such process
+Aug  6 16:27:54 lucas /bsd: inteldrm0: no ifp
+Aug  6 16:27:55 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug  6 16:27:55 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug  6 16:27:55 lucas /bsd: pckbc: command timeout
+Aug  6 16:27:57 lucas /bsd: pckbc: command timeout
+Aug  6 16:27:57 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 16:27:57 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  6 16:27:58 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:00 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:00 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  6 16:28:01 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:01 lucas apmd: system resumed from sleep
+Aug  6 16:28:01 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  6 16:28:02 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:02 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  6 16:28:03 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:04 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:04 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  6 16:28:05 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:06 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:06 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  6 16:28:07 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:08 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:08 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  6 16:28:09 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:10 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:10 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  6 16:28:11 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:12 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:12 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  6 16:28:13 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:15 lucas /bsd: pckbc: command timeout
+Aug  6 16:28:15 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  6 16:28:16 lucas /bsd: pckbc: command timeout
+Aug  6 16:32:54 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 16:38:14 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 16:51:39 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 16:55:55 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 17:23:21 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 17:29:51 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 17:41:12 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  6 18:00:02 lucas syslogd[8442]: restart
+Aug  6 20:00:01 lucas syslogd[8442]: restart
+Aug  6 20:10:43 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 20:12:19 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 20:33:55 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  6 21:07:26 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  6 21:12:22 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  6 21:54:25 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  6 22:12:07 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 22:14:16 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  6 22:33:49 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  6 22:52:09 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  6 23:00:46 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  6 23:19:21 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  6 23:46:18 lucas apmd: system suspending
+Aug  6 23:46:18 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  6 23:46:21 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  6 23:46:21 lucas /bsd: uhub0 detached
+Aug  6 23:46:21 lucas /bsd: uhub1 detached
+Aug  6 23:46:21 lucas /bsd: uhub2 detached
+Aug  6 23:46:21 lucas /bsd: uhub3 detached
+Aug  6 23:46:21 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug  7 17:08:13 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug  7 17:08:13 lucas /bsd: rum0 detached
+Aug  7 17:08:13 lucas /bsd: uhub4 detached
+Aug  7 17:08:13 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  7 17:08:13 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  7 17:08:13 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  7 17:08:13 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  7 17:08:13 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug  7 17:08:13 lucas /bsd: inteldrm0: no ifp
+Aug  7 17:08:13 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug  7 17:08:13 lucas slaacd[30139]: delete_address: cannot find interface 49
+Aug  7 17:08:13 lucas last message repeated 3 times
+Aug  7 17:08:13 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 49
+Aug  7 17:08:13 lucas slaacd[30139]: failed to send route message: No such process
+Aug  7 17:08:13 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  7 17:08:13 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:14 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug  7 17:08:14 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug  7 17:08:15 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:15 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  7 17:08:16 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:16 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  7 17:08:18 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:18 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  7 17:08:19 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:20 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:20 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  7 17:08:20 lucas apmd: system resumed from sleep
+Aug  7 17:08:20 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  7 17:08:21 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:22 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:22 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  7 17:08:23 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:24 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:24 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  7 17:08:25 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:26 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:26 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  7 17:08:27 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:28 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:28 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  7 17:08:29 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:30 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:30 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  7 17:08:31 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:33 lucas /bsd: pckbc: command timeout
+Aug  7 17:08:33 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  7 17:08:34 lucas /bsd: pckbc: command timeout
+Aug  7 17:11:36 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  7 17:25:31 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  7 17:34:37 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  7 17:41:22 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  7 17:58:18 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  7 18:02:22 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  7 18:14:08 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  7 18:35:40 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  7 18:41:14 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  7 20:00:01 lucas syslogd[8442]: restart
+Aug  7 20:55:28 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  7 20:59:06 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  7 22:00:01 lucas syslogd[8442]: restart
+Aug  7 23:36:31 lucas apmd: system suspending
+Aug  7 23:36:31 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  7 23:36:34 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  7 23:36:34 lucas /bsd: uhub0 detached
+Aug  7 23:36:34 lucas /bsd: uhub1 detached
+Aug  7 23:36:34 lucas /bsd: uhub2 detached
+Aug  7 23:36:34 lucas /bsd: uhub3 detached
+Aug  7 23:36:34 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug  8 16:28:51 lucas /bsd: rum0 detached
+Aug  8 16:28:51 lucas /bsd: uhub4 detached
+Aug  8 16:28:51 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  8 16:28:51 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  8 16:28:51 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  8 16:28:51 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  8 16:28:51 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug  8 16:28:51 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug  8 16:28:51 lucas /bsd: inteldrm0: no ifp
+Aug  8 16:28:51 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug  8 16:28:51 lucas slaacd[30139]: delete_address: cannot find interface 50
+Aug  8 16:28:51 lucas last message repeated 3 times
+Aug  8 16:28:51 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 50
+Aug  8 16:28:51 lucas slaacd[30139]: failed to send route message: No such process
+Aug  8 16:28:51 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 16:28:52 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug  8 16:28:52 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug  8 16:28:52 lucas /bsd: pckbc: command timeout
+Aug  8 16:28:54 lucas /bsd: pckbc: command timeout
+Aug  8 16:28:54 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 16:28:54 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  8 16:28:55 lucas /bsd: pckbc: command timeout
+Aug  8 16:28:56 lucas /bsd: pckbc: command timeout
+Aug  8 16:28:56 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  8 16:28:57 lucas /bsd: pckbc: command timeout
+Aug  8 16:28:58 lucas apmd: system resumed from sleep
+Aug  8 16:28:58 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  8 16:28:58 lucas /bsd: pckbc: command timeout
+Aug  8 16:28:59 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  8 16:29:00 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:01 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:01 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  8 16:29:02 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:03 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:03 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  8 16:29:04 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:05 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:05 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  8 16:29:06 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:07 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:07 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  8 16:29:08 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:09 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:09 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  8 16:29:10 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:11 lucas /bsd: pckbc: command timeout
+Aug  8 16:29:11 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  8 16:29:12 lucas /bsd: pckbc: command timeout
+Aug  8 16:33:51 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 16:41:47 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 16:55:38 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 17:18:08 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 17:29:32 lucas /bsd: nfs server 10.10.0.1:/data/Files: not responding
+Aug  8 17:32:23 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 17:32:28 lucas /bsd: nfs server 10.10.0.1:/data/Files: is alive again
+Aug  8 17:40:38 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 18:07:50 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 18:16:10 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 19:31:01 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 20:00:01 lucas syslogd[8442]: restart
+Aug  8 20:16:14 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 20:17:59 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 20:18:09 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 20:47:31 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 20:50:15 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  8 21:06:50 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 21:09:54 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 21:30:02 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 21:35:58 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 21:47:29 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 22:16:59 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  8 22:37:51 lucas apmd: system suspending
+Aug  8 22:37:51 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  8 22:37:53 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  8 22:37:53 lucas /bsd: uhub0 detached
+Aug  8 22:37:53 lucas /bsd: uhub1 detached
+Aug  8 22:37:53 lucas /bsd: uhub2 detached
+Aug  8 22:37:53 lucas /bsd: uhub3 detached
+Aug  8 22:37:54 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug  9 05:36:42 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug  9 05:36:42 lucas /bsd: rum0 detached
+Aug  9 05:36:42 lucas /bsd: uhub4 detached
+Aug  9 05:36:42 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  9 05:36:42 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  9 05:36:42 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  9 05:36:42 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  9 05:36:42 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug  9 05:36:42 lucas /bsd: inteldrm0: no ifp
+Aug  9 05:36:42 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug  9 05:36:42 lucas slaacd[30139]: delete_address: cannot find interface 51
+Aug  9 05:36:42 lucas last message repeated 3 times
+Aug  9 05:36:42 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 51
+Aug  9 05:36:42 lucas slaacd[30139]: failed to send route message: No such process
+Aug  9 05:36:42 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  9 05:36:42 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:43 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug  9 05:36:43 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug  9 05:36:44 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:44 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 05:36:45 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:45 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  9 05:36:47 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:47 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 05:36:48 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:49 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:49 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 05:36:49 lucas apmd: system resumed from sleep
+Aug  9 05:36:49 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  9 05:36:50 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:51 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:51 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 05:36:52 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:53 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:53 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 05:36:54 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:55 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:55 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 05:36:56 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:57 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:57 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 05:36:58 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:59 lucas /bsd: pckbc: command timeout
+Aug  9 05:36:59 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 05:37:00 lucas /bsd: pckbc: command timeout
+Aug  9 05:37:02 lucas /bsd: pckbc: command timeout
+Aug  9 05:37:02 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 05:37:03 lucas /bsd: pckbc: command timeout
+Aug  9 05:55:33 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 06:58:38 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 06:59:33 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 07:10:57 lucas apmd: system suspending
+Aug  9 07:10:57 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  9 07:11:00 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  9 07:11:00 lucas /bsd: uhub0 detached
+Aug  9 07:11:00 lucas /bsd: uhub1 detached
+Aug  9 07:11:00 lucas /bsd: uhub2 detached
+Aug  9 07:11:00 lucas /bsd: uhub3 detached
+Aug  9 07:11:00 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug  9 17:09:12 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug  9 17:09:12 lucas /bsd: rum0 detached
+Aug  9 17:09:12 lucas /bsd: uhub4 detached
+Aug  9 17:09:12 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  9 17:09:12 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  9 17:09:12 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  9 17:09:12 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug  9 17:09:12 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug  9 17:09:12 lucas /bsd: inteldrm0: no ifp
+Aug  9 17:09:12 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug  9 17:09:12 lucas slaacd[30139]: delete_address: cannot find interface 52
+Aug  9 17:09:12 lucas last message repeated 3 times
+Aug  9 17:09:12 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 52
+Aug  9 17:09:12 lucas slaacd[30139]: failed to send route message: No such process
+Aug  9 17:09:12 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  9 17:09:13 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug  9 17:09:13 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug  9 17:09:13 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:15 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:15 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 17:09:16 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  9 17:09:16 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:17 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:17 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 17:09:18 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:19 lucas apmd: system resumed from sleep
+Aug  9 17:09:19 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  9 17:09:20 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:20 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 17:09:21 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:22 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:22 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 17:09:23 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:24 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:24 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 17:09:25 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:26 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:26 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 17:09:27 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:28 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:28 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 17:09:29 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:30 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:30 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 17:09:31 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:32 lucas /bsd: pckbc: command timeout
+Aug  9 17:09:32 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug  9 17:09:33 lucas /bsd: pckbc: command timeout
+Aug  9 17:47:49 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  9 17:48:16 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  9 18:00:01 lucas syslogd[8442]: restart
+Aug  9 18:19:56 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 18:51:37 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 19:03:10 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 19:26:16 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 20:00:01 lucas syslogd[8442]: restart
+Aug  9 20:13:39 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 20:43:24 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 20:49:29 lucas pkg_add: Added quirks-7.14->7.14
+Aug  9 21:00:01 lucas syslogd[8442]: restart
+Aug  9 21:28:15 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  9 21:29:33 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug  9 22:44:54 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 22:47:42 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 23:01:12 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug  9 23:06:45 lucas apmd: system suspending
+Aug  9 23:06:45 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug  9 23:06:47 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug  9 23:06:47 lucas /bsd: uhub0 detached
+Aug  9 23:06:47 lucas /bsd: uhub1 detached
+Aug  9 23:06:47 lucas /bsd: uhub2 detached
+Aug  9 23:06:47 lucas /bsd: uhub3 detached
+Aug  9 23:06:47 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug 10 19:15:23 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug 10 19:15:23 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug 10 19:15:23 lucas slaacd[30139]: delete_address: cannot find interface 53
+Aug 10 19:15:23 lucas last message repeated 2 times
+Aug 10 19:15:23 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 53
+Aug 10 19:15:23 lucas slaacd[30139]: delete_address: cannot find interface 53
+Aug 10 19:15:23 lucas slaacd[30139]: failed to send route message: No such process
+Aug 10 19:15:23 lucas /bsd: rum0 detached
+Aug 10 19:15:23 lucas /bsd: uhub4 detached
+Aug 10 19:15:23 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 10 19:15:23 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 10 19:15:23 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 10 19:15:23 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 10 19:15:23 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug 10 19:15:24 lucas /bsd: inteldrm0: no ifp
+Aug 10 19:15:24 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug 10 19:15:24 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug 10 19:15:24 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 10 19:15:24 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:26 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:26 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 10 19:15:27 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 10 19:15:27 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:28 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:28 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 10 19:15:29 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:30 lucas apmd: system resumed from sleep
+Aug 10 19:15:30 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 10 19:15:31 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:31 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 10 19:15:32 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:33 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:33 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 10 19:15:34 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:35 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:35 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 10 19:15:36 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:37 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:37 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 10 19:15:38 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:39 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:39 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 10 19:15:40 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:41 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:41 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 10 19:15:42 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:43 lucas /bsd: pckbc: command timeout
+Aug 10 19:15:43 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 10 19:15:44 lucas /bsd: pckbc: command timeout
+Aug 10 19:23:58 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 19:57:12 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 10 20:02:28 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 10 20:43:27 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 10 20:51:26 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 10 21:48:48 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 22:01:33 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 22:22:56 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 10 22:30:18 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 10 22:31:19 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 22:36:18 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 22:42:51 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 22:46:56 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 23:04:13 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 23:12:00 lucas last message repeated 2 times
+Aug 10 23:24:22 lucas last message repeated 2 times
+Aug 10 23:34:46 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 23:47:55 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 10 23:56:41 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 00:14:46 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 00:34:34 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 11 00:51:16 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 11 01:00:01 lucas syslogd[8442]: restart
+Aug 11 01:40:10 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 01:41:07 lucas apmd: system suspending
+Aug 11 01:41:07 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 11 01:41:09 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug 11 01:41:09 lucas /bsd: uhub0 detached
+Aug 11 01:41:09 lucas /bsd: uhub1 detached
+Aug 11 01:41:09 lucas /bsd: uhub2 detached
+Aug 11 01:41:09 lucas /bsd: uhub3 detached
+Aug 11 01:41:09 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug 11 14:28:13 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug 11 14:28:13 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug 11 14:28:13 lucas slaacd[30139]: delete_address: cannot find interface 54
+Aug 11 14:28:13 lucas slaacd[30139]: delete_address: cannot find interface 54
+Aug 11 14:28:13 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 54
+Aug 11 14:28:13 lucas slaacd[30139]: delete_address: cannot find interface 54
+Aug 11 14:28:13 lucas slaacd[30139]: delete_address: cannot find interface 54
+Aug 11 14:28:13 lucas slaacd[30139]: failed to send route message: No such process
+Aug 11 14:28:13 lucas /bsd: rum0 detached
+Aug 11 14:28:13 lucas /bsd: uhub4 detached
+Aug 11 14:28:13 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 11 14:28:13 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 11 14:28:13 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 11 14:28:13 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 11 14:28:13 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug 11 14:28:13 lucas /bsd: inteldrm0: no ifp
+Aug 11 14:28:13 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 11 14:28:14 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug 11 14:28:14 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug 11 14:28:14 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:16 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:16 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 14:28:17 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:17 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 11 14:28:19 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:19 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 14:28:20 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:20 lucas apmd: system resumed from sleep
+Aug 11 14:28:20 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 11 14:28:21 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:21 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 14:28:22 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:23 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:23 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 14:28:24 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:25 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:25 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 14:28:26 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:27 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:27 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 14:28:28 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:29 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:29 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 14:28:30 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:31 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:31 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 14:28:32 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:33 lucas /bsd: pckbc: command timeout
+Aug 11 14:28:33 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 14:28:34 lucas /bsd: pckbc: command timeout
+Aug 11 14:36:58 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 14:47:09 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 14:49:26 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 15:00:01 lucas syslogd[8442]: restart
+Aug 11 15:49:54 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 15:56:28 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 16:22:14 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 16:40:02 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 16:44:22 lucas apmd: system suspending
+Aug 11 16:44:22 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 11 16:44:24 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug 11 16:44:24 lucas /bsd: uhub0 detached
+Aug 11 16:44:24 lucas /bsd: uhub1 detached
+Aug 11 16:44:24 lucas /bsd: uhub2 detached
+Aug 11 16:44:24 lucas /bsd: uhub3 detached
+Aug 11 16:44:24 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug 11 16:44:24 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug 11 18:48:16 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug 11 18:48:16 lucas slaacd[30139]: delete_address: cannot find interface 55
+Aug 11 18:48:16 lucas last message repeated 3 times
+Aug 11 18:48:16 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 55
+Aug 11 18:48:16 lucas slaacd[30139]: failed to send route message: No such process
+Aug 11 18:48:16 lucas /bsd: rum0 detached
+Aug 11 18:48:16 lucas /bsd: uhub4 detached
+Aug 11 18:48:16 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 11 18:48:16 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 11 18:48:16 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 11 18:48:16 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 11 18:48:16 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug 11 18:48:16 lucas /bsd: inteldrm0: no ifp
+Aug 11 18:48:16 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 11 18:48:17 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug 11 18:48:17 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug 11 18:48:17 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:18 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 11 18:48:19 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:19 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 18:48:20 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:21 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:21 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 18:48:22 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:23 lucas apmd: system resumed from sleep
+Aug 11 18:48:23 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 11 18:48:24 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:24 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 18:48:25 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:26 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:26 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 18:48:27 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:28 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:28 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 18:48:29 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:30 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:30 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 18:48:31 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:32 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:32 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 18:48:33 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:34 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:34 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 18:48:35 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:36 lucas /bsd: pckbc: command timeout
+Aug 11 18:48:36 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 11 18:48:37 lucas /bsd: pckbc: command timeout
+Aug 11 19:03:27 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 20:09:08 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 20:21:26 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B
+Aug 11 20:29:38 lucas last message repeated 2 times
+Aug 11 20:33:11 lucas apmd: system suspending
+Aug 11 20:33:11 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 11 20:33:13 lucas /bsd: drm : i915 raw-wakerefs=1 wakelocks=1 on cleanup
+Aug 11 20:33:13 lucas /bsd: uhub0 detached
+Aug 11 20:33:13 lucas /bsd: uhub1 detached
+Aug 11 20:33:14 lucas /bsd: uhub2 detached
+Aug 11 20:33:14 lucas /bsd: uhub3 detached
+Aug 11 20:33:14 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug 12 16:35:39 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug 12 16:35:39 lucas /bsd: rum0 detached
+Aug 12 16:35:39 lucas /bsd: uhub4 detached
+Aug 12 16:35:39 lucas /bsd: uhub0 at usb1 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 12 16:35:39 lucas /bsd: uhub1 at usb2 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 12 16:35:39 lucas /bsd: uhub2 at usb3 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 12 16:35:39 lucas /bsd: uhub3 at usb4 configuration 1 interface 0 "Intel UHCI root hub" rev 1.00/1.00 addr 1
+Aug 12 16:35:39 lucas /bsd: uhub4 at usb0 configuration 1 interface 0 "Intel EHCI root hub" rev 2.00/1.00 addr 1
+Aug 12 16:35:39 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug 12 16:35:39 lucas slaacd[30139]: delete_address: cannot find interface 56
+Aug 12 16:35:39 lucas last message repeated 3 times
+Aug 12 16:35:39 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 56
+Aug 12 16:35:39 lucas slaacd[30139]: failed to send route message: No such process
+Aug 12 16:35:39 lucas /bsd: inteldrm0: no ifp
+Aug 12 16:35:39 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 12 16:35:39 lucas /bsd: rum0 at uhub4 port 6 configuration 1 interface 0 "Ralink 802.11 bg WLAN" rev 2.00/0.01 addr 2
+Aug 12 16:35:40 lucas /bsd: rum0: MAC/BBP RT2573 (rev 0x2573a), RF RT2528, address 00:19:db:01:7b:4d
+Aug 12 16:35:40 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:42 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:42 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 12 16:35:43 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:43 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 12 16:35:45 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:45 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 12 16:35:46 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:46 lucas apmd: system resumed from sleep
+Aug 12 16:35:46 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 12 16:35:47 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:47 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 12 16:35:48 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:49 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:49 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 12 16:35:50 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:51 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:51 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 12 16:35:52 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:53 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:53 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 12 16:35:54 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:55 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:55 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 12 16:35:56 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:57 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:57 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 12 16:35:58 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:59 lucas /bsd: pckbc: command timeout
+Aug 12 16:35:59 lucas /bsd: pms0: not in sync yet, discard input (state = 1, fe fc | 00 00)
+Aug 12 16:36:00 lucas /bsd: pckbc: command timeout
+Aug 12 16:54:23 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 12 16:56:35 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 12 17:00:01 lucas syslogd[8442]: restart
+Aug 12 17:08:51 lucas /bsd: drm:pid60065:intel_pipe_update_start *ERROR* [drm] *ERROR* Potential atomic update failure on pipe B

@@ -1,0 +1,159 @@
+2024-08-11T13:00:01.388Z lucas newsyslog[82465]: logfile turned over
+Aug 11 15:06:22 lucas ntpd[47283]: peer 2606:4700:f1::123 now valid
+Aug 11 16:44:22 lucas apmd: system suspending
+Aug 11 16:44:22 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 11 16:44:24 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug 11 16:44:24 lucas avahi-daemon[3658]: Withdrawing address record for 10.10.8.9 on rum0.
+Aug 11 16:44:24 lucas avahi-daemon[3658]: Leaving mDNS multicast group on interface rum0.IPv4 with address 10.10.8.9.
+Aug 11 16:44:24 lucas avahi-daemon[3658]: Interface rum0.IPv4 no longer relevant for mDNS.
+Aug 11 16:44:24 lucas avahi-daemon[3658]: Withdrawing address record for fd00::bf61:98e3:fe92:0 on rum0.
+Aug 11 16:44:24 lucas avahi-daemon[3658]: Leaving mDNS multicast group on interface rum0.IPv6 with address fd00::bf61:98e3:fe92:0.
+Aug 11 16:44:24 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug 11 18:48:16 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface rum0.IPv6 with address 2a00:4841:1600:8300:6bf1:7dc1:33c8:da19.
+Aug 11 18:48:16 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug 11 18:48:16 lucas avahi-daemon[3658]: Withdrawing address record for fd00::6ca0:da07:f302:c9e4 on rum0.
+Aug 11 18:48:16 lucas avahi-daemon[3658]: Withdrawing address record for 2a00:4841:1600:8300:d95b:aae2:32b1:6cdf on rum0.
+Aug 11 18:48:16 lucas avahi-daemon[3658]: Withdrawing address record for 2a00:4841:1600:8300:6bf1:7dc1:33c8:da19 on rum0.
+Aug 11 18:48:16 lucas avahi-daemon[3658]: Interface rum0.IPv6 no longer relevant for mDNS.
+Aug 11 18:48:16 lucas resolvd[45233]: rebuilding: route proposals
+Aug 11 18:48:16 lucas slaacd[30139]: delete_address: cannot find interface 55
+Aug 11 18:48:16 lucas last message repeated 3 times
+Aug 11 18:48:16 lucas dhcpleased[99275]: deleting nameservers 10.10.4.1 10.10.0.3 (lease from 10.10.0.1 on ?)
+Aug 11 18:48:16 lucas dhcpleased[99275]: deleting 10.10.8.9 from ? (lease from 10.10.0.1)
+Aug 11 18:48:16 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 55
+Aug 11 18:48:16 lucas slaacd[30139]: failed to send route message: No such process
+Aug 11 18:48:16 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 11 18:48:18 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 11 18:48:18 lucas avahi-daemon[3658]: Withdrawing address record for 127.0.0.1 on lo0.
+Aug 11 18:48:18 lucas avahi-daemon[3658]: Leaving mDNS multicast group on interface lo0.IPv4 with address 127.0.0.1.
+Aug 11 18:48:18 lucas avahi-daemon[3658]: Interface lo0.IPv4 no longer relevant for mDNS.
+Aug 11 18:48:18 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface lo0.IPv4 with address 127.0.0.1.
+Aug 11 18:48:18 lucas avahi-daemon[3658]: New relevant interface lo0.IPv4 for mDNS.
+Aug 11 18:48:18 lucas avahi-daemon[3658]: Registering new address record for 127.0.0.1 on lo0.IPv4.
+Aug 11 18:48:19 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface rum0.IPv6 with address fe80::219:dbff:fe01:7b4d.
+Aug 11 18:48:19 lucas avahi-daemon[3658]: New relevant interface rum0.IPv6 for mDNS.
+Aug 11 18:48:19 lucas avahi-daemon[3658]: Registering new address record for fe80::219:dbff:fe01:7b4d on rum0.*.
+Aug 11 18:48:22 lucas dhcpleased[99275]: adding 10.10.8.9 to rum0 (lease from 10.10.0.1)
+Aug 11 18:48:22 lucas dhcpleased[99275]: adding nameservers 10.10.4.1 10.10.0.3 (lease from 10.10.0.1 on rum0)
+Aug 11 18:48:22 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface rum0.IPv4 with address 10.10.8.9.
+Aug 11 18:48:22 lucas avahi-daemon[3658]: New relevant interface rum0.IPv4 for mDNS.
+Aug 11 18:48:22 lucas avahi-daemon[3658]: Registering new address record for 10.10.8.9 on rum0.IPv4.
+Aug 11 18:48:22 lucas avahi-daemon[3658]: Leaving mDNS multicast group on interface rum0.IPv6 with address fe80::219:dbff:fe01:7b4d.
+Aug 11 18:48:22 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface rum0.IPv6 with address fd00::bf61:98e3:fe92:0.
+Aug 11 18:48:22 lucas resolvd[45233]: rebuilding: route proposals
+Aug 11 18:48:22 lucas avahi-daemon[3658]: Registering new address record for fd00::bf61:98e3:fe92:0 on rum0.*.
+Aug 11 18:48:22 lucas avahi-daemon[3658]: Withdrawing address record for fe80::219:dbff:fe01:7b4d on rum0.
+Aug 11 18:48:22 lucas avahi-daemon[3658]: Registering new address record for fd00::bf1f:72a5:410f:6da4 on rum0.*.
+Aug 11 18:48:22 lucas avahi-daemon[3658]: Registering new address record for 2a00:4841:1600:8300:d95b:aae2:32b1:6cdf on rum0.*.
+Aug 11 18:48:22 lucas avahi-daemon[3658]: Registering new address record for 2a00:4841:1600:8300:e68:f56:4e8f:d438 on rum0.*.
+Aug 11 18:48:22 lucas resolvd[45233]: rebuilding: route proposals
+Aug 11 18:48:23 lucas apmd: system resumed from sleep
+Aug 11 18:48:23 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 11 18:49:16 lucas ntpd[47283]: clock is now unsynced due to lack of replies
+Aug 11 18:49:34 lucas ntpd[47283]: peer 78.47.93.191 now valid
+Aug 11 18:49:34 lucas ntpd[47283]: peer 144.76.218.252 now valid
+Aug 11 18:49:37 lucas ntpd[47283]: peer 136.243.7.20 now valid
+Aug 11 18:49:37 lucas ntpd[47283]: peer 85.215.189.120 now valid
+Aug 11 18:50:40 lucas ntpd[47283]: peer 78.47.93.191 now invalid
+Aug 11 18:50:51 lucas ntpd[47402]: adjusting local clock by 1.031429s
+Aug 11 18:50:51 lucas ntpd[47283]: clock is now synced
+Aug 11 18:50:51 lucas ntpd[47283]: constraint reply from 142.250.185.228: offset 0.411142
+Aug 11 18:50:51 lucas ntpd[47283]: constraint reply from 9.9.9.9: offset 0.231914
+Aug 11 18:50:52 lucas ntpd[47283]: constraint reply from 2a00:1450:4001:813::2004: offset 0.060415
+Aug 11 18:50:56 lucas ntpd[47283]: constraint reply from 2620:fe::fe: offset 0.365069
+Aug 11 18:52:10 lucas ntpd[47283]: peer 194.25.134.196 now valid
+Aug 11 18:53:28 lucas ntpd[47402]: adjusting local clock by 0.241532s
+Aug 11 18:53:28 lucas ntpd[47283]: clock is now unsynced
+Aug 11 18:54:14 lucas ntpd[47283]: peer 194.25.134.196 now invalid
+Aug 11 18:54:32 lucas ntpd[47283]: clock is now synced
+Aug 11 18:54:32 lucas ntpd[47283]: constraint reply from 142.250.185.228: offset -0.422613
+Aug 11 18:54:32 lucas ntpd[47283]: constraint reply from 2620:fe::fe: offset -0.559040
+Aug 11 18:54:32 lucas ntpd[47283]: constraint reply from 9.9.9.9: offset -0.599150
+Aug 11 18:54:32 lucas ntpd[47283]: constraint reply from 2a00:1450:4001:813::2004: offset -0.603041
+Aug 11 18:54:50 lucas ntpd[47283]: peer 144.76.76.107 now valid
+Aug 11 18:55:14 lucas ntpd[47283]: peer 162.159.200.1 now valid
+Aug 11 18:55:27 lucas ntpd[47283]: peer 85.215.189.120 now invalid
+Aug 11 18:55:47 lucas ntpd[47283]: peer 129.70.132.37 now valid
+Aug 11 18:56:17 lucas ntpd[47283]: peer 162.159.200.1 now invalid
+Aug 11 19:10:32 lucas ntpd[47283]: peer 144.76.76.107 now invalid
+Aug 11 19:10:40 lucas ntpd[47283]: peer 144.76.218.252 now invalid
+Aug 11 19:10:42 lucas ntpd[47283]: peer 2606:4700:f1::123 now valid
+Aug 11 19:15:01 lucas ntpd[47283]: peer 144.76.76.107 now valid
+Aug 11 19:16:11 lucas ntpd[47283]: peer 176.9.90.88 now valid
+Aug 11 20:33:11 lucas apmd: system suspending
+Aug 11 20:33:11 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 11 20:33:14 lucas dhcpleased[55723]: bpf_receive: read: Input/output error
+Aug 11 20:33:14 lucas avahi-daemon[3658]: Withdrawing address record for 10.10.8.9 on rum0.
+Aug 11 20:33:14 lucas avahi-daemon[3658]: Leaving mDNS multicast group on interface rum0.IPv4 with address 10.10.8.9.
+Aug 11 20:33:14 lucas avahi-daemon[3658]: Interface rum0.IPv4 no longer relevant for mDNS.
+Aug 11 20:33:14 lucas avahi-daemon[3658]: Withdrawing address record for fd00::bf61:98e3:fe92:0 on rum0.
+Aug 11 20:33:14 lucas avahi-daemon[3658]: Leaving mDNS multicast group on interface rum0.IPv6 with address fd00::bf61:98e3:fe92:0.
+Aug 12 16:35:39 lucas avahi-daemon[3658]: IPV6_DROP_MEMBERSHIP failed: Device not configured
+Aug 12 16:35:39 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface rum0.IPv6 with address 2a00:4841:1600:8300:e68:f56:4e8f:d438.
+Aug 12 16:35:39 lucas avahi-daemon[3658]: IPV6_ADD_MEMBERSHIP failed: Device not configured
+Aug 12 16:35:39 lucas avahi-daemon[3658]: Withdrawing address record for fd00::bf1f:72a5:410f:6da4 on rum0.
+Aug 12 16:35:39 lucas avahi-daemon[3658]: Withdrawing address record for 2a00:4841:1600:8300:d95b:aae2:32b1:6cdf on rum0.
+Aug 12 16:35:39 lucas avahi-daemon[3658]: Withdrawing address record for 2a00:4841:1600:8300:e68:f56:4e8f:d438 on rum0.
+Aug 12 16:35:39 lucas avahi-daemon[3658]: Interface rum0.IPv6 no longer relevant for mDNS.
+Aug 12 16:35:39 lucas resolvd[45233]: rebuilding: route proposals
+Aug 12 16:35:39 lucas dhcpleased[99275]: deleting nameservers 10.10.4.1 10.10.0.3 (lease from 10.10.0.1 on ?)
+Aug 12 16:35:39 lucas dhcpleased[99275]: deleting 10.10.8.9 from ? (lease from 10.10.0.1)
+Aug 12 16:35:39 lucas slaacd[30139]: delete_address: cannot find interface 56
+Aug 12 16:35:39 lucas last message repeated 3 times
+Aug 12 16:35:39 lucas dhcpleased[33485]: deconfigure_interface: cannot find interface 56
+Aug 12 16:35:39 lucas slaacd[30139]: failed to send route message: No such process
+Aug 12 16:35:39 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 12 16:35:40 lucas avahi-daemon[3658]: Withdrawing address record for 127.0.0.1 on lo0.
+Aug 12 16:35:40 lucas avahi-daemon[3658]: Leaving mDNS multicast group on interface lo0.IPv4 with address 127.0.0.1.
+Aug 12 16:35:40 lucas avahi-daemon[3658]: Interface lo0.IPv4 no longer relevant for mDNS.
+Aug 12 16:35:40 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface lo0.IPv4 with address 127.0.0.1.
+Aug 12 16:35:40 lucas avahi-daemon[3658]: New relevant interface lo0.IPv4 for mDNS.
+Aug 12 16:35:40 lucas avahi-daemon[3658]: Registering new address record for 127.0.0.1 on lo0.IPv4.
+Aug 12 16:35:41 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface rum0.IPv6 with address fe80::219:dbff:fe01:7b4d.
+Aug 12 16:35:41 lucas avahi-daemon[3658]: New relevant interface rum0.IPv6 for mDNS.
+Aug 12 16:35:41 lucas avahi-daemon[3658]: Registering new address record for fe80::219:dbff:fe01:7b4d on rum0.*.
+Aug 12 16:35:41 lucas avahi-daemon[3658]: Withdrawing address record for 127.0.0.1 on lo0.
+Aug 12 16:35:41 lucas avahi-daemon[3658]: Leaving mDNS multicast group on interface lo0.IPv4 with address 127.0.0.1.
+Aug 12 16:35:41 lucas avahi-daemon[3658]: Interface lo0.IPv4 no longer relevant for mDNS.
+Aug 12 16:35:41 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface lo0.IPv4 with address 127.0.0.1.
+Aug 12 16:35:41 lucas avahi-daemon[3658]: New relevant interface lo0.IPv4 for mDNS.
+Aug 12 16:35:41 lucas avahi-daemon[3658]: Registering new address record for 127.0.0.1 on lo0.IPv4.
+Aug 12 16:35:43 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 12 16:35:44 lucas dhcpleased[99275]: adding 10.10.8.9 to rum0 (lease from 10.10.0.1)
+Aug 12 16:35:44 lucas dhcpleased[99275]: adding nameservers 10.10.4.1 10.10.0.3 (lease from 10.10.0.1 on rum0)
+Aug 12 16:35:44 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface rum0.IPv4 with address 10.10.8.9.
+Aug 12 16:35:44 lucas avahi-daemon[3658]: New relevant interface rum0.IPv4 for mDNS.
+Aug 12 16:35:44 lucas avahi-daemon[3658]: Registering new address record for 10.10.8.9 on rum0.IPv4.
+Aug 12 16:35:44 lucas avahi-daemon[3658]: Leaving mDNS multicast group on interface rum0.IPv6 with address fe80::219:dbff:fe01:7b4d.
+Aug 12 16:35:44 lucas resolvd[45233]: rebuilding: route proposals
+Aug 12 16:35:44 lucas avahi-daemon[3658]: Joining mDNS multicast group on interface rum0.IPv6 with address fd00::bf61:98e3:fe92:0.
+Aug 12 16:35:44 lucas avahi-daemon[3658]: Registering new address record for fd00::bf61:98e3:fe92:0 on rum0.*.
+Aug 12 16:35:44 lucas avahi-daemon[3658]: Withdrawing address record for fe80::219:dbff:fe01:7b4d on rum0.
+Aug 12 16:35:44 lucas avahi-daemon[3658]: Registering new address record for fd00::c1ed:209e:869b:862c on rum0.*.
+Aug 12 16:35:44 lucas avahi-daemon[3658]: Registering new address record for 2a00:4841:1600:8300:d95b:aae2:32b1:6cdf on rum0.*.
+Aug 12 16:35:44 lucas avahi-daemon[3658]: Registering new address record for 2a00:4841:1600:8300:2158:b9e7:bc6c:f63e on rum0.*.
+Aug 12 16:35:44 lucas resolvd[45233]: rebuilding: route proposals
+Aug 12 16:35:46 lucas apmd: system resumed from sleep
+Aug 12 16:35:46 lucas apmd: battery status: absent. external power status: not connected. estimated battery life 0%
+Aug 12 16:36:39 lucas ntpd[47283]: clock is now unsynced due to lack of replies
+Aug 12 16:37:00 lucas ntpd[47283]: peer 129.70.132.37 now valid
+Aug 12 16:37:00 lucas ntpd[47283]: peer 144.76.76.107 now valid
+Aug 12 16:37:01 lucas ntpd[47283]: peer 176.9.90.88 now valid
+Aug 12 16:37:04 lucas ntpd[47283]: peer 136.243.7.20 now valid
+Aug 12 16:37:11 lucas ntpd[47283]: clock is now synced
+Aug 12 16:37:12 lucas ntpd[47283]: constraint reply from 2a00:1450:4001:831::2004: offset -0.341124
+Aug 12 16:37:12 lucas ntpd[47283]: constraint reply from 9.9.9.9: offset -0.437069
+Aug 12 16:37:12 lucas ntpd[47283]: constraint reply from 142.250.184.228: offset -0.450912
+Aug 12 16:37:12 lucas ntpd[47283]: constraint reply from 2620:fe::fe: offset -0.491504
+Aug 12 16:37:14 lucas ntpd[47283]: peer 162.159.200.1 now valid
+Aug 12 16:40:22 lucas ntpd[47402]: adjusting local clock by -0.290265s
+Aug 12 16:40:56 lucas ntpd[47402]: adjusting local clock by -0.121158s
+Aug 12 16:40:56 lucas ntpd[47283]: clock is now unsynced
+Aug 12 16:42:33 lucas ntpd[47283]: reply from 129.70.132.37: not synced (alarm), next query 3029s
+Aug 12 16:54:23 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 12 16:56:35 lucas mate-session[423]: WARNING: Unable to determine session: Unable to lookup session information for process '423'
+Aug 12 17:35:45 lucas ntpd[47283]: clock is now synced
+Aug 12 17:35:46 lucas ntpd[47283]: constraint reply from 2a00:1450:4001:80f::2004: offset -0.239190
+Aug 12 17:35:46 lucas ntpd[47283]: constraint reply from 2620:fe::fe: offset -0.319755
+Aug 12 17:35:46 lucas ntpd[47283]: constraint reply from 142.250.185.100: offset -0.359301
+Aug 12 17:35:46 lucas ntpd[47283]: constraint reply from 9.9.9.9: offset -0.760720

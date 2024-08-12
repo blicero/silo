@@ -1,0 +1,1045 @@
+Jun 22 21:00:17 homer.krylon.net newsyslog[5048]: log file turned over
+Jun 22 21:00:17 homer syslogd[1834]: restart
+Jun 23 21:00:06 homer syslogd[1834]: restart
+Jun 24 20:12:22 homer ntpd[2553]: 2a02:c206:3012:3421::1 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jun 24 21:00:07 homer syslogd[1834]: restart
+Jun 25 05:49:00 homer dhcpcd[604]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jun 25 05:49:01 homer dhcpcd[604]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jun 25 05:49:01 homer dhcpcd[604]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jun 25 06:25:00 homer ntpd[2553]: 2a03:4000:3b:1cd:1851:5aff:feea:45c7 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jun 25 06:33:48 homer ntpd[2553]: 178.63.52.50 local addr 10.10.13.1 -> <null>
+Jun 25 18:00:06 homer syslogd[1834]: restart
+Jun 25 20:39:53 homer dhcpcd[604]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jun 25 20:39:53 homer dhcpcd[604]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jun 25 20:40:02 homer dhcpcd[604]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jun 25 21:00:06 homer syslogd[1834]: restart
+Jun 25 21:39:25 homer dhcpcd[604]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jun 25 21:39:25 homer dhcpcd[604]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jun 25 21:39:35 homer dhcpcd[604]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jun 26 21:00:06 homer syslogd[1834]: restart
+Jun 27 21:00:06 homer syslogd[1834]: restart
+Jun 28 21:00:06 homer syslogd[1834]: restart
+Jun 29 05:13:45 homer dhcpcd[604]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jun 29 05:13:46 homer dhcpcd[604]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jun 29 05:13:47 homer dhcpcd[604]: wm0: adding address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Jun 29 05:13:47 homer dhcpcd[604]: wm0: adding route to 2a00:4841:1702:a00::/64
+Jun 29 05:13:47 homer dhcpcd[604]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jun 29 05:13:50 homer dhcpcd[604]: wm0: deleting address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Jun 29 05:13:50 homer dhcpcd[604]: wm0: deleting route to 2a00:4841:1600:8300::/64
+Jun 29 05:13:52 homer ntpd[2553]: Listen normally on 9 wm0 [2a00:4841:1702:a00:ded0:7578:ee7:bc58]:123
+Jun 29 05:13:52 homer ntpd[2553]: Deleting interface #3 wm0, 2a00:4841:1600:8300:5831:b4be:b1f1:3a55#123, interface stats: received=2757, sent=2971, dropped=0, active_time=549951 secs
+Jun 29 05:13:52 homer ntpd[2553]: 2a01:4f8:160:43aa::2 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jun 29 05:13:52 homer ntpd[2553]: 2001:638:504:2000::34 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jun 29 19:00:06 homer syslogd[1834]: restart
+Jun 29 21:00:06 homer syslogd[1834]: restart
+Jun 30 05:12:25 homer dhcpcd[604]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jun 30 05:12:25 homer dhcpcd[604]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jun 30 05:12:27 homer dhcpcd[604]: wm0: adding address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Jun 30 05:12:27 homer dhcpcd[604]: wm0: adding route to 2a00:4841:1600:8300::/64
+Jun 30 05:12:27 homer dhcpcd[604]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jun 30 05:12:27 homer dhcpcd[604]: wm0: deleting address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Jun 30 05:12:27 homer dhcpcd[604]: wm0: deleting route to 2a00:4841:1702:a00::/64
+Jun 30 05:12:29 homer ntpd[2553]: Listen normally on 10 wm0 [2a00:4841:1600:8300:5831:b4be:b1f1:3a55]:123
+Jun 30 05:12:29 homer ntpd[2553]: Deleting interface #9 wm0, 2a00:4841:1702:a00:ded0:7578:ee7:bc58#123, interface stats: received=42, sent=378, dropped=0, active_time=86300 secs
+Jun 30 05:12:29 homer ntpd[2553]: 2001:638:504:2000::34 local addr 2a00:4841:1702:a00:ded0:7578:ee7:bc58 -> <null>
+Jun 30 05:12:29 homer ntpd[2553]: 2a01:4f8:160:43aa::2 local addr 2a00:4841:1702:a00:ded0:7578:ee7:bc58 -> <null>
+Jun 30 21:00:06 homer syslogd[1834]: restart
+Jul  1 21:00:06 homer syslogd[1834]: restart
+Jul  1 21:36:05 homer syslogd[1834]: Exiting on signal 15
+Jul  1 22:15:10 homer syslogd[1654]: restart
+Jul  1 22:15:10 homer /netbsd: [   1.0000000] Copyright (c) 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003,
+Jul  1 22:15:10 homer /netbsd: [   1.0000000]     2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013,
+Jul  1 22:15:10 homer /netbsd: [   1.0000000]     2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023,
+Jul  1 22:15:10 homer /netbsd: [   1.0000000]     2024
+Jul  1 22:15:10 homer /netbsd: [   1.0000000]     The NetBSD Foundation, Inc.  All rights reserved.
+Jul  1 22:15:10 homer /netbsd: [   1.0000000] Copyright (c) 1982, 1986, 1989, 1991, 1993
+Jul  1 22:15:10 homer /netbsd: [   1.0000000]     The Regents of the University of California.  All rights reserved.
+Jul  1 22:15:10 homer /netbsd: 
+Jul  1 22:15:10 homer /netbsd: [   1.0000000] NetBSD 10.0 (GENERIC) #0: Thu Mar 28 08:33:33 UTC 2024
+Jul  1 22:15:10 homer /netbsd: [   1.0000000] 	mkrepro@mkrepro.NetBSD.org:/usr/src/sys/arch/amd64/compile/GENERIC
+Jul  1 22:15:10 homer /netbsd: [   1.0000000] total memory = 767 MB
+Jul  1 22:15:10 homer /netbsd: [   1.0000000] avail memory = 714 MB
+Jul  1 22:15:10 homer /netbsd: [   1.0000000] timecounter: Timecounters tick every 10.000 msec
+Jul  1 22:15:10 homer /netbsd: [   1.0000000] Kernelized RAIDframe activated
+Jul  1 22:15:10 homer /netbsd: [   1.0000000] timecounter: Timecounter "i8254" frequency 1193182 Hz quality 100
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] mainbus0 (root)
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] ACPI: RSDP 0x00000000000F5890 000014 (v00 BOCHS )
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] ACPI: RSDT 0x000000002FFE1A52 000030 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] ACPI: FACP 0x000000002FFE1926 000074 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] ACPI: DSDT 0x000000002FFE0040 0018E6 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] ACPI: FACS 0x000000002FFE0000 000040
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] ACPI: APIC 0x000000002FFE199A 000090 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] ACPI: WAET 0x000000002FFE1A2A 000028 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] ACPI: 1 ACPI AML tables successfully acquired and loaded
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] ioapic0 at mainbus0 apid 0: pa 0xfec00000, version 0x11, 24 pins
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu0 at mainbus0 apid 0
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu0: Use lfence to serialize rdtsc
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu0: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu0: node 0, package 0, core 0, smt 0
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu1 at mainbus0 apid 1
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu1: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu1: node 0, package 1, core 0, smt 0
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu2 at mainbus0 apid 2
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu2: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu2: node 0, package 2, core 0, smt 0
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu3 at mainbus0 apid 3
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu3: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] cpu3: node 0, package 3, core 0, smt 0
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] acpi0 at mainbus0: Intel ACPICA 20221020
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] acpi0: X/RSDT: OemId <BOCHS ,BXPC    ,00000001>, AslId <BXPC,00000001>
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKS: ACPI: Found matching pin for 0.1.INTA at func 3: 9
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKB: ACPI: Found matching pin for 0.2.INTA at func 0: 10
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKC: ACPI: Found matching pin for 0.3.INTA at func 0: 11
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKD: ACPI: Found matching pin for 0.4.INTA at func 0: 11
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKA: ACPI: Found matching pin for 0.5.INTA at func 0: 10
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKB: ACPI: Found matching pin for 0.5.INTB at func 1: 10
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKC: ACPI: Found matching pin for 0.5.INTC at func 2: 11
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKD: ACPI: Found matching pin for 0.5.INTD at func 7: 11
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKB: ACPI: Found matching pin for 0.6.INTA at func 0: 10
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] LNKC: ACPI: Found matching pin for 0.7.INTA at func 0: 11
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] acpi0: SCI interrupting at int 9
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] acpi0: fixed power button present
+Jul  1 22:15:10 homer /netbsd: [   1.0000040] timecounter: Timecounter "ACPI-Fast" frequency 3579545 Hz quality 1000
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] qemufwcfg0 at acpi0 (FWCF, QEMU0002): io 0x510-0x51b
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] qemufwcfg0: <QEMU>
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] com0 at acpi0 (COM1, PNP0501-1): io 0x3f8-0x3ff irq 4
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] com0: ns16550a, 16-byte FIFO
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pckbc1 at acpi0 (KBD, PNP0303) (kbd port): io 0x60,0x64 irq 1
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pckbc2 at acpi0 (MOU, PNP0F13) (aux port): irq 12
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] fdc0 at acpi0 (FDC0, PNP0700): io 0x3f2-0x3f5,0x3f7 irq 6 drq 2
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] ACPI: Enabled 2 GPEs in block 00 to 0F
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pckbd0 at pckbc1 (kbd slot)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pckbc1: using irq 1 for kbd slot
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wskbd0 at pckbd0: console keyboard
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pms0 at pckbc1 (aux slot)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pckbc1: using irq 12 for aux slot
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wsmouse0 at pms0 mux 0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pci0 at mainbus0 bus 0: configuration mode 1
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pci0: i/o space, memory space enabled, rd/line, rd/mult, wr/inv ok
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pchb0 at pci0 dev 0 function 0: Intel 82441FX (PMC) PCI and Memory Controller (rev. 0x02)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pcib0 at pci0 dev 1 function 0: Intel 82371SB (PIIX3) PCI-ISA Bridge (rev. 0x00)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] piixide0 at pci0 dev 1 function 1: Intel 82371SB IDE Interface (PIIX3) (rev. 0x00)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] piixide0: bus-master DMA support present
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] piixide0: primary channel wired to compatibility mode
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] piixide0: primary channel interrupting at ioapic0 pin 14
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] atabus0 at piixide0 channel 0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] piixide0: secondary channel wired to compatibility mode
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] piixide0: secondary channel interrupting at ioapic0 pin 15
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] atabus1 at piixide0 channel 1
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] piixpm0 at pci0 dev 1 function 3: Intel 82371AB (PIIX4) Power Management Controller (rev. 0x03)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] timecounter: Timecounter "piixpm0" frequency 3579545 Hz quality 1000
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] piixpm0: 24-bit timer
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] piixpm0: interrupting at ioapic0 pin 9
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] iic0 at piixpm0 port 0: I2C bus
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] vga0 at pci0 dev 2 function 0: Red Hat QXL Video (rev. 0x05)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wsdisplay0 at vga0 kbdmux 1: console (80x25, vt100 emulation), using wskbd0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wsmux1: connecting to wsdisplay0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] drm at vga0 not configured
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wm0 at pci0 dev 3 function 0, 64-bit DMA: Intel i82540EM 1000BASE-T Ethernet (rev. 0x03)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wm0: interrupting at ioapic0 pin 11
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wm0: 32-bit 33MHz PCI bus
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wm0: 64 words (6 address bits) MicroWire EEPROM
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wm0: RX packet buffer size: 48KB
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wm0: Ethernet address 52:54:00:ab:9e:33
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wm0: 0x200002<LOCK_EECD,WOL>
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] makphy0 at wm0 phy 1: Marvell 88E1011 Gigabit PHY, rev. 0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] makphy0: Failed to access EADR. Are you an emulator?
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] makphy0: Failed to read EXTSR. Are you an emulator?. Regard as 1000BASE-T.
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] makphy0: 10baseT, 10baseT-FDX, 100baseTX, 100baseTX-FDX, 1000baseT, 1000baseT-FDX, auto
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] hdaudio0 at pci0 dev 4 function 0: HD Audio Controller
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] hdaudio0: interrupting at msi0 vec 0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] hdaudio0: HDA ver. 1.0, OSS 4, ISS 4, BSS 0, SDO 1, 64-bit
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] hdafg0 at hdaudio0: vendor 1af4 product 0022
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] hdafg0: DAC00 2ch: Speaker [Jack]
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] hdafg0: ADC01 2ch: Line In [Jack]
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] hdafg0: 2ch/2ch 16000Hz 22050Hz 32000Hz 44100Hz 48000Hz 88200Hz 96000Hz PCM16
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] audio0 at hdafg0: playback, capture, full duplex, independent
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] audio0: slinear_le:16 2ch 48000Hz, blk 1920 bytes (10ms) for playback
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] audio0: slinear_le:16 2ch 48000Hz, blk 1920 bytes (10ms) for recording
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] spkr0 at audio0: PC Speaker (synthesized)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wsbell at spkr0 not configured
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] uhci0 at pci0 dev 5 function 0: Intel 82801I USB UHCI Controller (rev. 0x03)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] uhci0: interrupting at ioapic0 pin 10
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] usb0 at uhci0: USB revision 1.0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] uhci1 at pci0 dev 5 function 1: Intel 82801I USB UHCI Controller (rev. 0x03)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] uhci1: interrupting at ioapic0 pin 10
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] usb1 at uhci1: USB revision 1.0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] uhci2 at pci0 dev 5 function 2: Intel 82801I USB UHCI Controller (rev. 0x03)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] uhci2: interrupting at ioapic0 pin 11
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] usb2 at uhci2: USB revision 1.0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] ehci0 at pci0 dev 5 function 7: Intel 82801I USB EHCI Controller (rev. 0x03)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] ehci0: 32-bit DMA
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] ehci0: interrupting at ioapic0 pin 11
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] ehci0: EHCI version 1.0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] ehci0: 3 companion controllers, 2 ports each: uhci0 uhci1 uhci2
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] ehci0: Using DMA subregion for control data structures
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] usb3 at ehci0: USB revision 2.0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] virtio0 at pci0 dev 6 function 0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] virtio0: console device (id 3, rev. 0x00)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] virtio0: autoconfiguration error: no matching child driver; not configured
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] virtio1 at pci0 dev 7 function 0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] virtio1: memory balloon device (id 5, rev. 0x00)
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] viomb0 at virtio1: features: 0x10000000<INDIRECT_DESC>
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] virtio1: allocated 8192 byte for virtqueue 0 for inflate, size 128
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] virtio1: allocated 8192 byte for virtqueue 1 for deflate, size 128
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] virtio1: interrupting at ioapic0 pin 11
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] isa0 at pcib0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] attimer0 at isa0 port 0x40-0x43
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] pcppi0 at isa0 port 0x61
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] spkr1 at pcppi0: PC Speaker
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] wsbell at spkr1 not configured
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] midi0 at pcppi0: PC speaker
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] sysbeep0 at pcppi0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] attimer0: attached to pcppi0
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] acpicpu0 at cpu0: ACPI CPU
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] acpicpu0: C1: HLT, lat   0 us, pow     0 mW
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] acpicpu1 at cpu1: ACPI CPU
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] acpicpu2 at cpu2: ACPI CPU
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] acpicpu3 at cpu3: ACPI CPU
+Jul  1 22:15:10 homer /netbsd: [   1.0146137] timecounter: Timecounter "clockinterrupt" frequency 100 Hz quality 0
+Jul  1 22:15:10 homer /netbsd: [   1.8358027] atapibus0 at atabus0: 2 targets
+Jul  1 22:15:10 homer /netbsd: [   1.8630556] uhub0 at usb0: NetBSD (0x0000) UHCI root hub (0x0000), class 9/0, rev 1.00/1.00, addr 1
+Jul  1 22:15:10 homer /netbsd: [   1.8630556] uhub0: 2 ports with 2 removable, self powered
+Jul  1 22:15:10 homer /netbsd: [   1.8768238] uhub1 at usb3: NetBSD (0x0000) EHCI root hub (0x0000), class 9/0, rev 2.00/1.00, addr 1
+Jul  1 22:15:10 homer /netbsd: [   1.8768238] uhub1: 6 ports with 6 removable, self powered
+Jul  1 22:15:10 homer /netbsd: [   1.8768238] uhub2 at usb2: NetBSD (0x0000) UHCI root hub (0x0000), class 9/0, rev 1.00/1.00, addr 1
+Jul  1 22:15:10 homer /netbsd: [   1.8903090] uhub2: 2 ports with 2 removable, self powered
+Jul  1 22:15:10 homer /netbsd: [   1.8903090] cd0 at atapibus0 drive 1: <QEMU DVD-ROM, QM00002, 2.5+> cdrom removable
+Jul  1 22:15:10 homer /netbsd: [   1.9039432] uhub3 at usb1: NetBSD (0x0000) UHCI root hub (0x0000), class 9/0, rev 1.00/1.00, addr 1
+Jul  1 22:15:10 homer /netbsd: [   1.9175561] uhub3: 2 ports with 2 removable, self powered
+Jul  1 22:15:10 homer /netbsd: [   1.9175561] cd0: 32-bit data port
+Jul  1 22:15:10 homer /netbsd: [   1.9175561] cd0: drive supports PIO mode 4, DMA mode 2, Ultra-DMA mode 5 (Ultra/100)
+Jul  1 22:15:10 homer /netbsd: [   1.9175561] wd0 at atabus0 drive 0
+Jul  1 22:15:10 homer /netbsd: [   1.9320906] wd0: <QEMU HARDDISK>
+Jul  1 22:15:10 homer /netbsd: [   1.9320906] wd0: drive supports 16-sector PIO transfers, LBA48 addressing
+Jul  1 22:15:10 homer /netbsd: [   1.9320906] wd0: 81920 MB, 166440 cyl, 16 head, 63 sec, 512 bytes/sect x 167772160 sectors
+Jul  1 22:15:10 homer /netbsd: [   1.9720608] wd0: 32-bit data port
+Jul  1 22:15:10 homer /netbsd: [   1.9720608] wd0: drive supports PIO mode 4, DMA mode 2, Ultra-DMA mode 5 (Ultra/100)
+Jul  1 22:15:10 homer /netbsd: [   1.9720608] wd0(piixide0:0:0): using PIO mode 4, DMA mode 2 (using DMA)
+Jul  1 22:15:10 homer /netbsd: [   1.9720608] cd0(piixide0:0:1): using PIO mode 4, DMA mode 2 (using DMA)
+Jul  1 22:15:10 homer /netbsd: [   1.9720608] IPsec: Initialized Security Association Processing.
+Jul  1 22:15:10 homer /netbsd: [   3.3754866] uhidev0 at uhub1 port 1 configuration 1 interface 0
+Jul  1 22:15:10 homer /netbsd: [   3.3891535] uhidev0: QEMU (0x0627) QEMU USB Tablet (0x0001), rev 2.00/0.00, addr 2, iclass 3/0
+Jul  1 22:15:10 homer /netbsd: [   3.4058925] ums0 at uhidev0: 3 buttons and Z dir
+Jul  1 22:15:10 homer /netbsd: [   3.4165192] wsmouse1 at ums0 mux 0
+Jul  1 22:15:10 homer /netbsd: [   3.4165192] swwdog0: software watchdog initialized
+Jul  1 22:15:10 homer /netbsd: [   3.4438389] WARNING: 1 error while detecting hardware; check system log.
+Jul  1 22:15:10 homer /netbsd: [   3.4438389] boot device: wd0
+Jul  1 22:15:10 homer /netbsd: [   3.4595213] root on wd0a dumps on wd0b
+Jul  1 22:15:10 homer /netbsd: [   3.4865611] root file system type: ffs
+Jul  1 22:15:10 homer /netbsd: [   3.4865611] kern.module.path=/stand/amd64/10.0/modules
+Jul  1 22:15:10 homer /netbsd: [  15.7202467] wsdisplay0: screen 1 added (80x25, vt100 emulation)
+Jul  1 22:15:10 homer /netbsd: [  15.7338858] wsdisplay0: screen 2 added (80x25, vt100 emulation)
+Jul  1 22:15:10 homer /netbsd: [  15.7338858] wsdisplay0: screen 3 added (80x25, vt100 emulation)
+Jul  1 22:15:10 homer /netbsd: [  15.7338858] wsdisplay0: screen 4 added (80x25, vt100 emulation)
+Jul  1 22:15:10 homer dhcpcd[598]: wm0: leased 10.10.13.1 for 1800 seconds
+Jul  1 22:15:10 homer dhcpcd[598]: wm0: adding route to 10.10.0.0/16
+Jul  1 22:15:10 homer dhcpcd[598]: wm0: adding default route via 10.10.1.1
+Jul  1 22:15:20 homer ntpdate[1461]: step time server 2a03:4000:4e:9ed:34db:7bff:feea:4253 offset +1.147144 sec
+Jul  1 22:15:31 homer savecore: no core dump
+Jul  1 22:15:36 homer ntpd[1716]: ntpd 4.2.8p15-o Thu Mar 28 08:33:33 UTC 2024 (1): Starting
+Jul  1 22:15:36 homer ntpd[1716]: Command line: /usr/sbin/ntpd -p /var/run/ntpd.pid
+Jul  1 22:15:36 homer ntpd[1716]: ----------------------------------------------------
+Jul  1 22:15:36 homer ntpd[1716]: ntp-4 is maintained by Network Time Foundation,
+Jul  1 22:15:36 homer ntpd[1716]: Inc. (NTF), a non-profit 501(c)(3) public-benefit
+Jul  1 22:15:36 homer ntpd[1716]: corporation.  Support and training for ntp-4 are
+Jul  1 22:15:36 homer ntpd[1716]: available at https://www.nwtime.org/support
+Jul  1 22:15:36 homer ntpd[1716]: ----------------------------------------------------
+Jul  1 22:15:38 homer ntpd[2341]: proto: precision = 17.041 usec (-16)
+Jul  1 22:15:38 homer ntpd[2341]: baseday_set_day: invalid day (25556), UNIX epoch substituted
+Jul  1 22:15:38 homer ntpd[2341]: basedate set to 1970-01-01
+Jul  1 22:15:38 homer ntpd[2341]: gps base set to 1980-01-06 (week 0)
+Jul  1 22:15:39 homer ntpd[2341]: Listen and drop on 0 v6wildcard [::]:123
+Jul  1 22:15:39 homer ntpd[2341]: Listen and drop on 1 v4wildcard 0.0.0.0:123
+Jul  1 22:15:39 homer ntpd[2341]: Listen normally on 2 wm0 [fe80::5054:ff:feab:9e33%1]:123
+Jul  1 22:15:39 homer ntpd[2341]: Listen normally on 3 wm0 [2a00:4841:1600:8300:5831:b4be:b1f1:3a55]:123
+Jul  1 22:15:39 homer ntpd[2341]: Listen normally on 4 wm0 [fd00::154a:9d22:c1e1:87]:123
+Jul  1 22:15:39 homer ntpd[2341]: Listen normally on 5 wm0 10.10.13.1:123
+Jul  1 22:15:39 homer ntpd[2341]: Listen normally on 6 lo0 127.0.0.1:123
+Jul  1 22:15:39 homer ntpd[2341]: Listen normally on 7 lo0 [::1]:123
+Jul  1 22:15:39 homer ntpd[2341]: Listen normally on 8 lo0 [fe80::1%2]:123
+Jul  1 22:15:39 homer ntpd[2341]: Listening on routing socket on fd #29 for interface updates
+Jul  1 22:15:45 homer ntpd[2341]: kernel reports TIME_ERROR: 0x41: Clock Unsynchronized
+Jul  1 22:15:45 homer ntpd[2341]: kernel reports TIME_ERROR: 0x41: Clock Unsynchronized
+Jul  1 22:15:45 homer ntpd[2341]: Soliciting pool server 2a02:c206:3012:3421::1
+Jul  1 22:15:46 homer ntpd[2341]: Soliciting pool server 2a03:4000:3b:1cd:1851:5aff:feea:45c7
+Jul  1 22:15:47 homer ntpd[2341]: Soliciting pool server 2001:638:504:2000::34
+Jul  1 22:15:48 homer ntpd[2341]: Soliciting pool server 2a01:4f8:160:43aa::2
+Jul  1 22:15:49 homer ntpd[2341]: Soliciting pool server 185.41.106.152
+Jul  1 22:15:50 homer ntpd[2341]: Soliciting pool server 94.130.128.214
+Jul  1 22:15:51 homer ntpd[2341]: Soliciting pool server 194.59.207.107
+Jul  1 22:15:52 homer ntpd[2341]: Soliciting pool server 185.252.140.126
+Jul  1 22:15:53 homer ntpd[2341]: Soliciting pool server 2a01:4f8:120:7335::123
+Jul  1 22:15:54 homer ntpd[2341]: Soliciting pool server 2a0e:b107:27d0:1::3
+Jul  1 22:15:55 homer ntpd[2341]: Soliciting pool server 2a02:8106:21:9400::1
+Jul  1 22:31:30 homer ntpd[2341]: 2001:638:504:2000::34 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul  1 22:31:33 homer ntpd[2341]: 2a01:4f8:160:43aa::2 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul  1 22:33:49 homer ntpd[2341]: 2a0e:b107:27d0:1::3 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul  1 22:33:49 homer ntpd[2341]: 2a03:4000:3b:1cd:1851:5aff:feea:45c7 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul  1 22:38:24 homer ntpd[2341]: 2a02:c206:3012:3421::1 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul  2 05:09:49 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul  2 05:09:49 homer dhcpcd[598]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul  2 05:09:51 homer dhcpcd[598]: wm0: adding address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Jul  2 05:09:51 homer dhcpcd[598]: wm0: adding route to 2a00:4841:1702:a00::/64
+Jul  2 05:09:51 homer dhcpcd[598]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul  2 05:09:51 homer dhcpcd[598]: wm0: deleting address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Jul  2 05:09:51 homer dhcpcd[598]: wm0: deleting route to 2a00:4841:1600:8300::/64
+Jul  2 05:09:52 homer ntpd[2341]: Deleting interface #3 wm0, 2a00:4841:1600:8300:5831:b4be:b1f1:3a55#123, interface stats: received=111, sent=201, dropped=0, active_time=24848 secs
+Jul  2 05:09:52 homer ntpd[2341]: 2a01:4f8:120:7335::123 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul  2 05:09:54 homer ntpd[2341]: Listen normally on 9 wm0 [2a00:4841:1702:a00:ded0:7578:ee7:bc58]:123
+Jul  2 05:09:54 homer ntpd[2341]: 2a01:4f8:120:7335::123 local addr fd00::154a:9d22:c1e1:87 -> 2a00:4841:1702:a00:ded0:7578:ee7:bc58
+Jul  2 06:15:35 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78 is unreachable
+Jul  2 06:15:37 homer dhcpcd[598]: wm0: soliciting an IPv6 router
+Jul  2 06:15:46 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78 is reachable again
+Jul  2 21:00:16 homer syslogd[1654]: restart
+Jul  3 05:08:30 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul  3 05:08:30 homer dhcpcd[598]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul  3 05:08:33 homer dhcpcd[598]: wm0: adding address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Jul  3 05:08:33 homer dhcpcd[598]: wm0: adding route to 2a00:4841:1600:8300::/64
+Jul  3 05:08:33 homer dhcpcd[598]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul  3 05:08:36 homer ntpd[2341]: Listen normally on 10 wm0 [2a00:4841:1600:8300:5831:b4be:b1f1:3a55]:123
+Jul  3 05:08:36 homer ntpd[2341]: 2a01:4f8:120:7335::123 local addr 2a00:4841:1702:a00:ded0:7578:ee7:bc58 -> 2a00:4841:1600:8300:5831:b4be:b1f1:3a55
+Jul  3 05:09:03 homer dhcpcd[598]: wm0: deleting address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Jul  3 05:09:03 homer dhcpcd[598]: wm0: deleting route to 2a00:4841:1702:a00::/64
+Jul  3 05:09:04 homer ntpd[2341]: Deleting interface #9 wm0, 2a00:4841:1702:a00:ded0:7578:ee7:bc58#123, interface stats: received=16, sent=185, dropped=0, active_time=86350 secs
+Jul  3 21:00:16 homer syslogd[1654]: restart
+Jul  3 21:00:30 homer syslogd[1654]: restart
+Jul  4 05:07:24 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul  4 05:07:24 homer dhcpcd[598]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul  4 05:07:26 homer dhcpcd[598]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul  4 21:00:17 homer syslogd[1654]: restart
+Jul  5 14:39:46 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78 is unreachable
+Jul  5 14:39:46 homer dhcpcd[598]: wm0: soliciting an IPv6 router
+Jul  5 14:40:01 homer dhcpcd[598]: wm0: no IPv6 Routers available
+Jul  5 14:46:33 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78 is reachable again
+Jul  5 21:00:16 homer syslogd[1654]: restart
+Jul  6 21:00:16 homer syslogd[1654]: restart
+Jul  7 21:00:16 homer syslogd[1654]: restart
+Jul  7 22:00:17 homer syslogd[1654]: restart
+Jul  8 21:00:16 homer syslogd[1654]: restart
+Jul  9 21:00:16 homer syslogd[1654]: restart
+Jul 10 21:00:15 homer syslogd[1654]: restart
+Jul 11 05:57:01 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul 11 05:57:01 homer dhcpcd[598]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul 11 05:57:03 homer dhcpcd[598]: wm0: adding address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Jul 11 05:57:03 homer dhcpcd[598]: wm0: adding route to 2a00:4841:1702:a00::/64
+Jul 11 05:57:03 homer dhcpcd[598]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul 11 05:57:07 homer ntpd[2341]: Listen normally on 11 wm0 [2a00:4841:1702:a00:ded0:7578:ee7:bc58]:123
+Jul 11 05:57:08 homer ntpd[2341]: 2a01:4f8:120:7335::123 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> 2a00:4841:1702:a00:ded0:7578:ee7:bc58
+Jul 11 05:57:20 homer dhcpcd[598]: wm0: deleting address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Jul 11 05:57:20 homer dhcpcd[598]: wm0: deleting route to 2a00:4841:1600:8300::/64
+Jul 11 05:57:21 homer ntpd[2341]: Deleting interface #10 wm0, 2a00:4841:1600:8300:5831:b4be:b1f1:3a55#123, interface stats: received=173, sent=1524, dropped=0, active_time=694125 secs
+Jul 11 21:00:16 homer syslogd[1654]: restart
+Jul 12 00:00:16 homer syslogd[1654]: restart
+Jul 12 05:55:54 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul 12 05:55:54 homer dhcpcd[598]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul 12 05:55:56 homer dhcpcd[598]: wm0: adding address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Jul 12 05:55:56 homer dhcpcd[598]: wm0: adding route to 2a00:4841:1600:8300::/64
+Jul 12 05:55:56 homer dhcpcd[598]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul 12 05:55:57 homer ntpd[2341]: 2a01:4f8:120:7335::123 local addr 2a00:4841:1702:a00:ded0:7578:ee7:bc58 -> fd00::154a:9d22:c1e1:87
+Jul 12 05:56:03 homer ntpd[2341]: Listen normally on 12 wm0 [2a00:4841:1600:8300:5831:b4be:b1f1:3a55]:123
+Jul 12 05:56:03 homer ntpd[2341]: 2a01:4f8:120:7335::123 local addr fd00::154a:9d22:c1e1:87 -> 2a00:4841:1600:8300:5831:b4be:b1f1:3a55
+Jul 12 05:56:10 homer dhcpcd[598]: wm0: deleting address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Jul 12 05:56:10 homer dhcpcd[598]: wm0: deleting route to 2a00:4841:1702:a00::/64
+Jul 12 05:56:13 homer ntpd[2341]: Deleting interface #11 wm0, 2a00:4841:1702:a00:ded0:7578:ee7:bc58#123, interface stats: received=12, sent=209, dropped=0, active_time=86346 secs
+Jul 12 21:00:16 homer syslogd[1654]: restart
+Jul 13 21:00:16 homer syslogd[1654]: restart
+Jul 14 21:00:16 homer syslogd[1654]: restart
+Jul 15 21:00:17 homer syslogd[1654]: restart
+Jul 15 22:41:13 homer ntpd[2341]: Soliciting pool server 2a01:4f8:151:3124:bad:c47:0:500
+Jul 15 22:43:28 homer ntpd[2341]: Soliciting pool server 2a0e:b107:27d0:1::3
+Jul 15 22:44:33 homer ntpd[2341]: Soliciting pool server 2a02:8106:21:9400::1
+Jul 15 22:45:40 homer ntpd[2341]: Soliciting pool server 2a01:4f8:151:3124:bad:c47:0:500
+Jul 15 22:47:51 homer ntpd[2341]: Soliciting pool server 2a01:4f8:a0:7143::2
+Jul 15 22:48:55 homer ntpd[2341]: Soliciting pool server 2a01:4f8:191:946a::2
+Jul 15 22:50:01 homer ntpd[2341]: Soliciting pool server 2a01:4f8:c17:645e::1
+Jul 15 22:51:05 homer ntpd[2341]: Soliciting pool server 2a01:238:4216:400:2719:9f12:f159:ba3f
+Jul 15 22:52:10 homer ntpd[2341]: Soliciting pool server 162.159.200.1
+Jul 15 22:52:11 homer ntpd[2341]: Soliciting pool server 116.203.96.227
+Jul 15 22:52:12 homer ntpd[2341]: Soliciting pool server 144.76.218.252
+Jul 15 22:52:13 homer ntpd[2341]: Soliciting pool server 212.132.97.26
+Jul 15 22:52:14 homer ntpd[2341]: Soliciting pool server 2a01:4f8:191:946a::2
+Jul 15 22:52:41 homer ntpd[2341]: 2a01:4f8:120:7335::123 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 15 23:16:23 homer ntpd[2341]: Soliciting pool server 2001:418:3ff::1:53
+Jul 16 01:00:16 homer syslogd[1654]: restart
+Jul 16 09:10:41 homer ntpd[2341]: 116.203.96.227 local addr 10.10.13.1 -> <null>
+Jul 16 09:27:45 homer ntpd[2341]: 185.252.140.126 local addr 10.10.13.1 -> <null>
+Jul 16 09:35:15 homer ntpd[2341]: 94.130.128.214 local addr 10.10.13.1 -> <null>
+Jul 16 19:32:12 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul 16 19:32:12 homer dhcpcd[598]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul 16 19:32:21 homer dhcpcd[598]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul 16 21:00:16 homer syslogd[1654]: restart
+Jul 17 05:10:16 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul 17 05:10:16 homer dhcpcd[598]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul 17 05:10:18 homer dhcpcd[598]: wm0: adding address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Jul 17 05:10:18 homer dhcpcd[598]: wm0: adding route to 2a00:4841:1702:a00::/64
+Jul 17 05:10:18 homer dhcpcd[598]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul 17 05:10:22 homer ntpd[2341]: Listen normally on 13 wm0 [2a00:4841:1702:a00:ded0:7578:ee7:bc58]:123
+Jul 17 05:10:32 homer dhcpcd[598]: wm0: deleting address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Jul 17 05:10:32 homer dhcpcd[598]: wm0: deleting route to 2a00:4841:1600:8300::/64
+Jul 17 05:10:34 homer ntpd[2341]: Deleting interface #12 wm0, 2a00:4841:1600:8300:5831:b4be:b1f1:3a55#123, interface stats: received=121, sent=785, dropped=0, active_time=429261 secs
+Jul 17 21:00:16 homer syslogd[1654]: restart
+Jul 18 05:08:56 homer dhcpcd[598]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul 18 05:08:56 homer dhcpcd[598]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul 18 05:08:59 homer dhcpcd[598]: wm0: adding address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Jul 18 05:08:59 homer dhcpcd[598]: wm0: adding route to 2a00:4841:1600:8300::/64
+Jul 18 05:08:59 homer dhcpcd[598]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul 18 05:09:03 homer ntpd[2341]: Listen normally on 14 wm0 [2a00:4841:1600:8300:5831:b4be:b1f1:3a55]:123
+Jul 18 05:09:33 homer dhcpcd[598]: wm0: deleting address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Jul 18 05:09:33 homer dhcpcd[598]: wm0: deleting route to 2a00:4841:1702:a00::/64
+Jul 18 05:09:35 homer ntpd[2341]: Deleting interface #13 wm0, 2a00:4841:1702:a00:ded0:7578:ee7:bc58#123, interface stats: received=0, sent=0, dropped=0, active_time=86353 secs
+Jul 18 21:00:16 homer syslogd[1654]: restart
+Jul 18 23:02:22 homer syslogd[1654]: Exiting on signal 15
+Jul 18 23:27:15 homer syslogd[1956]: restart
+Jul 18 23:27:15 homer /netbsd: [   1.0000000] Copyright (c) 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003,
+Jul 18 23:27:15 homer /netbsd: [   1.0000000]     2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013,
+Jul 18 23:27:15 homer /netbsd: [   1.0000000]     2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023,
+Jul 18 23:27:15 homer /netbsd: [   1.0000000]     2024
+Jul 18 23:27:15 homer /netbsd: [   1.0000000]     The NetBSD Foundation, Inc.  All rights reserved.
+Jul 18 23:27:15 homer /netbsd: [   1.0000000] Copyright (c) 1982, 1986, 1989, 1991, 1993
+Jul 18 23:27:15 homer /netbsd: [   1.0000000]     The Regents of the University of California.  All rights reserved.
+Jul 18 23:27:15 homer /netbsd: 
+Jul 18 23:27:15 homer /netbsd: [   1.0000000] NetBSD 10.0 (GENERIC) #0: Thu Mar 28 08:33:33 UTC 2024
+Jul 18 23:27:15 homer /netbsd: [   1.0000000] 	mkrepro@mkrepro.NetBSD.org:/usr/src/sys/arch/amd64/compile/GENERIC
+Jul 18 23:27:15 homer /netbsd: [   1.0000000] total memory = 767 MB
+Jul 18 23:27:15 homer /netbsd: [   1.0000000] avail memory = 714 MB
+Jul 18 23:27:15 homer /netbsd: [   1.0000000] timecounter: Timecounters tick every 10.000 msec
+Jul 18 23:27:15 homer /netbsd: [   1.0000000] Kernelized RAIDframe activated
+Jul 18 23:27:15 homer /netbsd: [   1.0000000] timecounter: Timecounter "i8254" frequency 1193182 Hz quality 100
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] mainbus0 (root)
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] ACPI: RSDP 0x00000000000F5890 000014 (v00 BOCHS )
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] ACPI: RSDT 0x000000002FFE1A52 000030 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] ACPI: FACP 0x000000002FFE1926 000074 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] ACPI: DSDT 0x000000002FFE0040 0018E6 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] ACPI: FACS 0x000000002FFE0000 000040
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] ACPI: APIC 0x000000002FFE199A 000090 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] ACPI: WAET 0x000000002FFE1A2A 000028 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] ACPI: 1 ACPI AML tables successfully acquired and loaded
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] ioapic0 at mainbus0 apid 0: pa 0xfec00000, version 0x11, 24 pins
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu0 at mainbus0 apid 0
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu0: Use lfence to serialize rdtsc
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu0: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu0: node 0, package 0, core 0, smt 0
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu1 at mainbus0 apid 1
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu1: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu1: node 0, package 1, core 0, smt 0
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu2 at mainbus0 apid 2
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu2: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu2: node 0, package 2, core 0, smt 0
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu3 at mainbus0 apid 3
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu3: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] cpu3: node 0, package 3, core 0, smt 0
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] acpi0 at mainbus0: Intel ACPICA 20221020
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] acpi0: X/RSDT: OemId <BOCHS ,BXPC    ,00000001>, AslId <BXPC,00000001>
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKS: ACPI: Found matching pin for 0.1.INTA at func 3: 9
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKB: ACPI: Found matching pin for 0.2.INTA at func 0: 10
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKC: ACPI: Found matching pin for 0.3.INTA at func 0: 11
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKD: ACPI: Found matching pin for 0.4.INTA at func 0: 11
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKA: ACPI: Found matching pin for 0.5.INTA at func 0: 10
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKB: ACPI: Found matching pin for 0.5.INTB at func 1: 10
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKC: ACPI: Found matching pin for 0.5.INTC at func 2: 11
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKD: ACPI: Found matching pin for 0.5.INTD at func 7: 11
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKB: ACPI: Found matching pin for 0.6.INTA at func 0: 10
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] LNKC: ACPI: Found matching pin for 0.7.INTA at func 0: 11
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] acpi0: SCI interrupting at int 9
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] acpi0: fixed power button present
+Jul 18 23:27:15 homer /netbsd: [   1.0000040] timecounter: Timecounter "ACPI-Fast" frequency 3579545 Hz quality 1000
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] qemufwcfg0 at acpi0 (FWCF, QEMU0002): io 0x510-0x51b
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] qemufwcfg0: <QEMU>
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] com0 at acpi0 (COM1, PNP0501-1): io 0x3f8-0x3ff irq 4
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] com0: ns16550a, 16-byte FIFO
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pckbc1 at acpi0 (KBD, PNP0303) (kbd port): io 0x60,0x64 irq 1
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pckbc2 at acpi0 (MOU, PNP0F13) (aux port): irq 12
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] fdc0 at acpi0 (FDC0, PNP0700): io 0x3f2-0x3f5,0x3f7 irq 6 drq 2
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] ACPI: Enabled 2 GPEs in block 00 to 0F
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pckbd0 at pckbc1 (kbd slot)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pckbc1: using irq 1 for kbd slot
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wskbd0 at pckbd0: console keyboard
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pms0 at pckbc1 (aux slot)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pckbc1: using irq 12 for aux slot
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wsmouse0 at pms0 mux 0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pci0 at mainbus0 bus 0: configuration mode 1
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pci0: i/o space, memory space enabled, rd/line, rd/mult, wr/inv ok
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pchb0 at pci0 dev 0 function 0: Intel 82441FX (PMC) PCI and Memory Controller (rev. 0x02)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pcib0 at pci0 dev 1 function 0: Intel 82371SB (PIIX3) PCI-ISA Bridge (rev. 0x00)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] piixide0 at pci0 dev 1 function 1: Intel 82371SB IDE Interface (PIIX3) (rev. 0x00)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] piixide0: bus-master DMA support present
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] piixide0: primary channel wired to compatibility mode
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] piixide0: primary channel interrupting at ioapic0 pin 14
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] atabus0 at piixide0 channel 0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] piixide0: secondary channel wired to compatibility mode
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] piixide0: secondary channel interrupting at ioapic0 pin 15
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] atabus1 at piixide0 channel 1
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] piixpm0 at pci0 dev 1 function 3: Intel 82371AB (PIIX4) Power Management Controller (rev. 0x03)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] timecounter: Timecounter "piixpm0" frequency 3579545 Hz quality 1000
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] piixpm0: 24-bit timer
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] piixpm0: interrupting at ioapic0 pin 9
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] iic0 at piixpm0 port 0: I2C bus
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] vga0 at pci0 dev 2 function 0: Red Hat QXL Video (rev. 0x05)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wsdisplay0 at vga0 kbdmux 1: console (80x25, vt100 emulation), using wskbd0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wsmux1: connecting to wsdisplay0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] drm at vga0 not configured
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wm0 at pci0 dev 3 function 0, 64-bit DMA: Intel i82540EM 1000BASE-T Ethernet (rev. 0x03)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wm0: interrupting at ioapic0 pin 11
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wm0: 32-bit 33MHz PCI bus
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wm0: 64 words (6 address bits) MicroWire EEPROM
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wm0: RX packet buffer size: 48KB
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wm0: Ethernet address 52:54:00:ab:9e:33
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wm0: 0x200002<LOCK_EECD,WOL>
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] makphy0 at wm0 phy 1: Marvell 88E1011 Gigabit PHY, rev. 0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] makphy0: Failed to access EADR. Are you an emulator?
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] makphy0: Failed to read EXTSR. Are you an emulator?. Regard as 1000BASE-T.
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] makphy0: 10baseT, 10baseT-FDX, 100baseTX, 100baseTX-FDX, 1000baseT, 1000baseT-FDX, auto
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] hdaudio0 at pci0 dev 4 function 0: HD Audio Controller
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] hdaudio0: interrupting at msi0 vec 0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] hdaudio0: HDA ver. 1.0, OSS 4, ISS 4, BSS 0, SDO 1, 64-bit
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] hdafg0 at hdaudio0: vendor 1af4 product 0022
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] hdafg0: DAC00 2ch: Speaker [Jack]
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] hdafg0: ADC01 2ch: Line In [Jack]
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] hdafg0: 2ch/2ch 16000Hz 22050Hz 32000Hz 44100Hz 48000Hz 88200Hz 96000Hz PCM16
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] audio0 at hdafg0: playback, capture, full duplex, independent
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] audio0: slinear_le:16 2ch 48000Hz, blk 1920 bytes (10ms) for playback
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] audio0: slinear_le:16 2ch 48000Hz, blk 1920 bytes (10ms) for recording
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] spkr0 at audio0: PC Speaker (synthesized)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wsbell at spkr0 not configured
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] uhci0 at pci0 dev 5 function 0: Intel 82801I USB UHCI Controller (rev. 0x03)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] uhci0: interrupting at ioapic0 pin 10
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] usb0 at uhci0: USB revision 1.0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] uhci1 at pci0 dev 5 function 1: Intel 82801I USB UHCI Controller (rev. 0x03)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] uhci1: interrupting at ioapic0 pin 10
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] usb1 at uhci1: USB revision 1.0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] uhci2 at pci0 dev 5 function 2: Intel 82801I USB UHCI Controller (rev. 0x03)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] uhci2: interrupting at ioapic0 pin 11
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] usb2 at uhci2: USB revision 1.0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] ehci0 at pci0 dev 5 function 7: Intel 82801I USB EHCI Controller (rev. 0x03)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] ehci0: 32-bit DMA
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] ehci0: interrupting at ioapic0 pin 11
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] ehci0: EHCI version 1.0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] ehci0: 3 companion controllers, 2 ports each: uhci0 uhci1 uhci2
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] ehci0: Using DMA subregion for control data structures
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] usb3 at ehci0: USB revision 2.0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] virtio0 at pci0 dev 6 function 0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] virtio0: console device (id 3, rev. 0x00)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] virtio0: autoconfiguration error: no matching child driver; not configured
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] virtio1 at pci0 dev 7 function 0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] virtio1: memory balloon device (id 5, rev. 0x00)
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] viomb0 at virtio1: features: 0x10000000<INDIRECT_DESC>
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] virtio1: allocated 8192 byte for virtqueue 0 for inflate, size 128
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] virtio1: allocated 8192 byte for virtqueue 1 for deflate, size 128
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] virtio1: interrupting at ioapic0 pin 11
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] isa0 at pcib0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] attimer0 at isa0 port 0x40-0x43
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] pcppi0 at isa0 port 0x61
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] spkr1 at pcppi0: PC Speaker
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] wsbell at spkr1 not configured
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] midi0 at pcppi0: PC speaker
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] sysbeep0 at pcppi0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] attimer0: attached to pcppi0
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] acpicpu0 at cpu0: ACPI CPU
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] acpicpu0: C1: HLT, lat   0 us, pow     0 mW
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] acpicpu1 at cpu1: ACPI CPU
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] acpicpu2 at cpu2: ACPI CPU
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] acpicpu3 at cpu3: ACPI CPU
+Jul 18 23:27:15 homer /netbsd: [   1.0050996] timecounter: Timecounter "clockinterrupt" frequency 100 Hz quality 0
+Jul 18 23:27:15 homer /netbsd: [   1.1950609] atapibus0 at atabus0: 2 targets
+Jul 18 23:27:15 homer /netbsd: [   1.2063827] uhub0 at usb2: NetBSD (0x0000) UHCI root hub (0x0000), class 9/0, rev 1.00/1.00, addr 1
+Jul 18 23:27:15 homer /netbsd: [   1.2176582] uhub0: 2 ports with 2 removable, self powered
+Jul 18 23:27:15 homer /netbsd: [   1.2176582] uhub1 at usb1: NetBSD (0x0000) UHCI root hub (0x0000), class 9/0, rev 1.00/1.00, addr 1
+Jul 18 23:27:15 homer /netbsd: [   1.2176582] uhub1: 2 ports with 2 removable, self powered
+Jul 18 23:27:15 homer /netbsd: [   1.2176582] uhub2 at usb0: NetBSD (0x0000) UHCI root hub (0x0000), class 9/0, rev 1.00/1.00, addr 1
+Jul 18 23:27:15 homer /netbsd: [   1.2289350] uhub2: 2 ports with 2 removable, self powered
+Jul 18 23:27:15 homer /netbsd: [   1.2289350] cd0 at atapibus0 drive 1: <QEMU DVD-ROM, QM00002, 2.5+> cdrom removable
+Jul 18 23:27:15 homer /netbsd: [   1.2289350] cd0: 32-bit data port
+Jul 18 23:27:15 homer /netbsd: [   1.2289350] cd0: drive supports PIO mode 4, DMA mode 2, Ultra-DMA mode 5 (Ultra/100)
+Jul 18 23:27:15 homer /netbsd: [   1.2289350] wd0 at atabus0 drive 0
+Jul 18 23:27:15 homer /netbsd: [   1.2408511] wd0: <QEMU HARDDISK>
+Jul 18 23:27:15 homer /netbsd: [   1.2537005] wd0: drive supports 16-sector PIO transfers, LBA48 addressing
+Jul 18 23:27:15 homer /netbsd: [   1.2537005] wd0: 81920 MB, 166440 cyl, 16 head, 63 sec, 512 bytes/sect x 167772160 sectors
+Jul 18 23:27:15 homer /netbsd: [   1.2537005] uhub3 at usb3: NetBSD (0x0000) EHCI root hub (0x0000), class 9/0, rev 2.00/1.00, addr 1
+Jul 18 23:27:15 homer /netbsd: [   1.2627888] uhub3: 6 ports with 6 removable, self powered
+Jul 18 23:27:15 homer /netbsd: [   1.2741366] wd0: 32-bit data port
+Jul 18 23:27:15 homer /netbsd: [   1.2741366] wd0: drive supports PIO mode 4, DMA mode 2, Ultra-DMA mode 5 (Ultra/100)
+Jul 18 23:27:15 homer /netbsd: [   1.2741366] wd0(piixide0:0:0): using PIO mode 4, DMA mode 2 (using DMA)
+Jul 18 23:27:15 homer /netbsd: [   1.2741366] cd0(piixide0:0:1): using PIO mode 4, DMA mode 2 (using DMA)
+Jul 18 23:27:15 homer /netbsd: [   1.2854788] IPsec: Initialized Security Association Processing.
+Jul 18 23:27:15 homer /netbsd: [   2.5268757] uhidev0 at uhub3 port 1 configuration 1 interface 0
+Jul 18 23:27:15 homer /netbsd: [   2.5268757] uhidev0: QEMU (0x0627) QEMU USB Tablet (0x0001), rev 2.00/0.00, addr 2, iclass 3/0
+Jul 18 23:27:15 homer /netbsd: [   2.5268757] ums0 at uhidev0: 3 buttons and Z dir
+Jul 18 23:27:15 homer /netbsd: [   2.5508827] wsmouse1 at ums0 mux 0
+Jul 18 23:27:15 homer /netbsd: [   2.5508827] swwdog0: software watchdog initialized
+Jul 18 23:27:15 homer /netbsd: [   2.5606669] WARNING: 1 error while detecting hardware; check system log.
+Jul 18 23:27:15 homer /netbsd: [   2.5719127] boot device: wd0
+Jul 18 23:27:15 homer /netbsd: [   2.5719127] root on wd0a dumps on wd0b
+Jul 18 23:27:15 homer /netbsd: [   2.5945963] root file system type: ffs
+Jul 18 23:27:15 homer /netbsd: [   2.6057779] kern.module.path=/stand/amd64/10.0/modules
+Jul 18 23:27:15 homer /netbsd: [ 851.4965506] wsdisplay0: screen 1 added (80x25, vt100 emulation)
+Jul 18 23:27:15 homer /netbsd: [ 851.4965506] wsdisplay0: screen 2 added (80x25, vt100 emulation)
+Jul 18 23:27:15 homer /netbsd: [ 851.4965506] wsdisplay0: screen 3 added (80x25, vt100 emulation)
+Jul 18 23:27:15 homer /netbsd: [ 851.5078518] wsdisplay0: screen 4 added (80x25, vt100 emulation)
+Jul 18 23:27:17 homer ntpdate[2297]: sendto(server1a.meinberg.de): No route to host
+Jul 18 23:27:17 homer ntpdate[2297]: sendto(ntp0.rrze.uni-erlangen.de): No route to host
+Jul 18 23:27:17 homer ntpdate[2297]: sendto(kronos.mailus.de): No route to host
+Jul 18 23:27:17 homer ntpdate[2297]: sendto(ip85.215.189.120.pbiaas.com): No route to host
+Jul 18 23:27:17 homer dhcpcd[1502]: wm0: leased 10.10.13.1 for 1800 seconds
+Jul 18 23:27:17 homer dhcpcd[1502]: wm0: adding route to 10.10.0.0/16
+Jul 18 23:27:17 homer dhcpcd[1502]: wm0: adding default route via 10.10.1.1
+Jul 18 23:27:25 homer ntpdate[2297]: step time server 2001:638:502:c015::232 offset +0.662630 sec
+Jul 18 23:27:46 homer savecore: no core dump
+Jul 18 23:27:46 homer ntpd[2474]: ntpd 4.2.8p15-o Thu Mar 28 08:33:33 UTC 2024 (1): Starting
+Jul 18 23:27:46 homer ntpd[2474]: Command line: /usr/sbin/ntpd -p /var/run/ntpd.pid
+Jul 18 23:27:46 homer ntpd[2474]: ----------------------------------------------------
+Jul 18 23:27:46 homer ntpd[2474]: ntp-4 is maintained by Network Time Foundation,
+Jul 18 23:27:46 homer ntpd[2474]: Inc. (NTF), a non-profit 501(c)(3) public-benefit
+Jul 18 23:27:46 homer ntpd[2474]: corporation.  Support and training for ntp-4 are
+Jul 18 23:27:46 homer ntpd[2474]: available at https://www.nwtime.org/support
+Jul 18 23:27:46 homer ntpd[2474]: ----------------------------------------------------
+Jul 18 23:27:46 homer ntpd[2809]: proto: precision = 17.600 usec (-16)
+Jul 18 23:27:46 homer ntpd[2809]: baseday_set_day: invalid day (25556), UNIX epoch substituted
+Jul 18 23:27:46 homer ntpd[2809]: basedate set to 1970-01-01
+Jul 18 23:27:46 homer ntpd[2809]: gps base set to 1980-01-06 (week 0)
+Jul 18 23:27:46 homer ntpd[2809]: Listen and drop on 0 v6wildcard [::]:123
+Jul 18 23:27:46 homer ntpd[2809]: Listen and drop on 1 v4wildcard 0.0.0.0:123
+Jul 18 23:27:46 homer ntpd[2809]: Listen normally on 2 wm0 [fe80::5054:ff:feab:9e33%1]:123
+Jul 18 23:27:46 homer ntpd[2809]: Listen normally on 3 wm0 10.10.13.1:123
+Jul 18 23:27:46 homer ntpd[2809]: Listen normally on 4 wm0 [2a00:4841:1600:8300:5831:b4be:b1f1:3a55]:123
+Jul 18 23:27:46 homer ntpd[2809]: Listen normally on 5 wm0 [fd00::154a:9d22:c1e1:87]:123
+Jul 18 23:27:46 homer ntpd[2809]: Listen normally on 6 lo0 127.0.0.1:123
+Jul 18 23:27:46 homer ntpd[2809]: Listen normally on 7 lo0 [::1]:123
+Jul 18 23:27:46 homer ntpd[2809]: Listen normally on 8 lo0 [fe80::1%2]:123
+Jul 18 23:27:46 homer ntpd[2809]: Listening on routing socket on fd #29 for interface updates
+Jul 18 23:27:47 homer ntpd[2809]: kernel reports TIME_ERROR: 0x41: Clock Unsynchronized
+Jul 18 23:27:47 homer ntpd[2809]: kernel reports TIME_ERROR: 0x41: Clock Unsynchronized
+Jul 18 23:27:47 homer ntpd[2809]: Soliciting pool server 2003:a:87f:c37c::6
+Jul 18 23:27:48 homer ntpd[2809]: Soliciting pool server 2a01:239:25e:bd00::1
+Jul 18 23:27:49 homer ntpd[2809]: Soliciting pool server 2a01:4f8:1c1c:116c::1
+Jul 18 23:27:50 homer ntpd[2809]: Soliciting pool server 2a03:4000:3b:1cd:1851:5aff:feea:45c7
+Jul 18 23:27:51 homer ntpd[2809]: Soliciting pool server 81.169.204.195
+Jul 18 23:27:52 homer ntpd[2809]: Soliciting pool server 217.145.111.106
+Jul 18 23:27:53 homer ntpd[2809]: Soliciting pool server 75.119.140.230
+Jul 18 23:27:54 homer ntpd[2809]: Soliciting pool server 161.97.164.152
+Jul 18 23:27:55 homer ntpd[2809]: Soliciting pool server 2a01:4f8:c013:4b98::1
+Jul 18 23:27:56 homer ntpd[2809]: Soliciting pool server 2a01:4f8:1c0c:44b8::2
+Jul 18 23:27:57 homer ntpd[2809]: Soliciting pool server 2a01:4f8:272:3eca::2
+Jul 18 23:27:58 homer ntpd[2809]: Soliciting pool server 2a01:4f8:c013:4a9::1
+Jul 18 23:39:14 homer ntpd[2809]: 2a01:4f8:c013:4a9::1 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 18 23:45:52 homer ntpd[2809]: 161.97.164.152 local addr 10.10.13.1 -> <null>
+Jul 18 23:51:27 homer ntpd[2809]: 2a01:4f8:1c0c:44b8::2 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 18 23:51:28 homer ntpd[2809]: 2a01:4f8:c013:4b98::1 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 18 23:51:36 homer ntpd[2809]: 2a03:4000:3b:1cd:1851:5aff:feea:45c7 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 18 23:59:18 homer ntpd[2809]: 81.169.204.195 local addr 10.10.13.1 -> <null>
+Jul 19 00:06:02 homer ntpd[2809]: 2003:a:87f:c37c::6 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 19 00:10:02 homer ntpd[2809]: Soliciting pool server 178.63.52.31
+Jul 19 00:10:03 homer ntpd[2809]: Soliciting pool server 176.9.44.212
+Jul 19 00:10:04 homer ntpd[2809]: Soliciting pool server 62.108.36.235
+Jul 19 00:10:05 homer ntpd[2809]: Soliciting pool server 194.164.164.175
+Jul 19 00:10:06 homer ntpd[2809]: Soliciting pool server 2a01:4f8:c013:4b98::1
+Jul 19 00:12:44 homer ntpd[2809]: 2a01:239:25e:bd00::1 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 19 00:12:46 homer ntpd[2809]: 2a01:4f8:1c1c:116c::1 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 19 00:21:23 homer ntpd[2809]: 2a01:4f8:272:3eca::2 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 19 01:21:36 homer ntpd[2809]: 194.164.164.175 local addr 10.10.13.1 -> <null>
+Jul 19 21:00:08 homer syslogd[1956]: restart
+Jul 20 03:00:07 homer syslogd[1956]: restart
+Jul 20 21:00:07 homer syslogd[1956]: restart
+Jul 21 21:00:07 homer syslogd[1956]: restart
+Jul 21 21:05:05 homer dhcpcd[1502]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul 21 21:05:05 homer dhcpcd[1502]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul 21 21:05:14 homer dhcpcd[1502]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul 22 21:00:07 homer syslogd[1956]: restart
+Jul 23 21:00:07 homer syslogd[1956]: restart
+Jul 24 04:00:07 homer syslogd[1956]: restart
+Jul 24 17:00:29 homer ntpd[2809]: Soliciting pool server 2a01:4f8:1c0c:44b8::2
+Jul 24 17:01:36 homer ntpd[2809]: Soliciting pool server 2a01:4f8:272:3eca::2
+Jul 24 17:02:42 homer ntpd[2809]: Soliciting pool server 2a01:4f8:c013:4a9::1
+Jul 24 17:03:49 homer ntpd[2809]: Soliciting pool server 194.164.164.175
+Jul 24 17:03:53 homer ntpd[2809]: Soliciting pool server 2a01:4f8:242:56ca::2
+Jul 24 17:04:56 homer ntpd[2809]: Soliciting pool server 2003:a:87f:c37c::7
+Jul 24 17:06:02 homer ntpd[2809]: Soliciting pool server 2a01:4f8:120:7335::2:123
+Jul 24 17:07:06 homer ntpd[2809]: Soliciting pool server 2a01:4f8:191:5044:ff00::2
+Jul 24 17:07:40 homer ntpd[2809]: no peer for too long, server running free now
+Jul 24 17:08:13 homer ntpd[2809]: Soliciting pool server 49.12.125.53
+Jul 24 17:08:14 homer ntpd[2809]: Soliciting pool server 213.209.109.45
+Jul 24 17:08:15 homer ntpd[2809]: Soliciting pool server 144.76.139.8
+Jul 24 17:08:16 homer ntpd[2809]: Soliciting pool server 2001:41d0:700:49bc::6
+Jul 24 17:18:23 homer ntpd[2809]: Soliciting pool server 2003:a:87f:c37c::7
+Jul 24 21:00:07 homer syslogd[1956]: restart
+Jul 24 22:38:25 homer ntpd[2809]: 194.164.164.175 local addr 10.10.13.1 -> <null>
+Jul 24 22:55:59 homer ntpd[2809]: 62.108.36.235 local addr 10.10.13.1 -> <null>
+Jul 25 21:00:07 homer syslogd[1956]: restart
+Jul 26 21:00:07 homer syslogd[1956]: restart
+Jul 27 21:00:06 homer syslogd[1956]: restart
+Jul 28 05:00:07 homer syslogd[1956]: restart
+Jul 28 21:00:07 homer syslogd[1956]: restart
+Jul 29 03:03:22 homer ntpd[2809]: 75.119.140.230 local addr 10.10.13.1 -> <null>
+Jul 29 03:09:11 homer ntpd[2809]: 217.145.111.106 local addr 10.10.13.1 -> <null>
+Jul 29 21:00:06 homer syslogd[1956]: restart
+Jul 29 22:15:23 homer ntpd[2809]: Soliciting pool server 2001:41d0:701:1100::6e05
+Jul 29 22:16:30 homer ntpd[2809]: Soliciting pool server 2a01:4f8:221:1acf::123
+Jul 29 22:16:39 homer dhcpcd[1502]: wm0: fe80::de39:6fff:fea2:9e78 is unreachable
+Jul 29 22:16:39 homer dhcpcd[1502]: wm0: soliciting an IPv6 router
+Jul 29 22:16:52 homer dhcpcd[1502]: wm0: no IPv6 Routers available
+Jul 29 22:16:52 homer dhcpcd[1502]: wm0: fe80::de39:6fff:fea2:9e78 is reachable again
+Jul 29 22:17:37 homer ntpd[2809]: Soliciting pool server 213.172.105.106
+Jul 29 22:17:38 homer ntpd[2809]: Soliciting pool server 131.188.3.223
+Jul 29 22:17:39 homer ntpd[2809]: Soliciting pool server 62.113.219.231
+Jul 29 22:17:40 homer ntpd[2809]: Soliciting pool server 94.130.35.4
+Jul 29 22:17:43 homer ntpd[2809]: Soliciting pool server 2003:a:87f:c37c::2
+Jul 29 22:54:06 homer ntpd[2809]: Soliciting pool server 2003:a:87f:c37c::
+Jul 30 19:10:39 homer dhcpcd[1502]: wm0: failed to renew DHCP, rebinding
+Jul 30 19:14:24 homer dhcpcd[1502]: wm0: DHCP lease expired
+Jul 30 19:14:24 homer dhcpcd[1502]: wm0: deleting route to 10.10.0.0/16
+Jul 30 19:14:24 homer dhcpcd[1502]: wm0: deleting default route via 10.10.1.1
+Jul 30 19:14:25 homer ntpd[2809]: Deleting interface #3 wm0, 10.10.13.1#123, interface stats: received=9393, sent=9611, dropped=7, active_time=1021588 secs
+Jul 30 19:14:25 homer ntpd[2809]: 94.130.35.4 local addr 10.10.13.1 -> <null>
+Jul 30 19:14:25 homer ntpd[2809]: 62.113.219.231 local addr 10.10.13.1 -> <null>
+Jul 30 19:14:25 homer ntpd[2809]: 131.188.3.223 local addr 10.10.13.1 -> <null>
+Jul 30 19:14:25 homer ntpd[2809]: 213.172.105.106 local addr 10.10.13.1 -> <null>
+Jul 30 19:14:25 homer ntpd[2809]: 144.76.139.8 local addr 10.10.13.1 -> <null>
+Jul 30 19:14:25 homer ntpd[2809]: 213.209.109.45 local addr 10.10.13.1 -> <null>
+Jul 30 19:14:25 homer ntpd[2809]: 49.12.125.53 local addr 10.10.13.1 -> <null>
+Jul 30 19:14:25 homer ntpd[2809]: 176.9.44.212 local addr 10.10.13.1 -> <null>
+Jul 30 19:14:25 homer ntpd[2809]: 178.63.52.31 local addr 10.10.13.1 -> <null>
+Jul 30 19:14:25 homer dhcpcd[1502]: wm0: soliciting a DHCP lease
+Jul 30 19:14:30 homer dhcpcd[1502]: wm0: probing for an IPv4LL address
+Jul 30 19:14:30 homer dhcpcd[1502]: wm0: using IPv4LL address 169.254.230.238
+Jul 30 19:14:37 homer dhcpcd[1502]: wm0: adding route to 169.254.0.0/16
+Jul 30 19:14:37 homer dhcpcd[1502]: wm0: adding default route
+Jul 30 19:14:39 homer ntpd[2809]: Listen normally on 9 wm0 169.254.230.238:123
+Jul 30 19:15:18 homer ntpd[2809]: Soliciting pool server 2003:a:47f:abe4::3
+Jul 30 19:15:27 homer dhcpcd[1502]: wm0: fe80::de39:6fff:fea2:9e78 is unreachable
+Jul 30 19:15:27 homer dhcpcd[1502]: wm0: soliciting an IPv6 router
+Jul 30 19:15:40 homer dhcpcd[1502]: wm0: no IPv6 Routers available
+Jul 30 19:16:24 homer ntpd[2809]: Soliciting pool server 2a01:4f8:c17:b8f::2
+Jul 30 19:17:31 homer ntpd[2809]: Soliciting pool server 94.130.184.193
+Jul 30 19:18:38 homer ntpd[2809]: Soliciting pool server 88.198.226.248
+Jul 30 19:19:41 homer ntpd[2809]: no peer for too long, server running free now
+Jul 30 19:19:44 homer ntpd[2809]: Soliciting pool server 131.188.3.220
+Jul 30 19:20:53 homer ntpd[2809]: error resolving pool 2.netbsd.pool.ntp.org: Temporary failure in name resolution (2)
+Jul 30 19:22:02 homer ntpd[2809]: error resolving pool 2.netbsd.pool.ntp.org: Temporary failure in name resolution (2)
+Jul 30 19:20:53 homer ntpd[2809]: error resolving pool 2.netbsd.pool.ntp.org: Temporary failure in name resolution (2)
+Jul 30 19:23:26 homer ntpd[2809]: 176.9.44.212 local addr 169.254.230.238 -> <null>
+Jul 30 19:23:27 homer ntpd[2809]: 213.209.109.45 local addr 169.254.230.238 -> <null>
+Jul 30 19:23:27 homer ntpd[2809]: 178.63.52.31 local addr 169.254.230.238 -> <null>
+Jul 30 19:23:29 homer ntpd[2809]: 94.130.35.4 local addr 169.254.230.238 -> <null>
+Jul 30 19:24:12 homer ntpd[2809]: error resolving pool 2.netbsd.pool.ntp.org: Temporary failure in name resolution (2)
+Jul 30 19:25:19 homer ntpd[2809]: error resolving pool 2.netbsd.pool.ntp.org: Temporary failure in name resolution (2)
+Jul 30 19:24:12 homer ntpd[2809]: error resolving pool 2.netbsd.pool.ntp.org: Temporary failure in name resolution (2)
+Jul 30 19:37:51 homer syslogd[1956]: last message repeated 10 times
+Jul 30 19:48:13 homer syslogd[1956]: last message repeated 9 times
+Jul 30 19:58:37 homer syslogd[1956]: last message repeated 10 times
+Jul 30 20:08:59 homer syslogd[1956]: last message repeated 9 times
+Jul 30 20:19:22 homer syslogd[1956]: last message repeated 10 times
+Jul 30 20:46:51 homer syslogd[1783]: restart
+Jul 30 20:46:51 homer /netbsd: [   1.0000000] Copyright (c) 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003,
+Jul 30 20:46:51 homer /netbsd: [   1.0000000]     2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013,
+Jul 30 20:46:51 homer /netbsd: [   1.0000000]     2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023,
+Jul 30 20:46:51 homer /netbsd: [   1.0000000]     2024
+Jul 30 20:46:51 homer /netbsd: [   1.0000000]     The NetBSD Foundation, Inc.  All rights reserved.
+Jul 30 20:46:51 homer /netbsd: [   1.0000000] Copyright (c) 1982, 1986, 1989, 1991, 1993
+Jul 30 20:46:51 homer /netbsd: [   1.0000000]     The Regents of the University of California.  All rights reserved.
+Jul 30 20:46:51 homer /netbsd: 
+Jul 30 20:46:51 homer /netbsd: [   1.0000000] NetBSD 10.0 (GENERIC) #0: Thu Mar 28 08:33:33 UTC 2024
+Jul 30 20:46:51 homer /netbsd: [   1.0000000] 	mkrepro@mkrepro.NetBSD.org:/usr/src/sys/arch/amd64/compile/GENERIC
+Jul 30 20:46:51 homer /netbsd: [   1.0000000] total memory = 767 MB
+Jul 30 20:46:51 homer /netbsd: [   1.0000000] avail memory = 714 MB
+Jul 30 20:46:51 homer /netbsd: [   1.0000000] timecounter: Timecounters tick every 10.000 msec
+Jul 30 20:46:51 homer /netbsd: [   1.0000000] Kernelized RAIDframe activated
+Jul 30 20:46:51 homer /netbsd: [   1.0000000] timecounter: Timecounter "i8254" frequency 1193182 Hz quality 100
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] mainbus0 (root)
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] ACPI: RSDP 0x00000000000F5890 000014 (v00 BOCHS )
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] ACPI: RSDT 0x000000002FFE1A52 000030 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] ACPI: FACP 0x000000002FFE1926 000074 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] ACPI: DSDT 0x000000002FFE0040 0018E6 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] ACPI: FACS 0x000000002FFE0000 000040
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] ACPI: APIC 0x000000002FFE199A 000090 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] ACPI: WAET 0x000000002FFE1A2A 000028 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] ACPI: 1 ACPI AML tables successfully acquired and loaded
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] ioapic0 at mainbus0 apid 0: pa 0xfec00000, version 0x11, 24 pins
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu0 at mainbus0 apid 0
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu0: Use lfence to serialize rdtsc
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu0: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu0: node 0, package 0, core 0, smt 0
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu1 at mainbus0 apid 1
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu1: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu1: node 0, package 1, core 0, smt 0
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu2 at mainbus0 apid 2
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu2: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu2: node 0, package 2, core 0, smt 0
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu3 at mainbus0 apid 3
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu3: Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz, id 0x306a9
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] cpu3: node 0, package 3, core 0, smt 0
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] acpi0 at mainbus0: Intel ACPICA 20221020
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] acpi0: X/RSDT: OemId <BOCHS ,BXPC    ,00000001>, AslId <BXPC,00000001>
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKS: ACPI: Found matching pin for 0.1.INTA at func 3: 9
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKB: ACPI: Found matching pin for 0.2.INTA at func 0: 10
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKC: ACPI: Found matching pin for 0.3.INTA at func 0: 11
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKD: ACPI: Found matching pin for 0.4.INTA at func 0: 11
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKA: ACPI: Found matching pin for 0.5.INTA at func 0: 10
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKB: ACPI: Found matching pin for 0.5.INTB at func 1: 10
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKC: ACPI: Found matching pin for 0.5.INTC at func 2: 11
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKD: ACPI: Found matching pin for 0.5.INTD at func 7: 11
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKB: ACPI: Found matching pin for 0.6.INTA at func 0: 10
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] LNKC: ACPI: Found matching pin for 0.7.INTA at func 0: 11
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] acpi0: SCI interrupting at int 9
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] acpi0: fixed power button present
+Jul 30 20:46:51 homer /netbsd: [   1.0000040] timecounter: Timecounter "ACPI-Fast" frequency 3579545 Hz quality 1000
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] qemufwcfg0 at acpi0 (FWCF, QEMU0002): io 0x510-0x51b
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] qemufwcfg0: <QEMU>
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] com0 at acpi0 (COM1, PNP0501-1): io 0x3f8-0x3ff irq 4
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] com0: ns16550a, 16-byte FIFO
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pckbc1 at acpi0 (KBD, PNP0303) (kbd port): io 0x60,0x64 irq 1
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pckbc2 at acpi0 (MOU, PNP0F13) (aux port): irq 12
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] fdc0 at acpi0 (FDC0, PNP0700): io 0x3f2-0x3f5,0x3f7 irq 6 drq 2
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] ACPI: Enabled 2 GPEs in block 00 to 0F
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pckbd0 at pckbc1 (kbd slot)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pckbc1: using irq 1 for kbd slot
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wskbd0 at pckbd0: console keyboard
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pms0 at pckbc1 (aux slot)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pckbc1: using irq 12 for aux slot
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wsmouse0 at pms0 mux 0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pci0 at mainbus0 bus 0: configuration mode 1
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pci0: i/o space, memory space enabled, rd/line, rd/mult, wr/inv ok
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pchb0 at pci0 dev 0 function 0: Intel 82441FX (PMC) PCI and Memory Controller (rev. 0x02)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pcib0 at pci0 dev 1 function 0: Intel 82371SB (PIIX3) PCI-ISA Bridge (rev. 0x00)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] piixide0 at pci0 dev 1 function 1: Intel 82371SB IDE Interface (PIIX3) (rev. 0x00)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] piixide0: bus-master DMA support present
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] piixide0: primary channel wired to compatibility mode
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] piixide0: primary channel interrupting at ioapic0 pin 14
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] atabus0 at piixide0 channel 0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] piixide0: secondary channel wired to compatibility mode
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] piixide0: secondary channel interrupting at ioapic0 pin 15
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] atabus1 at piixide0 channel 1
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] piixpm0 at pci0 dev 1 function 3: Intel 82371AB (PIIX4) Power Management Controller (rev. 0x03)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] timecounter: Timecounter "piixpm0" frequency 3579545 Hz quality 1000
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] piixpm0: 24-bit timer
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] piixpm0: interrupting at ioapic0 pin 9
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] iic0 at piixpm0 port 0: I2C bus
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] vga0 at pci0 dev 2 function 0: Red Hat QXL Video (rev. 0x05)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wsdisplay0 at vga0 kbdmux 1: console (80x25, vt100 emulation), using wskbd0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wsmux1: connecting to wsdisplay0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] drm at vga0 not configured
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wm0 at pci0 dev 3 function 0, 64-bit DMA: Intel i82540EM 1000BASE-T Ethernet (rev. 0x03)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wm0: interrupting at ioapic0 pin 11
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wm0: 32-bit 33MHz PCI bus
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wm0: 64 words (6 address bits) MicroWire EEPROM
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wm0: RX packet buffer size: 48KB
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wm0: Ethernet address 52:54:00:ab:9e:33
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wm0: 0x200002<LOCK_EECD,WOL>
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] makphy0 at wm0 phy 1: Marvell 88E1011 Gigabit PHY, rev. 0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] makphy0: Failed to access EADR. Are you an emulator?
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] makphy0: Failed to read EXTSR. Are you an emulator?. Regard as 1000BASE-T.
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] makphy0: 10baseT, 10baseT-FDX, 100baseTX, 100baseTX-FDX, 1000baseT, 1000baseT-FDX, auto
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] hdaudio0 at pci0 dev 4 function 0: HD Audio Controller
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] hdaudio0: interrupting at msi0 vec 0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] hdaudio0: HDA ver. 1.0, OSS 4, ISS 4, BSS 0, SDO 1, 64-bit
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] hdafg0 at hdaudio0: vendor 1af4 product 0022
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] hdafg0: DAC00 2ch: Speaker [Jack]
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] hdafg0: ADC01 2ch: Line In [Jack]
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] hdafg0: 2ch/2ch 16000Hz 22050Hz 32000Hz 44100Hz 48000Hz 88200Hz 96000Hz PCM16
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] audio0 at hdafg0: playback, capture, full duplex, independent
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] audio0: slinear_le:16 2ch 48000Hz, blk 1920 bytes (10ms) for playback
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] audio0: slinear_le:16 2ch 48000Hz, blk 1920 bytes (10ms) for recording
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] spkr0 at audio0: PC Speaker (synthesized)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wsbell at spkr0 not configured
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] uhci0 at pci0 dev 5 function 0: Intel 82801I USB UHCI Controller (rev. 0x03)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] uhci0: interrupting at ioapic0 pin 10
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] usb0 at uhci0: USB revision 1.0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] uhci1 at pci0 dev 5 function 1: Intel 82801I USB UHCI Controller (rev. 0x03)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] uhci1: interrupting at ioapic0 pin 10
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] usb1 at uhci1: USB revision 1.0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] uhci2 at pci0 dev 5 function 2: Intel 82801I USB UHCI Controller (rev. 0x03)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] uhci2: interrupting at ioapic0 pin 11
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] usb2 at uhci2: USB revision 1.0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] ehci0 at pci0 dev 5 function 7: Intel 82801I USB EHCI Controller (rev. 0x03)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] ehci0: 32-bit DMA
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] ehci0: interrupting at ioapic0 pin 11
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] ehci0: EHCI version 1.0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] ehci0: 3 companion controllers, 2 ports each: uhci0 uhci1 uhci2
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] ehci0: Using DMA subregion for control data structures
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] usb3 at ehci0: USB revision 2.0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] virtio0 at pci0 dev 6 function 0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] virtio0: console device (id 3, rev. 0x00)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] virtio0: autoconfiguration error: no matching child driver; not configured
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] virtio1 at pci0 dev 7 function 0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] virtio1: memory balloon device (id 5, rev. 0x00)
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] viomb0 at virtio1: features: 0x10000000<INDIRECT_DESC>
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] virtio1: allocated 8192 byte for virtqueue 0 for inflate, size 128
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] virtio1: allocated 8192 byte for virtqueue 1 for deflate, size 128
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] virtio1: interrupting at ioapic0 pin 11
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] isa0 at pcib0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] attimer0 at isa0 port 0x40-0x43
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] pcppi0 at isa0 port 0x61
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] spkr1 at pcppi0: PC Speaker
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] wsbell at spkr1 not configured
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] midi0 at pcppi0: PC speaker
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] sysbeep0 at pcppi0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] attimer0: attached to pcppi0
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] acpicpu0 at cpu0: ACPI CPU
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] acpicpu0: C1: HLT, lat   0 us, pow     0 mW
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] acpicpu1 at cpu1: ACPI CPU
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] acpicpu2 at cpu2: ACPI CPU
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] acpicpu3 at cpu3: ACPI CPU
+Jul 30 20:46:51 homer /netbsd: [   1.0536521] timecounter: Timecounter "clockinterrupt" frequency 100 Hz quality 0
+Jul 30 20:46:51 homer /netbsd: [   1.2282928] atapibus0 at atabus0: 2 targets
+Jul 30 20:46:51 homer /netbsd: [   1.2606083] uhub0 at usb2: NetBSD (0x0000) UHCI root hub (0x0000), class 9/0, rev 1.00/1.00, addr 1
+Jul 30 20:46:51 homer /netbsd: [   1.2606083] uhub0: 2 ports with 2 removable, self powered
+Jul 30 20:46:51 homer /netbsd: [   1.2606083] uhub1 at usb3: NetBSD (0x0000) EHCI root hub (0x0000), class 9/0, rev 2.00/1.00, addr 1
+Jul 30 20:46:51 homer /netbsd: [   1.2711275] uhub1: 6 ports with 6 removable, self powered
+Jul 30 20:46:51 homer /netbsd: [   1.2711275] uhub2 at usb0: NetBSD (0x0000) UHCI root hub (0x0000), class 9/0, rev 1.00/1.00, addr 1
+Jul 30 20:46:51 homer /netbsd: [   1.2885490] uhub2: 2 ports with 2 removable, self powered
+Jul 30 20:46:51 homer /netbsd: [   1.2885490] cd0 at atapibus0 drive 1: <QEMU DVD-ROM, QM00002, 2.5+> cdrom removable
+Jul 30 20:46:51 homer /netbsd: [   1.2996823] uhub3 at usb1: NetBSD (0x0000) UHCI root hub (0x0000), class 9/0, rev 1.00/1.00, addr 1
+Jul 30 20:46:51 homer /netbsd: [   1.3139531] uhub3: 2 ports with 2 removable, self powered
+Jul 30 20:46:51 homer /netbsd: [   1.3139531] cd0: 32-bit data port
+Jul 30 20:46:51 homer /netbsd: [   1.3139531] cd0: drive supports PIO mode 4, DMA mode 2, Ultra-DMA mode 5 (Ultra/100)
+Jul 30 20:46:51 homer /netbsd: [   1.3139531] wd0 at atabus0 drive 0
+Jul 30 20:46:51 homer /netbsd: [   1.3139531] wd0: <QEMU HARDDISK>
+Jul 30 20:46:51 homer /netbsd: [   1.3295738] wd0: drive supports 16-sector PIO transfers, LBA48 addressing
+Jul 30 20:46:51 homer /netbsd: [   1.3295738] wd0: 81920 MB, 166440 cyl, 16 head, 63 sec, 512 bytes/sect x 167772160 sectors
+Jul 30 20:46:51 homer /netbsd: [   1.3569264] wd0: 32-bit data port
+Jul 30 20:46:51 homer /netbsd: [   1.3569264] IPsec: Initialized Security Association Processing.
+Jul 30 20:46:51 homer /netbsd: [   1.3569264] wd0: drive supports PIO mode 4, DMA mode 2, Ultra-DMA mode 5 (Ultra/100)
+Jul 30 20:46:51 homer /netbsd: [   1.3569264] wd0(piixide0:0:0): using PIO mode 4, DMA mode 2 (using DMA)
+Jul 30 20:46:51 homer /netbsd: [   1.3569264] cd0(piixide0:0:1): using PIO mode 4, DMA mode 2 (using DMA)
+Jul 30 20:46:51 homer /netbsd: [   2.8845091] uhidev0 at uhub1 port 1 configuration 1 interface 0
+Jul 30 20:46:51 homer /netbsd: [   2.8845091] uhidev0: QEMU (0x0627) QEMU USB Tablet (0x0001), rev 2.00/0.00, addr 2, iclass 3/0
+Jul 30 20:46:51 homer /netbsd: [   2.8987827] ums0 at uhidev0: 3 buttons and Z dir
+Jul 30 20:46:51 homer /netbsd: [   2.8987827] wsmouse1 at ums0 mux 0
+Jul 30 20:46:51 homer /netbsd: [   2.9273308] swwdog0: software watchdog initialized
+Jul 30 20:46:51 homer /netbsd: [   2.9416379] WARNING: 1 error while detecting hardware; check system log.
+Jul 30 20:46:51 homer /netbsd: [   2.9416379] boot device: wd0
+Jul 30 20:46:51 homer /netbsd: [   2.9598735] root on wd0a dumps on wd0b
+Jul 30 20:46:51 homer /netbsd: [   2.9844657] root file system type: ffs
+Jul 30 20:46:51 homer /netbsd: [   3.0020341] kern.module.path=/stand/amd64/10.0/modules
+Jul 30 20:46:51 homer /netbsd: [ 818.8322978] wsdisplay0: screen 1 added (80x25, vt100 emulation)
+Jul 30 20:46:51 homer /netbsd: [ 818.8322978] wsdisplay0: screen 2 added (80x25, vt100 emulation)
+Jul 30 20:46:51 homer /netbsd: [ 818.8322978] wsdisplay0: screen 3 added (80x25, vt100 emulation)
+Jul 30 20:46:51 homer /netbsd: [ 818.8464448] wsdisplay0: screen 4 added (80x25, vt100 emulation)
+Jul 30 20:46:51 homer dhcpcd[1239]: wm0: REPLY6 received from fe80::de39:6fff:fea2:9e78
+Jul 30 20:46:51 homer dhcpcd[1239]: wm0: refresh in 86400 seconds
+Jul 30 20:46:52 homer ntpdate[1722]: sendto(node-4.infogral.is): No route to host
+Jul 30 20:46:52 homer ntpdate[1722]: sendto(s5.vonderste.in): No route to host
+Jul 30 20:46:53 homer ntpdate[1722]: sendto(185.104.163.42): No route to host
+Jul 30 20:46:53 homer ntpdate[1722]: sendto(smtp01.it-wagenbrenner.de): No route to host
+Jul 30 20:46:54 homer ntpdate[1722]: sendto(node-4.infogral.is): No route to host
+Jul 30 20:46:54 homer ntpdate[1722]: sendto(s5.vonderste.in): No route to host
+Jul 30 20:46:55 homer ntpdate[1722]: sendto(185.104.163.42): No route to host
+Jul 30 20:46:55 homer ntpdate[1722]: sendto(smtp01.it-wagenbrenner.de): No route to host
+Jul 30 20:46:56 homer ntpdate[1722]: sendto(node-4.infogral.is): No route to host
+Jul 30 20:46:56 homer ntpdate[1722]: sendto(s5.vonderste.in): No route to host
+Jul 30 20:46:57 homer ntpdate[1722]: sendto(185.104.163.42): No route to host
+Jul 30 20:46:57 homer ntpdate[1722]: sendto(smtp01.it-wagenbrenner.de): No route to host
+Jul 30 20:46:57 homer dhcpcd[1239]: wm0: leased 10.10.13.1 for 1800 seconds
+Jul 30 20:46:57 homer dhcpcd[1239]: wm0: adding route to 10.10.0.0/16
+Jul 30 20:46:57 homer dhcpcd[1239]: wm0: adding default route via 10.10.1.1
+Jul 30 20:47:01 homer ntpdate[1722]: step time server 185.104.163.42 offset +1.247383 sec
+Jul 30 20:47:02 homer savecore: no core dump
+Jul 30 20:47:03 homer ntpd[2091]: ntpd 4.2.8p15-o Thu Mar 28 08:33:33 UTC 2024 (1): Starting
+Jul 30 20:47:03 homer ntpd[2091]: Command line: /usr/sbin/ntpd -p /var/run/ntpd.pid
+Jul 30 20:47:03 homer ntpd[2091]: ----------------------------------------------------
+Jul 30 20:47:03 homer ntpd[2091]: ntp-4 is maintained by Network Time Foundation,
+Jul 30 20:47:03 homer ntpd[2091]: Inc. (NTF), a non-profit 501(c)(3) public-benefit
+Jul 30 20:47:03 homer ntpd[2091]: corporation.  Support and training for ntp-4 are
+Jul 30 20:47:03 homer ntpd[2091]: available at https://www.nwtime.org/support
+Jul 30 20:47:03 homer ntpd[2091]: ----------------------------------------------------
+Jul 30 20:47:03 homer ntpd[2780]: proto: precision = 17.320 usec (-16)
+Jul 30 20:47:03 homer ntpd[2780]: baseday_set_day: invalid day (25556), UNIX epoch substituted
+Jul 30 20:47:03 homer ntpd[2780]: basedate set to 1970-01-01
+Jul 30 20:47:03 homer ntpd[2780]: gps base set to 1980-01-06 (week 0)
+Jul 30 20:47:03 homer ntpd[2780]: Listen and drop on 0 v6wildcard [::]:123
+Jul 30 20:47:03 homer ntpd[2780]: Listen and drop on 1 v4wildcard 0.0.0.0:123
+Jul 30 20:47:03 homer ntpd[2780]: Listen normally on 2 wm0 [fe80::5054:ff:feab:9e33%1]:123
+Jul 30 20:47:03 homer ntpd[2780]: Listen normally on 3 wm0 [2a00:4841:1600:8300:5831:b4be:b1f1:3a55]:123
+Jul 30 20:47:03 homer ntpd[2780]: Listen normally on 4 wm0 [fd00::154a:9d22:c1e1:87]:123
+Jul 30 20:47:03 homer ntpd[2780]: Listen normally on 5 wm0 10.10.13.1:123
+Jul 30 20:47:03 homer ntpd[2780]: Listen normally on 6 lo0 127.0.0.1:123
+Jul 30 20:47:03 homer ntpd[2780]: Listen normally on 7 lo0 [::1]:123
+Jul 30 20:47:03 homer ntpd[2780]: Listen normally on 8 lo0 [fe80::1%2]:123
+Jul 30 20:47:03 homer ntpd[2780]: Listening on routing socket on fd #29 for interface updates
+Jul 30 20:47:03 homer ntpd[2780]: kernel reports TIME_ERROR: 0x41: Clock Unsynchronized
+Jul 30 20:47:03 homer ntpd[2780]: kernel reports TIME_ERROR: 0x41: Clock Unsynchronized
+Jul 30 20:47:04 homer ntpd[2780]: Soliciting pool server 2003:a:87f:c37c::2
+Jul 30 20:47:05 homer ntpd[2780]: Soliciting pool server 2003:a:87f:c37c::
+Jul 30 20:47:06 homer ntpd[2780]: Soliciting pool server 2003:a:47f:abe4::3
+Jul 30 20:47:07 homer ntpd[2780]: Soliciting pool server 2a01:4f8:c17:b8f::2
+Jul 30 20:47:08 homer ntpd[2780]: Soliciting pool server 213.172.105.106
+Jul 30 20:47:09 homer ntpd[2780]: Soliciting pool server 94.130.184.193
+Jul 30 20:47:10 homer ntpd[2780]: Soliciting pool server 88.198.226.248
+Jul 30 20:47:11 homer ntpd[2780]: Soliciting pool server 131.188.3.220
+Jul 30 20:47:12 homer ntpd[2780]: Soliciting pool server 2a01:4f8:c013:4b98::1
+Jul 30 20:47:13 homer ntpd[2780]: Soliciting pool server 2a02:c206:2135:1785::10
+Jul 30 20:47:14 homer ntpd[2780]: Soliciting pool server 2a03:4000:34:35::123
+Jul 30 20:47:15 homer ntpd[2780]: Soliciting pool server 2a01:239:25e:bd00::3
+Jul 30 20:57:20 homer ntpd[2780]: 2a01:4f8:c17:b8f::2 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 30 20:57:24 homer ntpd[2780]: 2a01:239:25e:bd00::3 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 30 20:58:19 homer ntpd[2780]: 2003:a:47f:abe4::3 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 30 20:58:20 homer ntpd[2780]: 2003:a:87f:c37c::2 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 30 20:58:29 homer ntpd[2780]: 2003:a:87f:c37c:: local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 30 21:00:18 homer syslogd[1783]: restart
+Jul 30 21:00:33 homer syslogd[1783]: restart
+Jul 30 21:34:59 homer ntpd[2780]: 2a03:4000:34:35::123 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 30 21:59:08 homer dhcpcd[1239]: wm0: fe80::de39:6fff:fea2:9e78 is unreachable
+Jul 30 21:59:09 homer dhcpcd[1239]: wm0: soliciting an IPv6 router
+Jul 30 21:59:25 homer dhcpcd[1239]: wm0: no IPv6 Routers available
+Jul 30 22:00:02 homer dhcpcd[1239]: wm0: fe80::de39:6fff:fea2:9e78 is reachable again
+Jul 30 23:29:20 homer ntpd[2780]: 2a01:4f8:c013:4b98::1 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 31 05:32:08 homer dhcpcd[1239]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Jul 31 05:32:08 homer dhcpcd[1239]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Jul 31 05:32:11 homer dhcpcd[1239]: wm0: adding address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Jul 31 05:32:11 homer dhcpcd[1239]: wm0: adding route to 2a00:4841:1702:a00::/64
+Jul 31 05:32:11 homer dhcpcd[1239]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Jul 31 05:32:14 homer dhcpcd[1239]: wm0: deleting address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Jul 31 05:32:14 homer dhcpcd[1239]: wm0: deleting route to 2a00:4841:1600:8300::/64
+Jul 31 05:32:16 homer ntpd[2780]: Listen normally on 9 wm0 [2a00:4841:1702:a00:ded0:7578:ee7:bc58]:123
+Jul 31 05:32:16 homer ntpd[2780]: Deleting interface #3 wm0, 2a00:4841:1600:8300:5831:b4be:b1f1:3a55#123, interface stats: received=163, sent=330, dropped=0, active_time=31512 secs
+Jul 31 05:32:16 homer ntpd[2780]: 2a02:c206:2135:1785::10 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Jul 31 21:00:18 homer syslogd[1783]: restart
+Aug  1 05:30:40 homer dhcpcd[1239]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Aug  1 05:30:40 homer dhcpcd[1239]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Aug  1 05:30:42 homer dhcpcd[1239]: wm0: adding address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Aug  1 05:30:42 homer dhcpcd[1239]: wm0: adding route to 2a00:4841:1600:8300::/64
+Aug  1 05:30:42 homer dhcpcd[1239]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Aug  1 05:30:42 homer dhcpcd[1239]: wm0: deleting address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Aug  1 05:30:42 homer dhcpcd[1239]: wm0: deleting route to 2a00:4841:1702:a00::/64
+Aug  1 05:30:43 homer ntpd[2780]: Deleting interface #9 wm0, 2a00:4841:1702:a00:ded0:7578:ee7:bc58#123, interface stats: received=31, sent=192, dropped=0, active_time=86306 secs
+Aug  1 05:30:43 homer ntpd[2780]: 2a02:c206:2135:1785::10 local addr 2a00:4841:1702:a00:ded0:7578:ee7:bc58 -> <null>
+Aug  1 05:30:45 homer ntpd[2780]: Listen normally on 10 wm0 [2a00:4841:1600:8300:5831:b4be:b1f1:3a55]:123
+Aug  1 05:30:45 homer ntpd[2780]: 2a02:c206:2135:1785::10 local addr fd00::154a:9d22:c1e1:87 -> 2a00:4841:1600:8300:5831:b4be:b1f1:3a55
+Aug  1 05:33:41 homer ntpd[2780]: Soliciting pool server 213.206.165.21
+Aug  1 05:33:42 homer ntpd[2780]: Soliciting pool server 188.34.198.77
+Aug  1 05:44:19 homer ntpd[2780]: 2a02:c206:2135:1785::10 local addr 2a00:4841:1600:8300:5831:b4be:b1f1:3a55 -> <null>
+Aug  1 07:00:18 homer syslogd[1783]: restart
+Aug  1 07:56:41 homer ntpd[2780]: 213.206.165.21 local addr 10.10.13.1 -> <null>
+Aug  1 21:00:17 homer syslogd[1783]: restart
+Aug  2 21:00:19 homer syslogd[1783]: restart
+Aug  3 21:00:18 homer syslogd[1783]: restart
+Aug  4 21:00:18 homer syslogd[1783]: restart
+Aug  5 08:00:18 homer syslogd[1783]: restart
+Aug  5 21:00:19 homer syslogd[1783]: restart
+Aug  6 21:00:18 homer syslogd[1783]: restart
+Aug  7 21:00:17 homer syslogd[1783]: restart
+Aug  8 05:21:59 homer dhcpcd[1239]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Aug  8 05:21:59 homer dhcpcd[1239]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Aug  8 05:22:01 homer dhcpcd[1239]: wm0: adding address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Aug  8 05:22:01 homer dhcpcd[1239]: wm0: adding route to 2a00:4841:1702:a00::/64
+Aug  8 05:22:01 homer dhcpcd[1239]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Aug  8 05:22:02 homer dhcpcd[1239]: wm0: deleting address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Aug  8 05:22:02 homer dhcpcd[1239]: wm0: deleting route to 2a00:4841:1600:8300::/64
+Aug  8 05:22:04 homer ntpd[2780]: Listen normally on 11 wm0 [2a00:4841:1702:a00:ded0:7578:ee7:bc58]:123
+Aug  8 05:22:04 homer ntpd[2780]: Deleting interface #10 wm0, 2a00:4841:1600:8300:5831:b4be:b1f1:3a55#123, interface stats: received=7, sent=17, dropped=0, active_time=604277 secs
+Aug  8 21:00:19 homer syslogd[1783]: restart
+Aug  9 05:20:51 homer dhcpcd[1239]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Aug  9 05:20:52 homer dhcpcd[1239]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Aug  9 05:20:54 homer dhcpcd[1239]: wm0: adding address 2a00:4841:1600:8300:5831:b4be:b1f1:3a55/64
+Aug  9 05:20:54 homer dhcpcd[1239]: wm0: adding route to 2a00:4841:1600:8300::/64
+Aug  9 05:20:54 homer dhcpcd[1239]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Aug  9 05:20:55 homer dhcpcd[1239]: wm0: deleting address 2a00:4841:1702:a00:ded0:7578:ee7:bc58/64
+Aug  9 05:20:55 homer dhcpcd[1239]: wm0: deleting route to 2a00:4841:1702:a00::/64
+Aug  9 05:20:57 homer ntpd[2780]: Listen normally on 12 wm0 [2a00:4841:1600:8300:5831:b4be:b1f1:3a55]:123
+Aug  9 05:20:57 homer ntpd[2780]: Deleting interface #11 wm0, 2a00:4841:1702:a00:ded0:7578:ee7:bc58#123, interface stats: received=0, sent=0, dropped=0, active_time=86333 secs
+Aug  9 10:00:18 homer syslogd[1783]: restart
+Aug  9 21:00:18 homer syslogd[1783]: restart
+Aug 10 21:00:18 homer syslogd[1783]: restart
+Aug 11 19:26:12 homer dhcpcd[1239]: wm0: fe80::de39:6fff:fea2:9e78: no longer a default router
+Aug 11 19:26:12 homer dhcpcd[1239]: wm0: deleting default route via fe80::de39:6fff:fea2:9e78
+Aug 11 19:26:21 homer dhcpcd[1239]: wm0: adding default route via fe80::de39:6fff:fea2:9e78
+Aug 11 21:00:19 homer syslogd[1783]: restart
