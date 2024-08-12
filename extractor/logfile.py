@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-12 18:39:26 krylon>
+# Time-stamp: <2024-08-12 19:39:35 krylon>
 #
 # /data/code/python/silo/extractor/logfile.py
 # created on 11. 08. 2024
@@ -20,6 +20,8 @@ import io
 import re
 from datetime import datetime
 from typing import Final
+
+from dateutil import parser
 
 from silo.data import Record
 from silo.extractor.base import BaseExtractor
@@ -59,6 +61,17 @@ class LogfileExtractor(BaseExtractor):
     def read(self, begin: datetime) -> list[Record]:
         """Read the log."""
         records: list[Record] = []
+        for h in self.handles:
+            for line in h:
+                m = line_pat.match(line.rstrip("\n"))
+                if m is None:
+                    continue
+                timestamp, _, source, message = m.groups()
+                r: Record = Record(
+                    timestamp=parser.parse(timestamp),
+                    source=source,
+                    message=message)
+                records.append(r)
         return records
 
 # Local Variables: #
