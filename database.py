@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-11 00:14:08 krylon>
+# Time-stamp: <2024-08-12 17:51:57 krylon>
 #
 # /data/code/python/silo/database.py
 # created on 10. 08. 2024
@@ -176,6 +176,20 @@ class Database:
                         last_contact=datetime.fromtimestamp(row[1]))
         self.log.debug("No Host with ID %d was found in database.", hid)
         return None
+
+    def host_get_all(self) -> list[Host]:
+        """Fetch all Hosts from the database."""
+        cur: sqlite3.Cursor = self.db.cursor()
+        cur.execute(db_queries[QueryID.HostGetAll])
+        hosts: list[Host] = []
+        for row in cur:
+            h: Host = Host(
+                host_id=row[0],
+                name=row[1],
+                last_contact=datetime.fromtimestamp(row[2]),
+            )
+            hosts.append(h)
+        return hosts
 
     def host_update_contact(self, h: Host) -> None:
         """Update a Host's contact timestamp."""

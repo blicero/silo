@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-11 00:04:51 krylon>
+# Time-stamp: <2024-08-12 18:00:49 krylon>
 #
 # /data/code/python/silo/test_database.py
 # created on 10. 08. 2024
@@ -24,7 +24,7 @@ from datetime import datetime
 from krylib import isdir
 
 from silo import common, database
-from silo.data import Host
+from silo.data import Host, Record
 
 TEST_ROOT: str = "/tmp"
 
@@ -87,6 +87,40 @@ class DatbaseTest(unittest.TestCase):
                     self.fail(f"Failed to add Host {c[0].name} to database: {ex}")
                 else:
                     self.assertNotEqual(c[0].host_id, 0)
+
+    def test_03_host_get(self) -> None:
+        """Test fetching the hosts we just added"""
+        db = self.__get_db()
+        hosts = db.host_get_all()
+        self.assertIsNotNone(hosts)
+        self.assertEqual(len(hosts), 3)
+        for h in hosts:
+            self.assertIsInstance(h, Host)
+
+    def test_04_record_add(self) -> None:
+        """Test adding log records."""
+        test_cases: list[tuple[Record, bool]] = [
+            (Record(
+                host_id=1,
+                timestamp=datetime.fromtimestamp(10),
+                source="kernel",
+                message="Test 01"), False),
+            (Record(
+                host_id=1,
+                timestamp=datetime.fromtimestamp(20),
+                source="kernel",
+                message="Test 02"), False),
+        ]
+
+        db = self.__get_db()
+
+        for c in test_cases:
+            try:
+                db.record_add(c[0])
+            except Exception as err:  # pylint: disable-msg=W0718
+                self.fail(f"Error adding record {c[0].message}: {err}")
+            else:
+                self.assertNotEqual(c[0].record_id, 0)
 
 # Local Variables: #
 # python-indent: 4 #
