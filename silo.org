@@ -1,5 +1,5 @@
 # -*- mode: org; fill-column: 78; -*-
-# Time-stamp: <2024-08-12 18:01:25 krylon>
+# Time-stamp: <2024-08-12 19:15:42 krylon>
 #
 #+TAGS: internals(i) ui(u) bug(b) feature(f)
 #+TAGS: database(d) design(e), meditation(m)
@@ -13,14 +13,14 @@
   aggregate view and notifications.
 ** Clock table
    #+BEGIN: clocktable :scope file :maxlevel 202 :emphasize t
-   #+CAPTION: Clock summary at [2024-08-12 Mo 18:01]
+   #+CAPTION: Clock summary at [2024-08-12 Mo 19:15]
    | Headline               | Time   |        |      |
    |------------------------+--------+--------+------|
-   | *Total time*           | *2:56* |        |      |
+   | *Total time*           | *3:27* |        |      |
    |------------------------+--------+--------+------|
-   | *Silo*                 | *2:56* |        |      |
-   | \_  /Components [0/0]/ |        | /2:56/ |      |
-   | \_    Database [0/0]   |        |        | 2:56 |
+   | *Silo*                 | *3:27* |        |      |
+   | \_  /Components [0/0]/ |        | /3:27/ |      |
+   | \_    Database [0/0]   |        |        | 3:27 |
    #+END:
 ** Features [0/0]
    :PROPERTIES:
@@ -51,6 +51,7 @@
     :VISIBILITY: children
     :END:
     :LOGBOOK:
+    CLOCK: [2024-08-12 Mo 18:44]--[2024-08-12 Mo 19:15] =>  0:31
     CLOCK: [2024-08-12 Mo 17:47]--[2024-08-12 Mo 18:01] =>  0:14
     CLOCK: [2024-08-10 Sa 22:30]--[2024-08-11 So 00:14] =>  1:44
     CLOCK: [2024-08-10 Sa 21:19]--[2024-08-10 Sa 22:17] =>  0:58
