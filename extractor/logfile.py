@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-12 19:39:35 krylon>
+# Time-stamp: <2024-08-12 20:09:43 krylon>
 #
 # /data/code/python/silo/extractor/logfile.py
 # created on 11. 08. 2024
@@ -27,7 +27,7 @@ from silo.data import Record
 from silo.extractor.base import BaseExtractor
 
 line_pat: Final[re.Pattern] = re.compile(
-    r"""^(\w{3}\s\d{1,2}\s\d{2}:\d{2}:\d{2}) \s+ # timestamp
+    r"""^(\w{3}\s+\d{1,2}\s\d{2}:\d{2}:\d{2}) \s+ # timestamp
     (\w+) \s+ # hostname
     (\w+)(?:\[\d+\])?: \s+ # source
     (.*)$""",
