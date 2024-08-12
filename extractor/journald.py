@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-10 20:37:39 krylon>
+# Time-stamp: <2024-08-12 18:18:32 krylon>
 #
 # /data/code/python/silo/extractor/journald.py
 # created on 09. 08. 2024
@@ -16,10 +16,11 @@ silo.extractor.journald
 (c) 2024 Benjamin Walkenhorst
 """
 
-from systemd.journal import Reader
+from datetime import datetime
 
-from silo.extractor.base import BaseExtractor
 from silo.data import Record
+from silo.extractor.base import BaseExtractor
+from systemd.journal import Reader
 
 
 class JournaldExtractor(BaseExtractor):
@@ -37,27 +38,17 @@ class JournaldExtractor(BaseExtractor):
     def init(self) -> None:
         """Prepare the Extractor for reading."""
 
-    def read_next(self) -> Record:
-        """Read one record from the log."""
-        raw = self.rdr.get_next()
-        rec = Record(
-            timestamp=raw["__REALTIME_TIMESTAMP"],
-            message=raw["MESSAGE"],
-            source=raw["_COMM"],
-        )
-
-        return rec
-
-    def read(self) -> list[Record]:
+    def read(self, begin: datetime) -> list[Record]:
         """Read the log."""
         l: list[Record] = []
         for raw in self.rdr:
-            rec = Record(
-                timestamp=raw["__REALTIME_TIMESTAMP"],
-                message=raw["MESSAGE"],
-                source=raw["_COMM"],
-            )
-            l.append(rec)
+            if raw["__REALTIME_TIMESTAMP"] >= begin:
+                rec = Record(
+                    timestamp=raw["__REALTIME_TIMESTAMP"],
+                    message=raw["MESSAGE"],
+                    source=raw["_COMM"],
+                )
+                l.append(rec)
         return l
 
 # Local Variables: #

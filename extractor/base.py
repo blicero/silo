@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-10 19:54:49 krylon>
+# Time-stamp: <2024-08-12 18:18:25 krylon>
 #
 # /data/code/python/silo/extractor/base.py
 # created on 09. 08. 2024
@@ -17,6 +17,7 @@ silo.base
 """
 
 from abc import ABC, abstractmethod
+from datetime import datetime
 
 from silo.data import Record
 
@@ -29,11 +30,7 @@ class BaseExtractor(ABC):
         """Open the log."""
 
     @abstractmethod
-    def read_next(self) -> Record:
-        """Read one Record from the log."""
-
-    @abstractmethod
-    def read(self) -> list[Record]:
+    def read(self, begin: datetime) -> list[Record]:
         """Read the log."""
 
     @abstractmethod

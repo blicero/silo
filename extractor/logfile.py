@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-11 01:21:54 krylon>
+# Time-stamp: <2024-08-12 18:39:26 krylon>
 #
 # /data/code/python/silo/extractor/logfile.py
 # created on 11. 08. 2024
@@ -17,8 +17,19 @@ silo.extractor.syslog
 """
 
 import io
+import re
+from datetime import datetime
+from typing import Final
 
+from silo.data import Record
 from silo.extractor.base import BaseExtractor
+
+line_pat: Final[re.Pattern] = re.compile(
+    r"""^(\w{3}\s\d{1,2}\s\d{2}:\d{2}:\d{2}) \s+ # timestamp
+    (\w+) \s+ # hostname
+    (\w+)(?:\[\d+\])?: \s+ # source
+    (.*)$""",
+    re.I | re.X)
 
 
 class LogfileExtractor(BaseExtractor):
@@ -33,6 +44,7 @@ class LogfileExtractor(BaseExtractor):
     handles: list[io.TextIOBase]
 
     def __init__(self, *files: str) -> None:
+        super().__init__()
         self.files = list(files)
         self.handles = []
 
@@ -43,6 +55,11 @@ class LogfileExtractor(BaseExtractor):
             fh = open(f, "r", encoding="utf-8")  # pylint: disable-msg=R1732
             handles.append(fh)
         self.handles = handles
+
+    def read(self, begin: datetime) -> list[Record]:
+        """Read the log."""
+        records: list[Record] = []
+        return records
 
 # Local Variables: #
 # python-indent: 4 #
