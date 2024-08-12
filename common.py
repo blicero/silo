@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-09 18:37:13 krylon>
+# Time-stamp: <2024-08-12 20:22:03 krylon>
 #
 # /data/code/python/silo/common.py
 # created on 09. 08. 2024
@@ -25,6 +25,7 @@ from threading import Lock
 APP_NAME: Final[str] = "Silo"
 APP_VERSION: Final[str] = "0.0.1"
 DEBUG: Final[bool] = True
+DEFAULT_PORT: Final[int] = 5219
 
 
 class Path:
