@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-12 17:51:57 krylon>
+# Time-stamp: <2024-08-12 18:48:33 krylon>
 #
 # /data/code/python/silo/database.py
 # created on 10. 08. 2024
@@ -67,6 +67,7 @@ class QueryID(Enum):
     RecordAdd = auto()
     RecordGetByHost = auto()
     RecordGetByPeriod = auto()
+    RecordGetMostRecentByHost = auto()
 
 
 db_queries: Final[dict[QueryID, str]] = {
@@ -90,6 +91,7 @@ db_queries: Final[dict[QueryID, str]] = {
     FROM record
     WHERE timestamp BETWEEN ? AND ?
     """,
+    QueryID.RecordGetMostRecentByHost: "SELECT MAX(timestamp) FROM record WHERE host_id = ?",
 }
 
 
@@ -235,6 +237,15 @@ class Database:
                                  message=row[4])
             results.append(rec)
         return results
+
+    def record_get_most_recent_by_host(self, host_id: int) -> Optional[datetime]:
+        """Get the most recent timestamp of any log records by the given Host."""
+        cur: sqlite3.Cursor = self.db.cursor()
+        cur.execute(db_queries[QueryID.RecordGetMostRecentByHost], (host_id, ))
+        row = cur.fetchone()
+        if row is not None:
+            return datetime.fromtimestamp(row[0])
+        return None
 
 # Local Variables: #
 # python-indent: 4 #
