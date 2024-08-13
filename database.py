@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-12 18:48:33 krylon>
+# Time-stamp: <2024-08-13 19:57:04 krylon>
 #
 # /data/code/python/silo/database.py
 # created on 10. 08. 2024
@@ -20,7 +20,7 @@ import logging
 import sqlite3
 from datetime import datetime
 from enum import Enum, auto
-from threading import Lock
+from threading import Lock, local
 from typing import Final, Optional
 
 import krylib
@@ -246,6 +246,22 @@ class Database:
         if row is not None:
             return datetime.fromtimestamp(row[0])
         return None
+
+
+class DBPool:
+    """DBPool implements a connection pool to provide per-thread database connections."""
+
+    pool: local
+
+    def __init__(self) -> None:
+        self.pool = local()
+
+    def get_db(self) -> Database:
+        try:
+            return self.pool.db
+        except AttributeError:
+            self.pool.db = Database()
+            return self.pool.db
 
 # Local Variables: #
 # python-indent: 4 #
