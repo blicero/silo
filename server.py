@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Time-stamp: <2024-08-12 21:42:53 krylon>
+# Time-stamp: <2024-08-13 20:18:51 krylon>
 #
 # /data/code/python/silo/server.py
 # created on 12. 08. 2024
@@ -16,23 +16,19 @@ silo.server
 (c) 2024 Benjamin Walkenhorst
 """
 
-import logging
-from socketserver import ThreadingTCPServer
-from threading import local
+from socketserver import StreamRequestHandler, ThreadingTCPServer
 
-from silo import common
+from silo.database import Database, DBPool
 
 
-class Server(ThreadingTCPServer):
-    """Server serves the Agents and the Frontend."""
+class RequestHandler(StreamRequestHandler):
+    """RequestHandler implements the actual protocol."""
 
-    log: logging.Logger
-    pool: local
+    pool = DBPool()
 
-    def __init__(self, *_args, **_kwargs) -> None:
-        super().__init__(*_args, **_kwargs)
-        self.log = common.get_logger("server")
-        self.pool = local()
+    def handle(self) -> None:
+        data = self.request[0].strip()
+
 
 # Local Variables: #
 # python-indent: 4 #
